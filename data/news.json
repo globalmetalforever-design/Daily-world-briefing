@@ -1,13 +1,69 @@
 {
-  "updated_at": "2026-09-30T14:58:26+00:00",
+  "updated_at": "2026-09-30T20:51:12+00:00",
   "items": [
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Execution of US murderer Christa Pike halted an hour before it was due to happen",
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "description": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T20:44+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+      "description": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T17:14+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "UK-France 'one in, one out' migrant scheme scrapped",
+      "description": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
+      "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T17:11+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "Gill hits 223 not out as India chase down Windies' record total",
+      "description": "Shubman Gill hits a career-best 223 not out as India sensationally chase down West Indies' 405-7 in the second ODI in Guwahati.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqwyz07g0e5yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T16:53+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
       "description": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
       "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T14:55+00:00"
+      "published": "2026-09-30T15:29+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Passengers describe stabbing on Israel-bound plane",
+      "description": "Passengers on the Flydubai flight bound for Israel filmed the moments following the stabbing.",
+      "link": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T15:07+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
+      "description": "The deadly fighting has also spread to neighbouring regions, stranding tourists in Lalibela.",
+      "link": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T15:04+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Greggs to shut four factories and cut 740 jobs",
+      "description": "The company says it needs to \"keep evolving alongside changing customer expectations\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T15:03+00:00"
     },
     {
       "category": "World",
@@ -44,7 +100,7 @@
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "Watch: Meet 'Backpack', the chunky bear who won Fat Bear Week",
+      "title": "Meet 'Backpack', the chunky bear who won Fat Bear Week",
       "description": "The brown bear, described by one supporter as having both the \"chonk and the badonk\", will shortly enter hibernation, which can last up to six months.",
       "link": "https://www.bbc.co.uk/news/videos/cqkg07lp9dvlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T13:51+00:00"
@@ -88,14 +144,6 @@
       "description": "The government authorises the hunting of elephants and dozens of other wild animals for independence day feasts.",
       "link": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T12:06+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Greggs to shut four factories and cut 740 jobs",
-      "description": "The company says it needs to \"keep evolving alongside changing customer expectations\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T11:47+00:00"
     },
     {
       "category": "World",
@@ -752,54 +800,6 @@
       "description": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
       "link": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-24T23:41+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "X-planes: Are they needed in the new era of drones?",
-      "description": "Where do America's X-plane projects fit in an era of cheap drones?",
-      "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T23:03+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "BBC Inside Science",
-      "description": "How do we measure time accurately and why is the rotation of the Earth causing problems?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct9786?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T20:00+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Why India's Election Commission is in the eye of a storm - again",
-      "description": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T08:26+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Indians are discovering the thrill of shopping without paying",
-      "description": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
-      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23T23:14+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "How the oil capital of the US welcomed a solar power boom",
-      "description": "Texas is now the country's biggest producer of solar-farmed electricity.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23T23:12+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Farmers' fury as race for £233m funding compared to 'scramble for Oasis tickets'",
-      "description": "Farmers fear they may not be able to carry out environmental work because they lost out on funding.",
-      "link": "https://www.bbc.co.uk/news/articles/c3pwlejxrd7do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23T09:00+00:00"
     }
   ],
   "feeds_with_errors": [
