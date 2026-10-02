@@ -1,13 +1,181 @@
 {
-  "updated_at": "2026-10-02T05:48:31+00:00",
+  "updated_at": "2026-10-02T14:47:05+00:00",
   "items": [
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "US jobs market sees sharp slowdown ahead of midterm elections",
+      "description": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T14:30+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Backshall makes nature 'cool' to inspire children",
+      "description": "Steve Backshall says growing up with rescue animals helped inspire his passion for nature.",
+      "link": "https://www.bbc.co.uk/news/articles/cjx2zk09rg36o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T14:16+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+      "description": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T14:01+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Why UK diesel prices have breached the £2 per litre mark",
+      "description": "The average price of a litre of diesel at the pump stands at an all-time high of 200.01p, according to the RAC motoring body.",
+      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T13:38+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "New free repair shop to launch in Oxford",
+      "description": "Organisers hope the initiative will attract enough interest to continue on a monthly basis.",
+      "link": "https://www.bbc.co.uk/news/articles/c574e41mg770o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T13:17+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "School protests send shivers down French government's spine",
+      "description": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
+      "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T12:43+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Diesel prices in NI at highest level since Iran war began",
+      "description": "The average price of a litre of diesel hit 193.3p this week, according to NI Consumer Council data.",
+      "link": "https://www.bbc.co.uk/news/articles/c64g7gn4v99go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T12:29+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+      "description": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
+      "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T11:52+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Sky-high fuel prices push costs up on customers and charities",
+      "description": "Growing fuel costs are leading to an increase in costs for charities and other businesses.",
+      "link": "https://www.bbc.co.uk/news/videos/cmwyv44wvre9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T11:36+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "UK diesel price hits £2 a litre as US calls for Europe to release more stocks",
+      "description": "The RAC says diesel price rises are showing no signs of slowing, \"heaping more misery\" onto drivers.",
+      "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T11:17+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
+      "description": "Restrictions are being put on products with high sugar, fat and salt content, but the meal deal lives on.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyzye21463o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T10:47+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
       "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across northern region.",
+      "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
       "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T05:42+00:00"
+      "published": "2026-10-02T10:04+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Cornell students gather to voice anger over alleged gang rape",
+      "description": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T10:00+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T09:08+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+      "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+      "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T08:54+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "How to move 1,300 plants for Kew's Palm House mega makeover",
+      "description": "The world-famous Palm House at the Royal Botanic Gardens Kew in London is about to undergo a massive makeover.",
+      "link": "https://www.bbc.co.uk/news/videos/c914d43gg2zdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T08:53+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
+      "description": "He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.",
+      "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T08:46+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Why are minimum alcohol prices going up?",
+      "description": "The minimum price of alcohol (MUP) in Wales has risen by 30%.",
+      "link": "https://www.bbc.co.uk/news/videos/cm2dwd97repyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T08:23+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "OpenAI fires workers for 'mishandling sensitive information'",
+      "description": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+      "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T08:20+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "How to see the Orionid meteor shower from Friday",
+      "description": "Friday sees the start of the Orionid meteor shower as Earth passes through debris left behind by Halley’s Comet. It peaks later in October.",
+      "link": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T07:16+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
+      "description": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T05:53+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Six years, hundreds of plants and one tree casualty - Edinburgh's Palm House returns",
+      "description": "The Palm House at Edinburgh's Botanic Garden is finally restored and ready for the public.",
+      "link": "https://www.bbc.co.uk/news/articles/cq77022kk27jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T05:53+00:00"
     },
     {
       "category": "Science",
@@ -18,26 +186,10 @@
       "published": "2026-10-02T05:37+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Lorry training firm 'riding out' record diesel price",
-      "description": "Fuel prices have been steadily rising since the US-Iran war began in February.",
-      "link": "https://www.bbc.co.uk/news/articles/cqm2m27mjpx5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T05:33+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-      "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T05:26+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
-      "description": "The Cockroach Janta Party has asked supporters to turn out for a protest in Mumbai to demand electoral reforms.",
+      "description": "Thousands of people have turned up at a protest in Mumbai called by the Cockroach Janta Party.",
       "link": "https://www.bbc.co.uk/news/articles/ck62mped4rz9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T04:25+00:00"
     },
@@ -50,14 +202,6 @@
       "published": "2026-10-02T04:21+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Move to stop charges for parents to sit by children on flights",
-      "description": "The government says sitting together can currently cost a parent and child up to £104 on a return journey.",
-      "link": "https://www.bbc.co.uk/news/articles/c3n070vxkjl9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T03:55+00:00"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
@@ -68,26 +212,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
-      "description": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
-      "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T02:49+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "What happened in the failed execution of Christa Pike - and what next?",
       "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
       "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T02:11+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "OpenAI fires workers for mishandling 'sensitive information'",
-      "description": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-      "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T01:34+00:00"
     },
     {
       "category": "World",
@@ -117,7 +245,7 @@
       "category": "World",
       "source": "BBC News",
       "title": "Spain and China are cosying up - to the anger of many in the EU",
-      "description": "Amid global tumult, the two countries alliance is not the only unlikely pairing.",
+      "description": "Amid global tumult, the two countries' alliance is not the only unlikely pairing.",
       "link": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T23:42+00:00"
     },
@@ -148,26 +276,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-      "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T22:28+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Why are these endangered moths swarming Australia's east coast?",
       "description": "The sudden influx of Bogong moths has caused a stir in cities like Sydney and Canberra, with people filming them infiltrating their homes and cars.",
       "link": "https://www.bbc.co.uk/news/videos/c6rr4r704en4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T22:26+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Six years, hundreds of plants and one tree casualty - Edinburgh's Palm House returns",
-      "description": "The Palm House at Edinburgh's Botanic Garden is finally restored and ready for the public.",
-      "link": "https://www.bbc.co.uk/news/articles/cq77022kk27jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T22:08+00:00"
     },
     {
       "category": "World",
@@ -175,6 +287,14 @@
       "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
       "description": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
       "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T20:30+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Business Daily",
+      "description": "Protests about 87-year-old Mariacarmen Abascal's eviction reignited the housing debate",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T20:30+00:00"
     },
     {
@@ -208,14 +328,6 @@
       "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
       "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T19:38+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Fires break out at French schools as students protest nationwide",
-      "description": "The French government holds a crisis meeting as demonstrations grow and become violent in places.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T19:19+00:00"
     },
     {
       "category": "Business",
@@ -258,7 +370,7 @@
       "published": "2026-10-01T16:40+00:00"
     },
     {
-      "category": "World",
+      "category": "Science",
       "source": "BBC News",
       "title": "SpaceX launches crew to ISS",
       "description": "The Falcon 9 rocket blasted off from Cape Canaveral with two Americans, a Russian and a Canadian who will spend up to six months aboard the International Space Station.",
@@ -292,14 +404,6 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "'We must keep going' says charity hit by fuel prices",
-      "description": "Both petrol and diesel prices have risen by a third or more in just the past seven months.",
-      "link": "https://www.bbc.co.uk/news/articles/cw1l6lq41gm6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T16:12+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
       "title": "Is it time to ditch premium bonds?",
       "description": "Martin Lewis says though they are the UK's most popular form of savings, not everybody benefits from them. Martin explains who premium bonds are best for, and who they aren’t so good for.",
       "link": "https://www.bbc.co.uk/news/videos/cmy5z5qx19pwo?at_medium=RSS&at_campaign=rss",
@@ -312,14 +416,6 @@
       "description": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
       "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T15:05+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-      "description": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
-      "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T15:04+00:00"
     },
     {
       "category": "World",
@@ -360,14 +456,6 @@
       "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
       "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T11:37+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "The Bottom Line",
-      "description": "How does the antiques industry work and is it accurately portrayed on television shows?",
-      "link": "https://www.bbc.co.uk/sounds/play/m00325cs?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T11:30+00:00"
     },
     {
       "category": "Technology",
@@ -538,30 +626,6 @@
       "published": "2026-09-30T13:01+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Greggs to cut 740 jobs and close factories",
-      "description": "High street bakery brand Greggs has announced plans to shut four of its factories and cut 740 jobs.",
-      "link": "https://www.bbc.co.uk/news/videos/cj4gkn1xg6ddo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T12:54+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Only 28% of nurdles 'recovered', researchers say",
-      "description": "Scientists predict that nurdles will continue to wash up on North East beaches.",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjzr4rrl8lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T12:16+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Pie shop owner gets reply from Andy Burnham",
-      "description": "Chorley businessman, Paul Bowen received a reply from Prime Minister Andy Burnham, after posting a video on social media about the closure of one of his shops due to the state of the high street.",
-      "link": "https://www.bbc.co.uk/videos/cq2dw9kykeeno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T10:29+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
@@ -576,14 +640,6 @@
       "description": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
       "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T07:27+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Orionid meteor shower to streak across night sky this week",
-      "description": "The Orionid meteor shower peaks in October as Earth passes through debris left behind by Halley’s Comet.",
-      "link": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T06:32+00:00"
     },
     {
       "category": "Technology",
@@ -608,14 +664,6 @@
       "description": "The municipality building in Baglung was left teetering on an unstable ledge due to floods before it fell into a river.",
       "link": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T03:21+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Gold beetles to Darwin's finds - the 70 million museum artefacts going online",
-      "description": "More than 70 million specimens from 100 UK collections will be put into an online digital museum",
-      "link": "https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T00:46+00:00"
     },
     {
       "category": "Technology",
@@ -672,14 +720,6 @@
       "description": "The wearable technology company had been expected to list its shares in the US.",
       "link": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T17:17+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Faisal Islam: Triple lock move is significant, but it's a gamble",
-      "description": "I had expected him to try to forge a political consensus on this thorny issue at this stage, but he has gone further than that.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T16:43+00:00"
     },
     {
       "category": "India",
@@ -760,46 +800,6 @@
       "description": "Astronomy tourism is giving young women in Hanle income, confidence and a new role in their community.",
       "link": "https://www.bbc.co.uk/news/articles/cvp8d0nezkeko?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-26T23:02+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Tech Now",
-      "description": "Ammie Sekhon explores tech used to identify and remove counterfeit products online.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-26T01:00+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-      "description": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T22:12+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-      "description": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T08:31+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
-      "description": "Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere.",
-      "link": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T23:45+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
-      "description": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
-      "link": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T23:41+00:00"
     }
   ],
   "feeds_with_errors": [
