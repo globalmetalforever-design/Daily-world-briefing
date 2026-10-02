@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-10-02T14:47:05+00:00",
+  "updated_at": "2026-10-02T20:48:03+00:00",
   "items": [
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "description": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T20:25+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+      "description": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T17:44+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Riot police clash with students as education protests rage in France",
+      "description": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
+      "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T17:43+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "What happened in the failed execution of Christa Pike - and what next?",
+      "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T17:35+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Watch: Why has UK diesel price hit an all time high?",
+      "description": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.",
+      "link": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T16:58+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+      "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T16:08+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "UK diesel prices top £2 a litre for first time, RAC says",
+      "description": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
+      "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T15:50+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+      "description": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
+      "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T15:30+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T15:26+00:00"
+    },
     {
       "category": "Business",
       "source": "BBC News",
@@ -76,34 +148,10 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "UK diesel price hits £2 a litre as US calls for Europe to release more stocks",
-      "description": "The RAC says diesel price rises are showing no signs of slowing, \"heaping more misery\" onto drivers.",
-      "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T11:17+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
       "title": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
       "description": "Restrictions are being put on products with high sugar, fat and salt content, but the meal deal lives on.",
       "link": "https://www.bbc.co.uk/news/articles/cmwyzye21463o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T10:47+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-      "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T10:04+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Cornell students gather to voice anger over alleged gang rape",
-      "description": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T10:00+00:00"
     },
     {
       "category": "World",
@@ -156,7 +204,7 @@
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "How to see the Orionid meteor shower from Friday",
+      "title": "How to see the Orionid meteor shower this weekend",
       "description": "Friday sees the start of the Orionid meteor shower as Earth passes through debris left behind by Halley’s Comet. It peaks later in October.",
       "link": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T07:16+00:00"
@@ -208,14 +256,6 @@
       "description": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
       "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T03:09+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T02:11+00:00"
     },
     {
       "category": "World",
@@ -294,7 +334,7 @@
       "source": "BBC News",
       "title": "Business Daily",
       "description": "Protests about 87-year-old Mariacarmen Abascal's eviction reignited the housing debate",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8g9w?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T20:30+00:00"
     },
     {
@@ -760,46 +800,6 @@
       "description": "The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes.",
       "link": "https://www.bbc.co.uk/news/videos/c6j9xkdvrd94o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-28T16:28+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Women protest in the streets of Delhi after string of sexual assaults",
-      "description": "BBC correspondent Azadeh Moshiri reports from Delhi, where hundreds of women are protesting.",
-      "link": "https://www.bbc.co.uk/news/videos/cm70lpg5z45go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T16:15+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
-      "description": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
-      "link": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T13:59+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "My hometown shows that high streets have to change or die",
-      "description": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
-      "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T23:05+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Why some Indian civil servants become heroes for doing their jobs",
-      "description": "In a system often marked by red tape and exhausting delays, officers seen to be following the rules get adulation.",
-      "link": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T23:01+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "The young women guiding tourists through India's night sky",
-      "description": "Astronomy tourism is giving young women in Hanle income, confidence and a new role in their community.",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8d0nezkeko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-26T23:02+00:00"
     }
   ],
   "feeds_with_errors": [
