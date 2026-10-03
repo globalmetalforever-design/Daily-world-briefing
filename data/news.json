@@ -1,37 +1,101 @@
 {
-  "updated_at": "2026-10-02T20:48:03+00:00",
+  "updated_at": "2026-10-03T05:25:17+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T04:38+00:00"
+    },
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-      "description": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T20:25+00:00"
+      "title": "Suppliers pile pressure on government over energy bills",
+      "description": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T03:47+00:00"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-      "description": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T17:44+00:00"
+      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "description": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T02:23+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Tech Now",
+      "description": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T01:00+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+      "description": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T23:56+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
+      "description": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
+      "link": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T23:37+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Women given shorts at Oktoberfest to prevent upskirting",
+      "description": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
+      "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T23:16+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+      "description": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
+      "link": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T23:06+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "The vanishing world of India's street magicians",
+      "description": "India's street performers are struggling to survive as audiences shrink and public spaces become harder to access.",
+      "link": "https://www.bbc.co.uk/news/articles/ck7v4v8pmzdeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T22:59+00:00"
     },
     {
       "category": "World",
       "source": "BBC News",
       "title": "Riot police clash with students as education protests rage in France",
-      "description": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
+      "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
       "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T17:43+00:00"
+      "published": "2026-10-02T21:13+00:00"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T17:35+00:00"
+      "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+      "description": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
+      "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T21:00+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "description": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
+      "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T20:32+00:00"
     },
     {
       "category": "Business",
@@ -72,6 +136,14 @@
       "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
       "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T15:26+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch: Why students in France are protesting",
+      "description": "Demonstrations started in the French capital, then spread across the country in the days that followed.",
+      "link": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T15:02+00:00"
     },
     {
       "category": "Business",
@@ -128,22 +200,6 @@
       "description": "The average price of a litre of diesel hit 193.3p this week, according to NI Consumer Council data.",
       "link": "https://www.bbc.co.uk/news/articles/c64g7gn4v99go?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T12:29+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-      "description": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
-      "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T11:52+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Sky-high fuel prices push costs up on customers and charities",
-      "description": "Growing fuel costs are leading to an increase in costs for charities and other businesses.",
-      "link": "https://www.bbc.co.uk/news/videos/cmwyv44wvre9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T11:36+00:00"
     },
     {
       "category": "Business",
@@ -266,14 +322,6 @@
       "published": "2026-10-02T01:29+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
-      "description": "A voter mobilisation campaign has registered huge numbers of young people but it is not clear who they are backing.",
-      "link": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T23:46+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
@@ -290,7 +338,7 @@
       "published": "2026-10-01T23:42+00:00"
     },
     {
-      "category": "World",
+      "category": "Business",
       "source": "BBC News",
       "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
       "description": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
@@ -556,14 +604,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
-      "description": "An aeroplane flying to Israel fell 17,000ft (5,200m) in less than two minutes before it was diverted.",
-      "link": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T03:52+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Japan raises permanent residency fee by 20 times",
       "description": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
       "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
@@ -650,14 +690,6 @@
       "published": "2026-09-30T14:00+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Meet '89 Backpack', the chunky bear who won Fat Bear Week",
-      "description": "The brown bear, described by one supporter as having both the \"chonk and the badonk\", will shortly enter hibernation, which can last up to six months.",
-      "link": "https://www.bbc.co.uk/news/videos/cqkg07lp9dvlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T13:51+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "WhatsApp introduces optional parental controls for teenagers",
@@ -696,14 +728,6 @@
       "description": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
       "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T04:01+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
-      "description": "The municipality building in Baglung was left teetering on an unstable ledge due to floods before it fell into a river.",
-      "link": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T03:21+00:00"
     },
     {
       "category": "Technology",
@@ -776,30 +800,6 @@
       "description": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
       "link": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T09:42+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "How an alleged rape sent an Indian university into turmoil and emptied hostels",
-      "description": "Police are trying to verify whether a female student was raped at Lovely Professional University (LPU).",
-      "link": "https://www.bbc.co.uk/news/articles/c6kg8dxrv54do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T08:12+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
-      "description": "A new anti-conversion law in Maharashtra is raising questions about faith, choice and freedom.",
-      "link": "https://www.bbc.co.uk/news/articles/cmj4jg2vxvpdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T00:50+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Watch: Starship splashdown ends in fireball",
-      "description": "The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes.",
-      "link": "https://www.bbc.co.uk/news/videos/c6j9xkdvrd94o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T16:28+00:00"
     }
   ],
   "feeds_with_errors": [
