@@ -1,13 +1,69 @@
 {
-  "updated_at": "2026-10-03T13:28:59+00:00",
+  "updated_at": "2026-10-03T19:16:37+00:00",
   "items": [
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Astronomers get permission for mini-observatory",
+      "description": "The Shropshire Astronomical Society plans to install the dome at Rodington village hall.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynpzz4q28o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T19:05+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Medical plane with 6 on board missing off Massachusetts coast",
+      "description": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T18:06+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+      "description": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T17:48+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise",
+      "description": "Wildlife cameraman Dan Abbot is caught off guard by a humpback whale, a rare sight in Welsh waters.",
+      "link": "https://www.bbc.co.uk/news/articles/c6q8jly114j8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T17:08+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
       "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
       "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
       "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T12:59+00:00"
+      "published": "2026-10-03T16:16+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T14:27+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Why has Brazil accused the US of election interference?",
+      "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T13:52+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "description": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T13:34+00:00"
     },
     {
       "category": "Science",
@@ -24,22 +80,6 @@
       "description": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
       "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-03T12:26+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Protesters across Spain demand action over housing crisis",
-      "description": "More than 50 protests are planned to take place on Saturday after the government failed to get emergency legislation through parliament.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T12:16+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T11:20+00:00"
     },
     {
       "category": "World",
@@ -200,14 +240,6 @@
       "description": "The bodycam footage also shows a police officer finding a gun in Mangione's backpack, days after the killing of UnitedHealthcare CEO Brian Thompson.",
       "link": "https://www.bbc.co.uk/news/videos/cmewelkydwwyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T20:37+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-      "description": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
-      "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T20:32+00:00"
     },
     {
       "category": "World",
@@ -588,14 +620,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
-      "description": "Chaos has surrounded the St Petersburg shows since the stadium said it had not agreed to host the rapper.",
-      "link": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T12:13+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
       "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
       "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
@@ -640,14 +664,6 @@
       "description": "Experts called it a \"special surprise\" to find an \"incredibly sparse moth\" in this habitat.",
       "link": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T05:03+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Japan raises permanent residency fee by 20 times",
-      "description": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T02:57+00:00"
     },
     {
       "category": "Science",
@@ -696,14 +712,6 @@
       "description": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
       "link": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T22:01+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Michael Sheen campaign on toxic waste sites wins Senedd backing",
-      "description": "All parties urge Welsh and UK ministers to ensure polluters pay to clean up contaminated land.",
-      "link": "https://www.bbc.co.uk/news/articles/cvrl6g6rl081o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T17:03+00:00"
     },
     {
       "category": "Business",
@@ -792,14 +800,6 @@
       "description": "The advertising watchdog said that viewers could assume from the ad that replacing all normal food with Huel was \"nutritionally appropriate\".",
       "link": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T23:06+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "How India's election chief became embroiled in a crisis of trust",
-      "description": "Praised as a tough administrator, Gyanesh Kumar now finds himself at the centre of election-related controversy.",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx575lq49xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T22:12+00:00"
     }
   ],
   "feeds_with_errors": [
