@@ -1,13 +1,69 @@
 {
-  "updated_at": "2026-10-03T23:08:07+00:00",
+  "updated_at": "2026-10-04T06:01:40+00:00",
   "items": [
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Queen's University students blast off to US for Nasa robotics competition",
+      "description": "The students will head to Florida to compete against university teams from Australia, India and the US.",
+      "link": "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T05:19+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Medical plane with 6 on board missing off Massachusetts coast",
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T04:57+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Rare tornado whips through small Australian town",
+      "description": "The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees.",
+      "link": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T04:15+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Debris found from plane that went missing off US coast",
       "description": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
       "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T21:16+00:00"
+      "published": "2026-10-04T03:49+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "description": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T03:42+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "description": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T00:11+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+      "description": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
+      "link": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T23:37+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T23:30+00:00"
     },
     {
       "category": "Science",
@@ -44,26 +100,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T14:27+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Why has Brazil accused the US of election interference?",
       "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
       "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-03T13:52+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "description": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T13:34+00:00"
     },
     {
       "category": "Science",
@@ -180,14 +220,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
-      "description": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
-      "link": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T23:56+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
       "description": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
       "link": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
@@ -274,14 +306,6 @@
       "published": "2026-10-02T15:50+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Watch: Why students in France are protesting",
-      "description": "Demonstrations started in the French capital, then spread across the country in the days that followed.",
-      "link": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T15:02+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "US jobs market sees sharp slowdown ahead of midterm elections",
@@ -354,8 +378,8 @@
       "published": "2026-10-02T08:53+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
       "description": "He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.",
       "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
@@ -490,14 +514,6 @@
       "published": "2026-10-01T20:30+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "What we know about Christa Pike’s condition after failed execution",
-      "description": "The BBC’s Ione Wells reports from outside the Tennessee hospital where Pike is said to have arrived Wednesday night after surviving two lethal injection attempts.",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8e82jgm8po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T20:09+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "BBC Inside Science",
@@ -596,14 +612,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-      "description": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T15:05+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
       "description": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
       "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
@@ -618,7 +626,7 @@
       "published": "2026-10-01T13:26+00:00"
     },
     {
-      "category": "World",
+      "category": "Technology",
       "source": "BBC News",
       "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
       "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
@@ -704,14 +712,6 @@
       "description": "Vaping is about to becoming more expensive due to a new tax on products.",
       "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T23:02+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
-      "description": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
-      "link": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T22:01+00:00"
     },
     {
       "category": "Business",
