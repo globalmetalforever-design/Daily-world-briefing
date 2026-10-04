@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-04T14:07:33+00:00",
+  "updated_at": "2026-10-04T19:41:18+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Indian police accused of sexual harassment against journalists at protest",
+      "description": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T17:01+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T16:51+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+      "description": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T16:24+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "description": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
+      "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T14:36+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+      "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+      "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T14:25+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -60,7 +100,7 @@
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "Queen's University students blast off to US for Nasa robotics competition",
+      "title": "Students blast off to US for Nasa robotics competition",
       "description": "The students will head to Florida to compete against university teams from Australia, India and the US.",
       "link": "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-04T05:19+00:00"
@@ -116,7 +156,7 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "title": "Why Canada is wargaming a (long shot) US invasion",
       "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
       "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-03T23:30+00:00"
@@ -136,14 +176,6 @@
       "description": "The Shropshire Astronomical Society plans to install the dome at Rodington village hall.",
       "link": "https://www.bbc.co.uk/news/articles/ck5ynpzz4q28o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-03T19:05+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-      "description": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T17:48+00:00"
     },
     {
       "category": "Science",
@@ -178,14 +210,6 @@
       "published": "2026-10-03T12:26+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
-      "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T10:58+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "India beat Pakistan to take Asian Games gold",
@@ -200,22 +224,6 @@
       "description": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
       "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-03T08:58+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Kim wins Asian Games gold to secure military exemption",
-      "description": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T08:51+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Joker persona helps Cong 'feel the fear' in opponents",
-      "description": "Wang Cong dismisses critics who say she is not deserving of facing Natalia Silva for the flyweight world title at UFC 332 on Saturday.",
-      "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckq5x5de46ppo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T07:07+00:00"
     },
     {
       "category": "Science",
@@ -242,7 +250,7 @@
       "published": "2026-10-03T05:27+00:00"
     },
     {
-      "category": "World",
+      "category": "Business",
       "source": "BBC News",
       "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
       "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
@@ -272,14 +280,6 @@
       "description": "India's street performers are struggling to survive as audiences shrink and public spaces become harder to access.",
       "link": "https://www.bbc.co.uk/news/articles/ck7v4v8pmzdeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T22:59+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Riot police clash with students as education protests rage in France",
-      "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-      "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T21:13+00:00"
     },
     {
       "category": "Science",
@@ -504,14 +504,6 @@
       "description": "The Falcon 9 rocket blasted off from Cape Canaveral with two Americans, a Russian and a Canadian who will spend up to six months aboard the International Space Station.",
       "link": "https://www.bbc.co.uk/news/videos/c5rm9mdperemo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T16:32+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Jagtar Singh Johal freed on bail after nine years in Indian prison",
-      "description": "The Sikh activist from Dumbarton was arrested in 2017 in connection with alleged terror offences.",
-      "link": "https://www.bbc.co.uk/news/articles/cxr50yln55rgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T16:27+00:00"
     },
     {
       "category": "Business",
@@ -800,6 +792,14 @@
       "description": "Astronomy tourism is giving young women in Hanle income, confidence and a new role in their community.",
       "link": "https://www.bbc.co.uk/news/articles/cvp8d0nezkeko?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-26T23:02+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Tech Now",
+      "description": "Ammie Sekhon explores tech used to identify and remove counterfeit products online.",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26T01:00+00:00"
     }
   ],
   "feeds_with_errors": [
