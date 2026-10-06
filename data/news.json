@@ -1,6 +1,110 @@
 {
-  "updated_at": "2026-10-06T18:27:10+00:00",
+  "updated_at": "2026-10-06T23:52:22+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "description": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+      "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T23:49+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+      "description": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
+      "link": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T23:07+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+      "description": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
+      "link": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T23:01+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor",
+      "description": "Equinor warns it may shun further investments in the UK if new oil and gas fields at Rosebank and Jackdaw are not approved.",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T23:01+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Froyo's made a comeback. But at £12 a tub will it last?",
+      "description": "Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has made its return with multiple chains popping up across the wider UK.",
+      "link": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T23:01+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
+      "description": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
+      "link": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T22:17+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
+      "description": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
+      "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T21:22+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+      "description": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
+      "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T20:18+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "description": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T20:15+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Tech Life",
+      "description": "What is a supercomputer for? How does it work? And who gets to use it? We explain all.",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T19:30+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "What can I do to protect myself after 'Asos hacked' message?",
+      "description": "Asos says people should not engage with the unauthorised notification and says it'll provide further information.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T19:17+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Amazon wins global rights to stream Emmys in six-year deal",
+      "description": "The gala is leaving traditional US broadcast networks for live worldwide streaming.",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T19:08+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+      "description": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
+      "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T18:42+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -8,6 +112,14 @@
       "description": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
       "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T18:05+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "description": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
+      "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T18:03+00:00"
     },
     {
       "category": "Technology",
@@ -34,7 +146,7 @@
       "published": "2026-10-06T17:31+00:00"
     },
     {
-      "category": "Technology",
+      "category": "World",
       "source": "BBC News",
       "title": "Finland orders halt to work on two Google data centres",
       "description": "The order affecting two planned data centres follows concerns over forest clearance.",
@@ -52,34 +164,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "description": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T16:22+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Kenya confirms its first Ebola death as outbreak spreads",
       "description": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
       "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T16:02+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-      "description": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
-      "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T16:01+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Watch: At the scene of student protests in Lille",
-      "description": "The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France.",
-      "link": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T15:02+00:00"
     },
     {
       "category": "World",
@@ -112,14 +200,6 @@
       "description": "Jim Bakker co-founded The PTL Club with his then-wife Tammy Faye before being jailed for fraud and conspiracy.",
       "link": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T13:31+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-      "description": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
-      "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T13:00+00:00"
     },
     {
       "category": "World",
@@ -234,14 +314,6 @@
       "published": "2026-10-06T07:43+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Children brave snipers and mortars to go to school near Yemen front line",
-      "description": "In rare access to Taiz, the BBC World Service speaks to children, teachers and families affected by the war.",
-      "link": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T07:23+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Lego fraudster among last year's most high-profile insurance scammers",
@@ -336,14 +408,6 @@
       "description": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
       "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T23:13+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
-      "description": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
-      "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T22:28+00:00"
     },
     {
       "category": "Business",
@@ -562,22 +626,6 @@
       "published": "2026-10-02T14:30+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Why UK diesel prices have breached the £2 per litre mark",
-      "description": "The average price of a litre of diesel at the pump stands at an all-time high of 200.01p, according to the RAC motoring body.",
-      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T13:38+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
-      "description": "Restrictions are being put on products with high sugar, fat and salt content, but the meal deal lives on.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyzye21463o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T10:47+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
@@ -632,30 +680,6 @@
       "description": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
       "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T23:45+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-      "description": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
-      "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T23:32+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
-      "description": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
-      "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T23:00+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
-      "description": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
-      "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T23:00+00:00"
     },
     {
       "category": "Business",
@@ -724,14 +748,6 @@
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "The rare Bog Grass Moth found in nature reserve for first time",
-      "description": "Experts called it a \"special surprise\" to find an \"incredibly sparse moth\" in this habitat.",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T05:03+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
       "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
       "description": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
       "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
@@ -754,7 +770,7 @@
       "published": "2026-09-30T23:10+00:00"
     },
     {
-      "category": "Technology",
+      "category": "Business",
       "source": "BBC News",
       "title": "The AI telling farmers when to harvest",
       "description": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
@@ -784,22 +800,6 @@
       "description": "Praised as a tough administrator, Gyanesh Kumar now finds himself at the centre of election-related controversy.",
       "link": "https://www.bbc.co.uk/news/articles/cmdx575lq49xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T22:12+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Tech Life",
-      "description": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T19:30+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "The race to crown the 'fattest dog of Delhi'",
-      "description": "The contest to crown the Indian capital's \"chonkiest\" dog has attracted thousands of votes.",
-      "link": "https://www.bbc.co.uk/news/articles/cry4z98ew89wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T11:06+00:00"
     }
   ],
   "feeds_with_errors": [
