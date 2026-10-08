@@ -1,13 +1,149 @@
 {
-  "updated_at": "2026-10-08T15:41:46+00:00",
+  "updated_at": "2026-10-08T21:22:46+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
+      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T20:38+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "BBC Inside Science",
+      "description": "What next for the world of maths after a major intrusion by AI?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T20:00+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "White House blocks Microsoft from foreign worker hiring program",
+      "description": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T19:57+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
+      "description": "BBC Weather's Chris Fawkes says the first hurricane of the 2026 Atlantic season could bring dangerous winds, storm surge and heavy rains to the Gulf Coast Friday.",
+      "link": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T19:39+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "description": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+      "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T19:10+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "How soon into dating do you talk about your salary?",
+      "description": "You've met someone and it's going well so far. But bringing up how much you both earn can be a tricky conversation.",
+      "link": "https://www.bbc.co.uk/news/videos/cry4x353vz2eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T18:26+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T18:17+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "More than 800,000 hours of sewage spills in Wales last year, report claims",
+      "description": "It is equivalent to a sewage discharge happening every five minutes, according to campaigners.",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy74e8nyggo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T18:05+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
+      "description": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
+      "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T17:58+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "description": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+      "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T17:38+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
+      "description": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T17:16+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "First Hurricane of the Atlantic season due to hit the Gulf coast",
+      "description": "El Niño has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern USA.",
+      "link": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T17:15+00:00"
+    },
     {
       "category": "Business",
       "source": "BBC News",
       "title": "Plans to shut Marston's Brewery in Burton revealed",
       "description": "Burton-upon-Trent's links with beer and brewing date back centuries.",
       "link": "https://www.bbc.co.uk/news/articles/ck8dzq095lj3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T15:22+00:00"
+      "published": "2026-10-08T17:09+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Residents win Curo service charge legal battle",
+      "description": "People living in a block of flats take their landlord to tribunal over a 300 per cent increase.",
+      "link": "https://www.bbc.co.uk/news/articles/cjx236dk9l13o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T16:39+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "description": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+      "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T16:31+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Asos hackers took more personal details than first revealed, BBC finds",
+      "description": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
+      "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T16:29+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Zambia signs US health deal after disputes over data-sharing",
+      "description": "The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding.",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T16:24+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+      "description": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
+      "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T16:23+00:00"
     },
     {
       "category": "World",
@@ -24,14 +160,6 @@
       "description": "Plans for more trains would “likely increase delays and cancelled trains\", the rail regulator says.",
       "link": "https://www.bbc.co.uk/news/articles/cm3wve9l057vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T15:15+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-      "description": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
-      "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T15:07+00:00"
     },
     {
       "category": "World",
@@ -56,14 +184,6 @@
       "description": "The distinctive Manhattan skyscraper will undergo a major renovation and provide a new supply of offices.",
       "link": "https://www.bbc.co.uk/news/articles/c8g47z3r4dzvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T12:49+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "description": "Ukraine accused Russia of targeting the crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
-      "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T12:43+00:00"
     },
     {
       "category": "World",
@@ -106,14 +226,6 @@
       "published": "2026-10-08T11:52+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "First Hurricane of the Atlantic season due to hit the Gulf coast",
-      "description": "El Niño has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern USA.",
-      "link": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T11:35+00:00"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "Residents airlifted to safety after flooding in central Chile",
@@ -130,14 +242,6 @@
       "published": "2026-10-08T11:30+00:00"
     },
     {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Asos hackers took more personal details than first revealed, BBC finds",
-      "description": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
-      "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T11:01+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "More controls possible as reservoir level drops",
@@ -152,14 +256,6 @@
       "description": "It is the first time a tree in Northern Ireland has won the national title since it was launched in 2014.",
       "link": "https://www.bbc.co.uk/news/articles/c69wzr9qr7qro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T10:32+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-      "description": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
-      "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T09:56+00:00"
     },
     {
       "category": "World",
@@ -268,26 +364,10 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "Funding to help more people access healthy food",
-      "description": "Local authorities in Hull and Lincolnshire have each been given £220,000.",
-      "link": "https://www.bbc.co.uk/news/articles/c9zrd7k38k8lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T05:00+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
       "title": "'Come all the way' back to EU, French finance minister tells UK",
       "description": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
       "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T04:02+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Outspoken Indian actor Nana Patekar suddenly dies at 75",
-      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T03:41+00:00"
     },
     {
       "category": "World",
@@ -436,14 +516,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "description": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T19:30+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
       "description": "Residents of Adigrat tell the BBC they have seen truck loads of soldiers from Eritrea moving south.",
       "link": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
@@ -456,14 +528,6 @@
       "description": "The sale of the High Street chain was announced on Wednesday.",
       "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T17:18+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "No child should have to learn in a cold classroom - children's commissioner",
-      "description": "The EA suggests cost-saving measures as it warns school gas and electricity bills are set to rise.",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k08nnz07go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T17:15+00:00"
     },
     {
       "category": "World",
@@ -596,14 +660,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
-      "description": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
-      "link": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T22:17+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Watch: Riot police clash with school protesters and use tear gas in France",
       "description": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
       "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
@@ -698,22 +754,6 @@
       "published": "2026-10-05T14:36+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Why are data centres such a big deal in Scotland?",
-      "description": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners.",
-      "link": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T10:04+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Trump chooses top spy boss to run new AI taskforce",
-      "description": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T10:03+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "How much is your salary?",
@@ -760,46 +800,6 @@
       "description": "India's street performers are struggling to survive as audiences shrink and public spaces become harder to access.",
       "link": "https://www.bbc.co.uk/news/articles/ck7v4v8pmzdeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T22:59+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Watch: Why has UK diesel price hit an all time high?",
-      "description": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.",
-      "link": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T16:58+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T09:08+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "How to move 1,300 plants for Kew's Palm House mega makeover",
-      "description": "The world-famous Palm House at the Royal Botanic Gardens Kew in London is about to undergo a massive makeover.",
-      "link": "https://www.bbc.co.uk/news/videos/c914d43gg2zdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T08:53+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
-      "description": "He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.",
-      "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T08:46+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "BBC Inside Science",
-      "description": "What are the next steps for the world's largest and most powerful particle accelerator?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct9787?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T20:00+00:00"
     }
   ],
   "feeds_with_errors": [
