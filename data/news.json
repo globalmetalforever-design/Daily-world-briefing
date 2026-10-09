@@ -1,6 +1,150 @@
 {
-  "updated_at": "2026-10-09T15:21:17+00:00",
+  "updated_at": "2026-10-09T20:58:50+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T20:42+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T20:32+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Commentator Katie Zacharia picked as new White House press secretary",
+      "description": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
+      "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T19:58+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Thai Queen makes first solo flight in fighter jet",
+      "description": "Thailand’s Queen Suthida made her first solo flight in a fighter jet, according to the Thai Royal Household.",
+      "link": "https://www.bbc.co.uk/news/videos/cqm263x40y37o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T19:48+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+      "description": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
+      "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T19:39+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+      "description": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
+      "link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T19:32+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "'People don't think recycling at work is part of their job description'",
+      "description": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8rn65yj2ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T19:11+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+      "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T18:40+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "description": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T17:37+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US immigration officials defend ICE agents who shot man in same car as child",
+      "description": "Oscar Bergal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
+      "link": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T17:36+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+      "description": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
+      "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T17:14+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Isaias becomes major category three storm before landfall",
+      "description": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
+      "link": "https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T16:46+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Man named Hitler Mussolini elected mayor in Peru",
+      "description": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T16:32+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
+      "description": "Protests against sexual violence took place across more than 40 US states on 8 October.",
+      "link": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T16:19+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Burnham promises to curb non-compete rules in job contracts",
+      "description": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
+      "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T16:15+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+      "description": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
+      "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T15:32+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
+      "description": "BBC correspondent Joe Inwood explains how Pillay's childhood in South Africa led her to become a driving force in international law from Myanmar to Gaza.",
+      "link": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T15:26+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+      "description": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T15:24+00:00"
+    },
     {
       "category": "Business",
       "source": "BBC News",
@@ -28,34 +172,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-      "description": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T14:00+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
       "description": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
       "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T13:50+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-      "description": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T13:31+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Burnham promises to curb non-compete rules in job contracts",
-      "description": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
-      "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T13:02+00:00"
     },
     {
       "category": "Science",
@@ -80,22 +200,6 @@
       "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
       "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T12:34+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Firing squad execution to be livestreamed, Pentagon says",
-      "description": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T12:24+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "ICE agent shoots man in New York City",
-      "description": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
-      "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T12:18+00:00"
     },
     {
       "category": "World",
@@ -258,14 +362,6 @@
       "published": "2026-10-09T05:00+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-      "description": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
-      "link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T04:55+00:00"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
@@ -338,14 +434,6 @@
       "published": "2026-10-08T23:01+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "​​USS Lincoln finally docks in San Diego after 10-month mission",
-      "description": "The US aircraft carrier was set to return in May but the war with Iran has kept it at sea on one of the longest deployments ever.",
-      "link": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T22:26+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "White House blocks Microsoft from foreign worker hiring programme",
@@ -354,8 +442,8 @@
       "published": "2026-10-08T21:37+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
       "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
       "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
@@ -402,22 +490,6 @@
       "published": "2026-10-08T18:05+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-      "description": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
-      "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T17:38+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
-      "description": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T17:16+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Plans to shut Marston's Brewery in Burton revealed",
@@ -434,44 +506,12 @@
       "published": "2026-10-08T16:29+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Zambia signs US health deal after disputes over data-sharing",
-      "description": "The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding.",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T16:24+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-      "description": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
-      "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T16:23+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Bid to run new trains on West Coast Mainline refused",
       "description": "Plans for more trains would “likely increase delays and cancelled trains\", the rail regulator says.",
       "link": "https://www.bbc.co.uk/news/articles/cm3wve9l057vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T15:15+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-      "description": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T14:33+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
-      "description": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
-      "link": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T14:10+00:00"
     },
     {
       "category": "Business",
@@ -482,14 +522,6 @@
       "published": "2026-10-08T12:49+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-      "description": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T12:32+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Derry firm becomes one of UK's biggest car park operators after buying NCP",
@@ -498,31 +530,7 @@
       "published": "2026-10-08T12:20+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
-      "description": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
-      "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T12:11+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
-      "description": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
-      "link": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T12:04+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
-      "description": "The consulate, first established in 1838, was set to be closed by the Israeli government in retaliation for UK sanctions.",
-      "link": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T12:01+00:00"
-    },
-    {
-      "category": "World",
+      "category": "Science",
       "source": "BBC News",
       "title": "Residents airlifted to safety after flooding in central Chile",
       "description": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
@@ -536,14 +544,6 @@
       "description": "More water usage restrictions may be introduced as Wimbleball reservoir drops to just 18% full.",
       "link": "https://www.bbc.co.uk/news/videos/cwnv03ee025do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T10:52+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "The bendy elm crowned UK Tree of the Year",
-      "description": "It is the first time a tree in Northern Ireland has won the national title since it was launched in 2014.",
-      "link": "https://www.bbc.co.uk/news/articles/c69wzr9qr7qro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T10:32+00:00"
     },
     {
       "category": "Business",
@@ -592,14 +592,6 @@
       "description": "Prof David Bailey says there is a lot riding on the Type 01 in terms of jobs and investment.",
       "link": "https://www.bbc.co.uk/news/articles/cwvgrx5ner6go?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T05:08+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "UK bluefin tuna comeback shows nature can recover, says WWF",
-      "description": "The tuna is one of several wildlife recoveries highlighted in a major new report from WWF.",
-      "link": "https://www.bbc.co.uk/news/articles/c5rmyzgdjzkwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T05:00+00:00"
     },
     {
       "category": "Business",
@@ -730,14 +722,6 @@
       "published": "2026-10-06T19:30+00:00"
     },
     {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
-      "description": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
-      "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T17:50+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "Five reasons India's stock market is sinking even when its economy is growing",
@@ -800,6 +784,22 @@
       "description": "What are the next steps for the world's largest and most powerful particle accelerator?",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct9787?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T20:00+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "description": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T00:08+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "Inside India's forest villages, where a dangerous mix of crises led to 32 child deaths",
+      "description": "At least 32 children have died in India's Balaghat district since May amid outbreaks of measles and malaria.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T23:41+00:00"
     }
   ],
   "feeds_with_errors": [
