@@ -1,8 +1,80 @@
 {
-  "updated_at": "2026-10-10T14:30:34+00:00",
+  "updated_at": "2026-10-10T20:08:13+00:00",
   "items": [
     {
       "category": "World",
+      "source": "BBC News",
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T19:28+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T19:08+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Several injured in attack on airport in Saudi capital Riyadh",
+      "description": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T18:37+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "description": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T18:22+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T17:44+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "King warns malicious online actors are evolving tactics",
+      "description": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
+      "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T15:56+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "description": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T15:23+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Woman injures three people in third Poland school knife attack in a week",
+      "description": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T14:58+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "description": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T14:49+00:00"
+    },
+    {
+      "category": "Business",
       "source": "BBC News",
       "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
@@ -29,7 +101,7 @@
       "category": "World",
       "source": "BBC News",
       "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "description": "Tens of thousands of security personnel were deployed and roads barricaded ahead of the demonstration.",
+      "description": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
       "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T12:29+00:00"
     },
@@ -132,14 +204,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
-      "description": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
-      "link": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T04:07+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "US country music star Ella Langley cancels show due to 'security threat'",
       "description": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
       "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
@@ -180,14 +244,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Commentator Katie Zacharia picked as new White House press secretary",
-      "description": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
-      "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T22:41+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
       "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
       "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
@@ -208,14 +264,6 @@
       "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
       "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T21:50+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-      "description": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
-      "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T21:26+00:00"
     },
     {
       "category": "World",
@@ -248,14 +296,6 @@
       "description": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue.",
       "link": "https://www.bbc.co.uk/news/articles/cqe8rn65yj2ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T19:11+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-      "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T18:40+00:00"
     },
     {
       "category": "World",
@@ -498,14 +538,6 @@
       "published": "2026-10-08T23:05+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Will El Niño and the polar vortex bring snow to the UK this winter?",
-      "description": "The developing El Niño may impact the UK's weather prospects this autumn and winter but cold conditions are far from guaranteed.",
-      "link": "https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T23:03+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Business Daily",
@@ -698,14 +730,6 @@
       "published": "2026-10-07T23:00+00:00"
     },
     {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-      "description": "The research found that important guardrails for teens using ChatGPT often failed.",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T20:34+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "World's largest penguin colony hit by 'alarming' decline in numbers",
@@ -776,30 +800,6 @@
       "description": "India's street performers are struggling to survive as audiences shrink and public spaces become harder to access.",
       "link": "https://www.bbc.co.uk/news/articles/ck7v4v8pmzdeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T22:59+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "How to move 1,300 plants for Kew's Palm House mega makeover",
-      "description": "The world-famous Palm House at the Royal Botanic Gardens Kew in London is about to undergo a massive makeover.",
-      "link": "https://www.bbc.co.uk/news/videos/c914d43gg2zdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T08:53+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
-      "description": "He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.",
-      "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T08:46+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "BBC Inside Science",
-      "description": "What are the next steps for the world's largest and most powerful particle accelerator?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct9787?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T20:00+00:00"
     }
   ],
   "feeds_with_errors": [
