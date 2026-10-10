@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-10T20:08:13+00:00",
+  "updated_at": "2026-10-10T23:37:47+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T23:19+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "description": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T22:40+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T20:51+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -12,18 +36,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
-      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T19:08+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
-      "description": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
-      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T18:37+00:00"
+      "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+      "description": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\".",
+      "link": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T19:25+00:00"
     },
     {
       "category": "World",
@@ -80,14 +96,6 @@
       "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T14:24+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-      "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T14:16+00:00"
     },
     {
       "category": "Science",
@@ -322,14 +330,6 @@
       "published": "2026-10-09T16:32+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Tornado rips through Sicilian town and city",
-      "description": "Dramatic footage shows huge tornado moving through Marsala and Petrosino, causing damage to buildings and cars.",
-      "link": "https://www.bbc.co.uk/news/videos/cm4g1wwl0lxko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T16:25+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Burnham promises to curb non-compete rules in job contracts",
@@ -408,14 +408,6 @@
       "description": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T09:43+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Why is it so hard to put out Indonesian fires shrouding the region in toxic smog?",
-      "description": "We explain why Indonesia’s peatland fires are so difficult to battle and produce so much haze.",
-      "link": "https://www.bbc.co.uk/news/videos/c862y63x657no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T09:37+00:00"
     },
     {
       "category": "Business",
@@ -800,6 +792,14 @@
       "description": "India's street performers are struggling to survive as audiences shrink and public spaces become harder to access.",
       "link": "https://www.bbc.co.uk/news/articles/ck7v4v8pmzdeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T22:59+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "How to move 1,300 plants for Kew's Palm House mega makeover",
+      "description": "The world-famous Palm House at the Royal Botanic Gardens Kew in London is about to undergo a massive makeover.",
+      "link": "https://www.bbc.co.uk/news/videos/c914d43gg2zdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T08:53+00:00"
     }
   ],
   "feeds_with_errors": [
