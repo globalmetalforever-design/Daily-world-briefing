@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-10-11T14:57:11+00:00",
+  "updated_at": "2026-10-11T20:21:43+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "description": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T19:08+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "description": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T17:27+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Citroen revives the 2CV for an electric age",
+      "description": "The French firm is reinventing the classic model as carmakers come under pressure from Chinese rivals.",
+      "link": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T17:00+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Saudi capital airport hit by second Houthi strike in two days",
+      "description": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T16:41+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "description": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T15:32+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+      "description": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T15:32+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "description": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+      "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T15:18+00:00"
+    },
     {
       "category": "Science",
       "source": "BBC News",
@@ -28,26 +84,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
-      "description": "The boat was travelling from Djibouti to Yemen with 350 people on board, when it capsized near the port town of Obock on Thursday night.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T12:08+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Homes and bridges swept away as fresh floods hit Nepal",
       "description": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
       "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-11T12:03+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Riyadh airport attack another dangerous moment in already tense conflict",
-      "description": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T11:32+00:00"
     },
     {
       "category": "World",
@@ -124,14 +164,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-      "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T20:51+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
       "description": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\".",
       "link": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
@@ -176,14 +208,6 @@
       "description": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
       "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T14:58+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "description": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T14:49+00:00"
     },
     {
       "category": "Business",
@@ -238,11 +262,11 @@
       "source": "BBC News",
       "title": "Money Box",
       "description": "What age will you get your state pension?",
-      "link": "https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T11:30+00:00"
     },
     {
-      "category": "World",
+      "category": "Technology",
       "source": "BBC News",
       "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
       "description": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
@@ -306,44 +330,12 @@
       "published": "2026-10-10T04:51+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-      "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
-      "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T04:34+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US country music star Ella Langley cancels show due to 'security threat'",
-      "description": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T02:02+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Tech Now",
       "description": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
       "link": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T01:00+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Questions remain over Ebola patient who travelled across three nations undetected",
-      "description": "Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill.",
-      "link": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T00:00+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
-      "description": "Students taking to the streets have become a focal point in the country's increasingly polarised politics.",
-      "link": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T23:24+00:00"
     },
     {
       "category": "Business",
@@ -354,28 +346,12 @@
       "published": "2026-10-09T23:01+00:00"
     },
     {
-      "category": "World",
+      "category": "Business",
       "source": "BBC News",
       "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
       "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
       "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T22:30+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-      "description": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T21:55+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
-      "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
-      "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T21:50+00:00"
     },
     {
       "category": "World",
@@ -410,28 +386,12 @@
       "published": "2026-10-09T19:11+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-      "description": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T17:14+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "Isaias becomes major category three storm before landfall",
       "description": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
       "link": "https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T16:46+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Man named Hitler Mussolini elected mayor in Peru",
-      "description": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
-      "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T16:32+00:00"
     },
     {
       "category": "Business",
@@ -498,14 +458,6 @@
       "published": "2026-10-09T10:07+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-      "description": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T09:43+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "I've been with my boyfriend for two years and don't know his salary",
@@ -530,8 +482,8 @@
       "published": "2026-10-09T08:23+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "Meet India's feisty Gen Z protester who is taking on Modi",
       "description": "Neha Bora has emerged as one of the most recognisable faces from India's recent Gen Z-led protests.",
       "link": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
@@ -576,14 +528,6 @@
       "description": "Car maker Longbow, which hopes to build thousands of cars, says the region has the talent and know-how.",
       "link": "https://www.bbc.co.uk/news/articles/cmx2q7rlxxw8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T05:11+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "£15m spent cleaning illegal waste supersite in ancient woodland",
-      "description": "Concerns remain over the ancient Kent woodland's future after 39,500 tonnes of rubbish were cleared.",
-      "link": "https://www.bbc.co.uk/news/articles/cq98zdp612pko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T05:00+00:00"
     },
     {
       "category": "Business",
@@ -740,14 +684,6 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "New electric car 'make or break for Jaguar'",
-      "description": "Prof David Bailey says there is a lot riding on the Type 01 in terms of jobs and investment.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgrx5ner6go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T05:08+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
       "title": "'Come all the way' back to EU, French finance minister tells UK",
       "description": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
       "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
@@ -800,6 +736,70 @@
       "description": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
       "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T23:00+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "World's largest penguin colony hit by 'alarming' decline in numbers",
+      "description": "Climate change is blamed for dramatic decline of chinstrap penguins living on a remote volcanic island.",
+      "link": "https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T15:00+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Rainmakers: The drones used to seed clouds",
+      "description": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
+      "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T07:09+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+      "description": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
+      "link": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T23:07+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Tech Life",
+      "description": "What is a supercomputer for? How does it work? And who gets to use it? We explain all",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T19:30+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "Five reasons India's stock market is sinking even when its economy is growing",
+      "description": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T23:13+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "How India became dangerously addicted to Chinese imports",
+      "description": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
+      "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T01:42+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Tech Now",
+      "description": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T01:00+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "The vanishing world of India's street magicians",
+      "description": "India's street performers are struggling to survive as audiences shrink and public spaces become harder to access.",
+      "link": "https://www.bbc.co.uk/news/articles/ck7v4v8pmzdeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T22:59+00:00"
     }
   ],
   "feeds_with_errors": [
