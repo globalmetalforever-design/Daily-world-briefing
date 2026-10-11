@@ -1,21 +1,101 @@
 {
-  "updated_at": "2026-10-11T05:56:47+00:00",
+  "updated_at": "2026-10-11T14:57:11+00:00",
   "items": [
     {
-      "category": "World",
+      "category": "Science",
       "source": "BBC News",
-      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-      "description": "Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike.",
-      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T03:57+00:00"
+      "title": "Owners fear 'healthy' dog died due to orange substance exposure on contaminated land",
+      "description": "Donna and Pete O'Brien say Misty's health declined after a walk.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2z2xx0k2lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T14:48+00:00"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T01:41+00:00"
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T14:38+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "description": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T13:38+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+      "description": "The boat was travelling from Djibouti to Yemen with 350 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T12:08+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Homes and bridges swept away as fresh floods hit Nepal",
+      "description": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
+      "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T12:03+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+      "description": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T11:32+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+      "description": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T11:11+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Buildings swept away as flash floods hit central Nepal",
+      "description": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.",
+      "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T10:34+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Council exceeds Surrey tree planting target",
+      "description": "A report finds some 885,000 trees have been planted, but there are concerns over survival rates.",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1wy331pdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T07:04+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "'I watched Apollo 17 launch with Neil Armstrong'",
+      "description": "Dermot Gethings was 16 when Nasa picked him to watch the Apollo 17 launch alongside Neil Armstrong.",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd86nglrggo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T06:32+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Charities and businesses wrestle with diesel cost",
+      "description": "Cancer charity Daft as a Brush and Teesside Minibus Hire say they are struggling with pump prices.",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vn4dzz08o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T06:23+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T05:05+00:00"
     },
     {
       "category": "World",
@@ -26,7 +106,7 @@
       "published": "2026-10-10T23:31+00:00"
     },
     {
-      "category": "World",
+      "category": "Science",
       "source": "BBC News",
       "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
       "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
@@ -130,8 +210,8 @@
       "published": "2026-10-10T13:40+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
       "description": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
       "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
@@ -482,14 +562,6 @@
       "published": "2026-10-09T06:42+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Data centre raises noise and wildlife impact fears",
-      "description": "The data centre, which will have 72 chiller units on its roof, will generate 150 jobs, planners hear.",
-      "link": "https://www.bbc.co.uk/news/articles/c5n49x09e3l9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T05:30+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Contribution of high value residents discussed",
@@ -576,14 +648,6 @@
       "description": "What next for the world of maths after a major intrusion by AI?",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T20:00+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-      "description": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
-      "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T19:10+00:00"
     },
     {
       "category": "Business",
@@ -736,70 +800,6 @@
       "description": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
       "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T23:00+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "World's largest penguin colony hit by 'alarming' decline in numbers",
-      "description": "Climate change is blamed for dramatic decline of chinstrap penguins living on a remote volcanic island.",
-      "link": "https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T15:00+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Rainmakers: The drones used to seed clouds",
-      "description": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
-      "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T07:09+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
-      "description": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
-      "link": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T23:07+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Tech Life",
-      "description": "What is a supercomputer for? How does it work? And who gets to use it? We explain all",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T19:30+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Five reasons India's stock market is sinking even when its economy is growing",
-      "description": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T23:13+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Plaque honours Mars mission scientist",
-      "description": "The tribute recognises Colin Pillinger who led the 2003 probe mission to Mars.",
-      "link": "https://www.bbc.co.uk/news/articles/c617kl241z91o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T14:36+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "How India became dangerously addicted to Chinese imports",
-      "description": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
-      "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T01:42+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Tech Now",
-      "description": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T01:00+00:00"
     }
   ],
   "feeds_with_errors": [
