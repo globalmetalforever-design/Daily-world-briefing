@@ -1,8 +1,56 @@
 {
-  "updated_at": "2026-10-14T20:14:00+00:00",
+  "updated_at": "2026-10-14T23:18:02+00:00",
   "items": [
     {
-      "category": "Science",
+      "category": "Business",
+      "source": "BBC News",
+      "title": "How a Chinese-made toy gets to a US retailer",
+      "description": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+      "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T23:01+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "How much is the minimum wage?",
+      "description": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
+      "link": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T23:01+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "description": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+      "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T22:31+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "description": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T20:55+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Why Zelensky's meeting with Burnham matters",
+      "description": "Prime Minister Andy Burnham welcomed President Zelensky to Downing Street on Wednesday, as Ukraine's leader looks to shore up his European allies five years into Russia's war on Ukraine.",
+      "link": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T20:41+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Student protesters attack government buildings in Tirana",
+      "description": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
+      "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T20:29+00:00"
+    },
+    {
+      "category": "World",
       "source": "BBC News",
       "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
       "description": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
@@ -140,26 +188,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-      "description": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
-      "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T13:35+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Are the European Women's World Cup play-offs working?",
       "description": "The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient the structure currently is.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T13:25+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-      "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T13:11+00:00"
     },
     {
       "category": "World",
@@ -266,14 +298,6 @@
       "published": "2026-10-14T05:24+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Heating oil users facing fuel or food winter choice",
-      "description": "It comes as ministers say they will tighten up rules on heating oil and promote competition.",
-      "link": "https://www.bbc.co.uk/news/articles/cv4g18we232ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T05:18+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "More tea? How Scotland's crops of the future could be set to change",
@@ -360,14 +384,6 @@
       "description": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
       "link": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T22:01+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Why the lonely in China are hiring 'temporary children'",
-      "description": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
-      "link": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T22:00+00:00"
     },
     {
       "category": "World",
@@ -770,14 +786,6 @@
       "published": "2026-10-08T20:00+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Moment Nasa scientist Margaret Hamilton receives presidential medal of honour",
-      "description": "Barack Obama awarded the Apollo 11 software engineer with the America's highest civilian honour in 2016.",
-      "link": "https://www.bbc.co.uk/news/videos/c8p3gzenvylyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T07:08+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "She made India fall in love with women's cricket - now her era as captain is over",
@@ -792,14 +800,6 @@
       "description": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
       "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T23:10+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "World's largest penguin colony hit by 'alarming' decline in numbers",
-      "description": "Climate change is blamed for dramatic decline of chinstrap penguins living on a remote volcanic island.",
-      "link": "https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T15:00+00:00"
     }
   ],
   "feeds_with_errors": [
