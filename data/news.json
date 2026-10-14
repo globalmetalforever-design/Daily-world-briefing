@@ -1,12 +1,100 @@
 {
-  "updated_at": "2026-10-13T23:44:52+00:00",
+  "updated_at": "2026-10-14T05:01:12+00:00",
   "items": [
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "World's oldest shipwreck found off coast of Turkey",
+      "description": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+      "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T05:00+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "description": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T04:36+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "India's 'cockroach' leaders jailed after holding protest",
+      "description": "The youth leaders were sent to custody on charges of trespassing at Jantar Mantar, a now denotified protest site.",
+      "link": "https://www.bbc.co.uk/news/articles/c6q8n09l1ny0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T04:25+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "description": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T04:20+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Russia arrests Japanese journalist on alleged espionage",
+      "description": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T04:10+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Lena Dunham's Girls to return for limited HBO run",
+      "description": "Ten years after the series finale, the \"Girls\" are getting back together to explore the \"milestone of turning forty\", HBO says.",
+      "link": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T02:09+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+      "description": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T02:05+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+      "description": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.",
+      "link": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T00:59+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "description": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T00:17+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
+      "description": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.",
+      "link": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T23:55+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
       "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
       "description": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
       "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T23:42+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster",
+      "description": "One person has died and others were injured after an incident at a US amusement park.",
+      "link": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T23:42+00:00"
     },
     {
@@ -48,22 +136,6 @@
       "description": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
       "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T23:03+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "description": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T22:29+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "description": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
-      "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T22:14+00:00"
     },
     {
       "category": "World",
@@ -116,14 +188,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "description": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T20:46+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
       "description": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
       "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
@@ -168,14 +232,6 @@
       "description": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
       "link": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T18:23+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-      "description": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T17:36+00:00"
     },
     {
       "category": "World",
@@ -250,14 +306,6 @@
       "published": "2026-10-13T12:17+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Watch: Emergency calls from botched Christa Pike execution released",
-      "description": "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.",
-      "link": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T12:03+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Three things we've learnt about the UK economy from the IMF",
@@ -322,14 +370,6 @@
       "published": "2026-10-13T09:34+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
-      "description": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T08:03+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "India 'cockroach' leaders detained after entering barricaded protest site",
@@ -362,14 +402,6 @@
       "published": "2026-10-13T05:08+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
-      "description": "Orla Guerin travelled through Yemen, with forces loyal to its internationally recognised government, to a remote desert battlefield where Houthi rebels were dislodged just days ago.",
-      "link": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T04:27+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Publicly owned rail is popular. But is it making the trains run on time?",
@@ -392,14 +424,6 @@
       "description": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
       "link": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T23:02+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "The island where locals say data centres are taking their water",
-      "description": "\"Not a single drop has come through our taps for the last three months,\" a local tells the BBC.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T22:30+00:00"
     },
     {
       "category": "Science",
@@ -594,14 +618,6 @@
       "published": "2026-10-10T15:56+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Hundreds protest over data centre plans",
-      "description": "Placard-waving opponents highlight concerns about a data centre development on the local landscape.",
-      "link": "https://www.bbc.co.uk/news/articles/cm78pwq47vp1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T13:40+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
@@ -714,14 +730,6 @@
       "published": "2026-10-08T21:37+00:00"
     },
     {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T20:38+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "BBC Inside Science",
@@ -792,14 +800,6 @@
       "description": "What is a supercomputer for? How does it work? And who gets to use it? We explain all",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T19:30+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Five reasons India's stock market is sinking even when its economy is growing",
-      "description": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T23:13+00:00"
     }
   ],
   "feeds_with_errors": [
