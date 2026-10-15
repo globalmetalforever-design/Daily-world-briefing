@@ -1,13 +1,37 @@
 {
-  "updated_at": "2026-10-15T19:54:58+00:00",
+  "updated_at": "2026-10-15T23:05:51+00:00",
   "items": [
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Letters with 'suspicious substances' sent to US election offices",
+      "title": "Letters with 'suspicious substances' sent to US senators and election offices",
       "description": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
       "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T19:13+00:00"
+      "published": "2026-10-15T22:46+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "description": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T22:37+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "At the scene of a school roof collapse in Pakistan",
+      "description": "At least 33 pupils and a teacher were killed according to hospital officials, and more than a dozen were injured.",
+      "link": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T20:31+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "BBC Inside Science",
+      "description": "How can we to compete against a natural force with the power of 25 atomic bombs?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct9789?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T20:00+00:00"
     },
     {
       "category": "Business",
@@ -96,14 +120,6 @@
       "description": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
       "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T16:15+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "BBC Inside Science",
-      "description": "How can we to compete against a natural force with the power of 25 atomic bombs?",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T16:00+00:00"
     },
     {
       "category": "Science",
@@ -784,22 +800,6 @@
       "description": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
       "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T23:13+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "How India became dangerously addicted to Chinese imports",
-      "description": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
-      "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T01:42+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Tech Now",
-      "description": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T01:00+00:00"
     }
   ],
   "feeds_with_errors": [
