@@ -1,13 +1,181 @@
 {
-  "updated_at": "2026-10-15T13:30:11+00:00",
+  "updated_at": "2026-10-15T19:54:58+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Letters with 'suspicious substances' sent to US election offices",
+      "description": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T19:13+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "'I'd spend $1,000 on a wedding present'",
+      "description": "New Yorkers share how much they spend on a wedding gift - and how they decide.",
+      "link": "https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T18:30+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "An Australian band’s ‘unreal’ journey to break a gig world record",
+      "description": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
+      "link": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T18:09+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Suspected fly tippers shamed with online photos",
+      "description": "Hillingdon Council has shared social media posts showing people allegedly dumping rubbish illegally.",
+      "link": "https://www.bbc.co.uk/news/articles/cqgm0jepyl01o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T18:05+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "description": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T17:47+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+      "description": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
+      "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T17:31+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "'I paid thousands to a company for jobs that never came'",
+      "description": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T17:19+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+      "description": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T17:18+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Banks say Healey is planning Budget tax raid on their profits",
+      "description": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+      "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T17:14+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Maduro pleads not guilty to new torture-related charges in New York",
+      "description": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T16:52+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "description": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T16:50+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
+      "description": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
+      "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T16:15+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "BBC Inside Science",
+      "description": "How can we to compete against a natural force with the power of 25 atomic bombs?",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T16:00+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
+      "description": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban.",
+      "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T15:42+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "description": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T15:26+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch: Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse",
+      "description": "Our Urdu correspondent reports from the scene in Peshawar, north-west Pakistan, where emergency services have been responding to the incident.",
+      "link": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T15:05+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
+      "description": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
+      "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T15:00+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "£15m for zero-emission testing at Belfast Harbour",
+      "description": "It comes after a £15m investment from UK Research and Innovation's Local Innovation Partnerships Fund.",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgqr9n8082o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T14:55+00:00"
+    },
     {
       "category": "Business",
       "source": "BBC News",
       "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
       "description": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
       "link": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T13:27+00:00"
+      "published": "2026-10-15T14:55+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+      "description": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
+      "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T14:51+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+      "description": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
+      "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T14:25+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Sheep are disappearing from our hills - and our dinner plates",
+      "description": "Have we have passed \"peak sheep\" in the UK?",
+      "link": "https://www.bbc.co.uk/news/articles/cgrzd72wp5zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T14:10+00:00"
     },
     {
       "category": "Business",
@@ -16,22 +184,6 @@
       "description": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
       "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T13:25+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-      "description": "Rescue officials fear more people are buried under the debris in the north-western city of Peshawar.",
-      "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T12:28+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "description": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T12:03+00:00"
     },
     {
       "category": "Technology",
@@ -48,22 +200,6 @@
       "description": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
       "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T11:25+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
-      "description": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
-      "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T11:12+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Watch: Harry and Meghan at first joint engagement since UK return",
-      "description": "The Duke and Duchess of Sussex are making several public appearances in Nottingham.",
-      "link": "https://www.bbc.co.uk/news/videos/cme8r0eexr3yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T11:10+00:00"
     },
     {
       "category": "World",
@@ -108,14 +244,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "What's going on between Kelly Clarkson and a Brooklyn store bird?",
-      "description": "The Since U Been Gone singer claims she was \"looked at as if I couldn't afford\" an item in the store.",
-      "link": "https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T08:19+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Actor Imran Khan ordered to leave India after participating in protest",
       "description": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
       "link": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
@@ -152,14 +280,6 @@
       "description": "Planning is under way to improve the colony for the 2027 breeding season.",
       "link": "https://www.bbc.co.uk/news/articles/cjy56e4v6exzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T05:19+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "'I paid thousands to a company for jobs that never came'",
-      "description": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T05:02+00:00"
     },
     {
       "category": "World",
@@ -228,8 +348,8 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "How a Chinese-made toy gets to a US retailer",
-      "description": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+      "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
+      "description": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
       "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T23:01+00:00"
     },
@@ -256,14 +376,6 @@
       "description": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
       "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T20:29+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "What if you could turn off your algorithm? Australia is about to try",
-      "description": "New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.",
-      "link": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T18:00+00:00"
     },
     {
       "category": "Business",
@@ -348,14 +460,6 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "Job cuts could fund diesel price drop says deputy",
-      "description": "With the ongoing war in the Middle East increasing prices, one deputy is ask for duty to be frozen.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2qw2xn1x4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T11:13+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
       "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
       "description": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
       "link": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
@@ -384,14 +488,6 @@
       "description": "The youth leaders were sent to custody on charges of trespassing at Jantar Mantar, a now denotified protest site.",
       "link": "https://www.bbc.co.uk/news/articles/c6q8n09l1ny0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T07:05+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "New team to save Antarctic port from climate change",
-      "description": "The mission aims to protect the base which is home to the world’s southernmost Post Office.",
-      "link": "https://www.bbc.co.uk/news/articles/ck8dzgr780j8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T05:24+00:00"
     },
     {
       "category": "Science",
@@ -482,14 +578,6 @@
       "published": "2026-10-13T15:44+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
-      "description": "El Niño has continued to strengthen, with several key measures now in record territory. Simon King explores how it compares to previous events.",
-      "link": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T11:18+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
@@ -506,28 +594,12 @@
       "published": "2026-10-12T23:10+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Crew searching for Amelia Earhart arrives at crab-infested island",
-      "description": "Researchers will sleep on their ship to avoid giant crabs that can lift heavy weights, split open coconuts, and may have played a role in Earhart's demise.",
-      "link": "https://www.bbc.co.uk/news/articles/c6pvgryp8yv0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T22:01+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "What are your rights on auto-renew subscriptions?",
       "description": "Martin has advice for listeners caught out by auto-renewing subscriptions, explaining what rights consumers have and whether there's a way to challenge the renewal or cancel.",
       "link": "https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T17:08+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Storm Rachel batters Southern California, brings flooding to Las Vegas",
-      "description": "Large waves from the post-tropical cyclone battered homes in Long Beach, and brought flooding to parts of Las Vegas near the famed Strip.",
-      "link": "https://www.bbc.co.uk/news/videos/cmj47n488v47o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T16:12+00:00"
     },
     {
       "category": "India",
@@ -552,14 +624,6 @@
       "description": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
       "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T07:47+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "'Prepare for the unthinkable' warning over autumn flooding",
-      "description": "Those living in flood-hit areas say they are worried, and have started preparing.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T05:24+00:00"
     },
     {
       "category": "India",
@@ -632,22 +696,6 @@
       "description": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
       "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T15:32+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Anthropic bans users from being 'cruel' to its AI systems",
-      "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T12:34+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Why are there so many sports subscriptions?",
-      "description": "Pete Oliver of DAZN explains why the is a growing number of sports subscriptions and why they are getting more expensive.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cj20vkpd61kqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T10:07+00:00"
     },
     {
       "category": "India",
@@ -752,54 +800,6 @@
       "description": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
       "link": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-03T01:00+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "How to move 1,300 plants for Kew's Palm House mega makeover",
-      "description": "The world-famous Palm House at the Royal Botanic Gardens Kew in London is about to undergo a massive makeover.",
-      "link": "https://www.bbc.co.uk/news/videos/c914d43gg2zdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T08:53+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
-      "description": "He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.",
-      "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T08:46+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "BBC Inside Science",
-      "description": "What are the next steps for the world's largest and most powerful particle accelerator?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct9787?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T20:00+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "The AI telling farmers when to harvest",
-      "description": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-      "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T23:02+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "The start-ups hoping to return battery making to the US",
-      "description": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T23:06+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Tech Life",
-      "description": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T19:30+00:00"
     }
   ],
   "feeds_with_errors": [
