@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-16T19:35:13+00:00",
+  "updated_at": "2026-10-16T22:53:04+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "description": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+      "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T19:33+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "What we learned from heated US midterm Senate debates",
+      "description": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
+      "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T19:09+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -16,14 +32,6 @@
       "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
       "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T16:00+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-      "description": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
-      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T15:59+00:00"
     },
     {
       "category": "World",
@@ -82,7 +90,7 @@
       "published": "2026-10-16T14:21+00:00"
     },
     {
-      "category": "World",
+      "category": "Science",
       "source": "BBC News",
       "title": "US senators call for investigation into Ukraine's Starlink restrictions",
       "description": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
@@ -338,7 +346,7 @@
       "published": "2026-10-15T15:26+00:00"
     },
     {
-      "category": "World",
+      "category": "Science",
       "source": "BBC News",
       "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
       "description": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
@@ -450,8 +458,8 @@
       "published": "2026-10-15T08:41+00:00"
     },
     {
-      "category": "India",
-      "source": "BBC News: India",
+      "category": "World",
+      "source": "BBC News",
       "title": "Actor Imran Khan ordered to leave India after participating in protest",
       "description": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
       "link": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
@@ -792,14 +800,6 @@
       "description": "Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India.",
       "link": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T06:42+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Why are more roofs not made of solar tiles?",
-      "description": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
-      "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T23:09+00:00"
     }
   ],
   "feeds_with_errors": [
