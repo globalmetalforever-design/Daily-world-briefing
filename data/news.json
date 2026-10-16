@@ -1,13 +1,77 @@
 {
-  "updated_at": "2026-10-16T13:18:34+00:00",
+  "updated_at": "2026-10-16T19:35:13+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+      "description": "Australia has proposed a switch to force social media platforms to let users turn off recommended content.",
+      "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T18:11+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T16:00+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "description": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
+      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T15:59+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+      "description": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
+      "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T15:45+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Russian man linked to deadly London hospitals hack arrested",
+      "description": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T15:31+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
       "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
       "description": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
       "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T13:09+00:00"
+      "published": "2026-10-16T14:57+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Pope pictured for first time since surgery and cancer diagnosis",
+      "description": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T14:36+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Albanian protests turn violent: What we know",
+      "description": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T14:33+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T14:31+00:00"
     },
     {
       "category": "World",
@@ -15,7 +79,15 @@
       "title": "Dad fined after son, 2, died in Cyprus hotel fall",
       "description": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
       "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T13:01+00:00"
+      "published": "2026-10-16T14:21+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US senators call for investigation into Ukraine's Starlink restrictions",
+      "description": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
+      "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T14:19+00:00"
     },
     {
       "category": "World",
@@ -28,26 +100,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-      "description": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
-      "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T12:16+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
       "title": "India's 'cockroach' party founder detained ahead of protest",
-      "description": "The youth-led movement planned a fresh Delhi protest after mass detentions last week and the jailing of two leaders.",
+      "description": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
       "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T11:44+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
-      "description": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say.",
-      "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T11:41+00:00"
     },
     {
       "category": "World",
@@ -56,14 +112,6 @@
       "description": "Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.",
       "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T11:40+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-      "description": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
-      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T10:37+00:00"
     },
     {
       "category": "Business",
@@ -202,14 +250,6 @@
       "published": "2026-10-15T22:37+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "At the scene of a school roof collapse in Pakistan",
-      "description": "At least 33 pupils and a teacher were killed according to hospital officials, and more than a dozen were injured.",
-      "link": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T20:31+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "BBC Inside Science",
@@ -256,14 +296,6 @@
       "description": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
       "link": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T17:19+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Watch: Moment drone hits supermarket in Odesa",
-      "description": "CCTV video verified by the BBC shows the drone strike in the town of Mayaky in Ukraine's Odesa region.",
-      "link": "https://www.bbc.co.uk/news/videos/cmwyq62z0n19o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T17:06+00:00"
     },
     {
       "category": "World",
@@ -418,28 +450,20 @@
       "published": "2026-10-15T08:41+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "Actor Imran Khan ordered to leave India after participating in protest",
       "description": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
       "link": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T08:17+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "Indian woman and boyfriend get death sentence in 'blue drum' murder case",
       "description": "The body was recovered from a large blue plastic storage container - locally called a drum.",
       "link": "https://www.bbc.co.uk/news/articles/c6wy435gd311o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T07:25+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "North Korea and China open new bridge after 12-year delay",
-      "description": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T06:24+00:00"
     },
     {
       "category": "Business",
@@ -456,22 +480,6 @@
       "description": "Planning is under way to improve the colony for the 2027 breeding season.",
       "link": "https://www.bbc.co.uk/news/articles/cjy56e4v6exzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T05:19+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
-      "description": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
-      "link": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T05:00+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Australian woman charged with lacing colleague's curry with snail poison",
-      "description": "The alleged victim, who was in a relationship with the woman, had spotted bright green pellets in the meal.",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3gnep35gko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T04:17+00:00"
     },
     {
       "category": "Science",
@@ -746,28 +754,12 @@
       "published": "2026-10-12T15:03+00:00"
     },
     {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "AI is less regulated than milk, says Microsoft president",
-      "description": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
-      "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T07:47+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
       "description": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
       "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-11T11:11+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "King warns malicious online actors are evolving tactics",
-      "description": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
-      "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T15:56+00:00"
     },
     {
       "category": "Business",
@@ -800,6 +792,14 @@
       "description": "Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India.",
       "link": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T06:42+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Why are more roofs not made of solar tiles?",
+      "description": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
+      "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T23:09+00:00"
     }
   ],
   "feeds_with_errors": [
