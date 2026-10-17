@@ -1,6 +1,102 @@
 {
-  "updated_at": "2026-10-16T22:53:04+00:00",
+  "updated_at": "2026-10-17T04:37:11+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+      "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T03:11+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "description": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T02:48+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T02:33+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Why hasn't the UK had any named storms yet?",
+      "description": "So far this autumn wet and windy weather patterns have been steered away from the UK. When could we see that change?",
+      "link": "https://www.bbc.co.uk/weather/articles/ck5yn68mj88vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T01:53+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Evacuation orders as fast-moving California wildfire burns homes",
+      "description": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T01:36+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T01:19+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "The uncertain future of Canada's 30 rescued belugas",
+      "description": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T01:18+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+      "description": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T00:41+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+      "description": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+      "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T23:54+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Pope pictured for first time since surgery and cancer diagnosis",
+      "description": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T23:20+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+      "description": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T23:07+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Katie Zacharia leaving her White House role less than five days on the job",
+      "description": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
+      "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T21:05+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -56,14 +152,6 @@
       "description": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
       "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T14:57+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Pope pictured for first time since surgery and cancer diagnosis",
-      "description": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T14:36+00:00"
     },
     {
       "category": "World",
@@ -242,22 +330,6 @@
       "published": "2026-10-15T23:16+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Letters with 'suspicious substances' sent to US senators and election offices",
-      "description": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T22:46+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "description": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T22:37+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "BBC Inside Science",
@@ -306,30 +378,6 @@
       "published": "2026-10-15T17:19+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Maduro pleads not guilty to new torture-related charges in New York",
-      "description": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T16:52+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "description": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T16:50+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
-      "description": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
-      "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T16:15+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
@@ -370,14 +418,6 @@
       "published": "2026-10-15T14:55+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
-      "description": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
-      "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T14:51+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
@@ -410,7 +450,7 @@
       "published": "2026-10-15T11:34+00:00"
     },
     {
-      "category": "World",
+      "category": "Science",
       "source": "BBC News",
       "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
       "description": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
@@ -418,27 +458,11 @@
       "published": "2026-10-15T11:25+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Obama says drift towards extremism 'not inevitable'",
-      "description": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
-      "link": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T10:51+00:00"
-    },
-    {
-      "category": "World",
+      "category": "Science",
       "source": "BBC News",
       "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
       "description": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
       "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T10:05+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Brazil's Congress approves shorter working week in win for Lula",
-      "description": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T10:05+00:00"
     },
     {
@@ -450,16 +474,8 @@
       "published": "2026-10-15T09:31+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "White House defends new press secretary over her legal credentials",
-      "description": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
-      "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T08:41+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "Actor Imran Khan ordered to leave India after participating in protest",
       "description": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
       "link": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
@@ -538,14 +554,6 @@
       "published": "2026-10-14T23:01+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "At the Brooklyn shop in 'surreal' row with Kelly Clarkson over mechanical bird",
-      "description": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T22:19+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
@@ -560,14 +568,6 @@
       "description": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
       "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T16:47+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Industrial fire linked to fish and eels' deaths",
-      "description": "Chemicals from firewater runoff entered a brook and spread downstream where dead fish and eels were later found, the Environment Agency has confirmed.",
-      "link": "https://www.bbc.co.uk/news/videos/cqrky20ndv1jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T16:36+00:00"
     },
     {
       "category": "Technology",
@@ -652,14 +652,6 @@
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "More tea? How Scotland's crops of the future could be set to change",
-      "description": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate.",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T05:02+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
       "title": "World's oldest shipwreck found off coast of Turkey",
       "description": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
       "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
@@ -680,14 +672,6 @@
       "description": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
       "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T02:05+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
-      "description": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.",
-      "link": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T23:55+00:00"
     },
     {
       "category": "Technology",
@@ -746,28 +730,12 @@
       "published": "2026-10-12T17:08+00:00"
     },
     {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Thousands march to Indian Supreme Court to demand election chief resign",
-      "description": "The march follows a chaotic weekend in Delhi which saw thousands of protesters detained by police.",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T15:19+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "AI minister warns 'likely' UK's cyber defences will be breached",
       "description": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
       "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T15:03+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-      "description": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T11:11+00:00"
     },
     {
       "category": "Business",
@@ -800,6 +768,38 @@
       "description": "Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India.",
       "link": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T06:42+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Why are more roofs not made of solar tiles?",
+      "description": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
+      "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T23:09+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "BBC Inside Science",
+      "description": "What next for the world of maths after a major intrusion by AI?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T20:00+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "She made India fall in love with women's cricket - now her era as captain is over",
+      "description": "The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T23:31+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
+      "description": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
+      "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T23:10+00:00"
     }
   ],
   "feeds_with_errors": [
