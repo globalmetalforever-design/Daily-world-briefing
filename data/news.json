@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-17T12:14:39+00:00",
+  "updated_at": "2026-10-17T15:43:23+00:00",
   "items": [
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Low-cost clinic helps pet owners with vet bills",
+      "description": "RSPCA Medway West launches its clinic for the pets of people with low incomes.",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T14:12+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Pope discharged from hospital days after lung cancer surgery",
+      "description": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T13:51+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -28,7 +44,7 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
       "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
       "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T09:58+00:00"
@@ -76,14 +92,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
-      "description": "Archbishop Paul Gallagher tells the BBC there was no sign of the Pope's ill health prior to his operation this week.",
-      "link": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T05:01+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
       "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
       "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
@@ -116,7 +124,7 @@
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "Evacuation orders as fast-moving California wildfire burns homes",
+      "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
       "description": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
       "link": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T01:36+00:00"
@@ -160,14 +168,6 @@
       "description": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
       "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T23:07+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Trump denies limiting Ukraine access to Starlink network",
-      "description": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
-      "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T19:33+00:00"
     },
     {
       "category": "World",
@@ -288,14 +288,6 @@
       "description": "Online grooming is rising, with children as young as five targeted, prompting calls for reform.",
       "link": "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T05:12+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "'TV and cheap booze' blamed for landlord quitting",
-      "description": "Lincolnshire has lost 27% of its pubs and bars since 2009 and some are calling on the government to act against cheap supermarket booze.",
-      "link": "https://www.bbc.co.uk/news/articles/c6lyk77jq9d2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T05:03+00:00"
     },
     {
       "category": "Business",
@@ -800,6 +792,14 @@
       "description": "What is a supercomputer for? How does it work? And who gets to use it? We explain all",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T19:30+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "Five reasons India's stock market is sinking even when its economy is growing",
+      "description": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T23:13+00:00"
     }
   ],
   "feeds_with_errors": [
