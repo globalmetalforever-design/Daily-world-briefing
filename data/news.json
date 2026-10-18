@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-10-18T12:38:56+00:00",
+  "updated_at": "2026-10-18T18:41:12+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T15:46+00:00"
+    },
     {
       "category": "Science",
       "source": "BBC News",
       "title": "Fuel leak spreads more than two miles along River Taff",
-      "description": "Public Health Wales advise people living nearby to shut their doors and windows due to the smell.",
+      "description": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell.",
       "link": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T12:27+00:00"
+      "published": "2026-10-18T15:11+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "description": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+      "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T13:47+00:00"
     },
     {
       "category": "World",
@@ -21,17 +37,9 @@
       "category": "World",
       "source": "BBC News",
       "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "description": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+      "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
       "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-18T12:07+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T11:57+00:00"
     },
     {
       "category": "World",
@@ -88,14 +96,6 @@
       "description": "One of the best-known meteor showers peaks this week and will remain active until 7 November.",
       "link": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-18T08:54+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Several dead or injured in major fire at Canada military base",
-      "description": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-      "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T08:52+00:00"
     },
     {
       "category": "Science",
