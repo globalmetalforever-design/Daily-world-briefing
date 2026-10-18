@@ -1,13 +1,45 @@
 {
-  "updated_at": "2026-10-18T18:41:12+00:00",
+  "updated_at": "2026-10-18T22:27:38+00:00",
   "items": [
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T15:46+00:00"
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "description": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T22:10+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "What we know so far about deadly fire at Canadian military base",
+      "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
+      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T21:37+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+      "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T21:00+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Macron calls for 'calm and order' after riots across France",
+      "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T20:33+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "description": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T19:53+00:00"
     },
     {
       "category": "Science",
@@ -15,7 +47,15 @@
       "title": "Fuel leak spreads more than two miles along River Taff",
       "description": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell.",
       "link": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T15:11+00:00"
+      "published": "2026-10-18T19:20+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T15:46+00:00"
     },
     {
       "category": "World",
@@ -32,14 +72,6 @@
       "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
       "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-18T12:16+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T12:07+00:00"
     },
     {
       "category": "World",
@@ -148,14 +180,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "description": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T05:04+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
@@ -258,14 +282,6 @@
       "published": "2026-10-17T09:58+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Katie Zacharia leaving White House role less than five days into job",
-      "description": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T09:14+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Call for more food funding due to high living cost",
@@ -288,14 +304,6 @@
       "description": "It comes after the prime minister refused to say whether he backed expansion.",
       "link": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T03:57+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-      "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
-      "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T03:11+00:00"
     },
     {
       "category": "World",
@@ -394,7 +402,7 @@
       "published": "2026-10-16T14:19+00:00"
     },
     {
-      "category": "World",
+      "category": "Science",
       "source": "BBC News",
       "title": "Watch: Did Tesla really just unveil a flying car?",
       "description": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
@@ -408,14 +416,6 @@
       "description": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
       "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T11:44+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
-      "description": "Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.",
-      "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T11:40+00:00"
     },
     {
       "category": "Business",
@@ -432,14 +432,6 @@
       "description": "Stargazers are preparing to enjoy an annual festival that celebrates the beauty of the night sky.",
       "link": "https://www.bbc.co.uk/news/articles/c68xzg941x5vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T10:13+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-      "description": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T08:27+00:00"
     },
     {
       "category": "Technology",
@@ -800,6 +792,14 @@
       "description": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
       "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T09:34+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "Boardroom feud tests trusted Indian business empire",
+      "description": "The dispute raises questions about the Indian conglomerate's governance, succession plans and future.",
+      "link": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T23:10+00:00"
     }
   ],
   "feeds_with_errors": [
