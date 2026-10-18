@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-17T22:25:00+00:00",
+  "updated_at": "2026-10-18T04:42:44+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Deadly fire breaks out at Canada military base",
+      "description": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
+      "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T04:00+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T01:10+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T23:52+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -10,7 +34,7 @@
       "published": "2026-10-17T22:09+00:00"
     },
     {
-      "category": "Business",
+      "category": "World",
       "source": "BBC News",
       "title": "How day of protests unfolded as disorder breaks out across France",
       "description": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
@@ -44,14 +68,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T19:19+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "At least 17 dead in crush at Hindu festival event in India",
       "description": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
       "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
@@ -64,14 +80,6 @@
       "description": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
       "link": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T19:13+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T18:38+00:00"
     },
     {
       "category": "Business",
@@ -386,7 +394,7 @@
       "published": "2026-10-15T18:05+00:00"
     },
     {
-      "category": "World",
+      "category": "Science",
       "source": "BBC News",
       "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
       "description": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
@@ -792,14 +800,6 @@
       "description": "The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T23:31+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
-      "description": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
-      "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T23:10+00:00"
     }
   ],
   "feeds_with_errors": [
