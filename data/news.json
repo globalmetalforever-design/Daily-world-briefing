@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-20T20:01:44+00:00",
+  "updated_at": "2026-10-20T23:13:38+00:00",
   "items": [
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T23:11+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T21:27+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Suspect arrested after historic town hall set alight - French media",
+      "description": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T21:05+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Audit regulator looking into Manchester City accounting",
+      "description": "No formal investigation has started, but the regulator is making inquiries into the case.",
+      "link": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T20:56+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "description": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
+      "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T20:00+00:00"
+    },
     {
       "category": "Technology",
       "source": "BBC News",
@@ -56,14 +96,6 @@
       "description": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-20T16:59+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Suspect arrested after historic town hall set alight - French media",
-      "description": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T16:06+00:00"
     },
     {
       "category": "World",
@@ -172,7 +204,7 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "title": "Man charged with attack on Australia MP to face court",
       "description": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
       "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-20T11:25+00:00"
@@ -420,14 +452,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Catalonia's former rebel president can return to Spain, court rules",
-      "description": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017.",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T14:06+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Exiled critic of Rwandan president found beheaded",
       "description": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
       "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
@@ -458,14 +482,6 @@
       "published": "2026-10-19T12:54+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Personal attacks fire up debate before Brazil's run-off vote",
-      "description": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
-      "link": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T11:41+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "People playing loud music on buses could face £100 fine",
@@ -490,14 +506,6 @@
       "published": "2026-10-19T09:38+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-      "description": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T09:11+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
@@ -520,14 +528,6 @@
       "description": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
       "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T06:08+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-      "description": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
-      "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T06:00+00:00"
     },
     {
       "category": "Science",
@@ -642,22 +642,6 @@
       "published": "2026-10-17T19:19+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Third runway at Heathrow Airport would drive growth, Healey says",
-      "description": "It comes after the prime minister refused to say whether he backed expansion.",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T03:57+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
-      "description": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T01:59+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
@@ -704,22 +688,6 @@
       "description": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
       "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T11:44+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "What is behind the success of dark skies festival?",
-      "description": "Stargazers are preparing to enjoy an annual festival that celebrates the beauty of the night sky.",
-      "link": "https://www.bbc.co.uk/news/articles/c68xzg941x5vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T10:13+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Snapchat and Instagram grooming becoming 'easier'",
-      "description": "Online grooming is rising, with children as young as five targeted, prompting calls for reform.",
-      "link": "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T05:12+00:00"
     },
     {
       "category": "Business",
@@ -800,6 +768,38 @@
       "description": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
       "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T05:00+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "How long will humans be needed for translation?",
+      "description": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T23:05+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Tech Life",
+      "description": "The plan for an orbiting data centre involves linking satellites around Earth.",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T19:45+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "NI company in talks to save Poundland from administration",
+      "description": "Poundland says Martin Property Group from Londonderry is the management team's \"preferred partner\"",
+      "link": "https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T15:44+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "Boardroom feud tests trusted Indian business empire",
+      "description": "The dispute raises questions about the Indian conglomerate's governance, succession plans and future.",
+      "link": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T23:10+00:00"
     }
   ],
   "feeds_with_errors": [
