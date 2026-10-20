@@ -1,6 +1,102 @@
 {
-  "updated_at": "2026-10-19T21:07:46+00:00",
+  "updated_at": "2026-10-20T04:59:13+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
+      "description": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
+      "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T02:54+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "description": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T01:52+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US church on frontline of battle against drug known as 'tranq'",
+      "description": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
+      "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T00:02+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+      "description": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T23:30+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "description": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
+      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T23:08+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
+      "description": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
+      "link": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T23:04+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+      "description": "The BBC hears from people who think dating events are better value for money than dating apps.",
+      "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T23:00+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Clean up begins after French riots but police remain",
+      "description": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
+      "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T21:30+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+      "description": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
+      "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T21:30+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "description": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
+      "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T21:14+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "description": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T21:12+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "description": "The two top tennis pros married in 2021 and have one child together.",
+      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T21:02+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -10,20 +106,20 @@
       "published": "2026-10-19T20:49+00:00"
     },
     {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+      "description": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
+      "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T20:00+00:00"
+    },
+    {
       "category": "Science",
       "source": "BBC News",
       "title": "Mission blasts off for Mars to grab a piece of its moon",
       "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
       "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T19:45+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "description": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-      "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T18:22+00:00"
     },
     {
       "category": "Technology",
@@ -48,22 +144,6 @@
       "description": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
       "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T16:46+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
-      "description": "The apparent attack on MP Helen Haines suggests the worst fears of politicians and public figures appear to have been realised.",
-      "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T16:32+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-      "description": "The Saudi government did not immediately respond to BBC requests for comment.",
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T16:22+00:00"
     },
     {
       "category": "World",
@@ -100,14 +180,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "In pictures: French landmarks damaged and destroyed by violent protesters",
-      "description": "France is used to protests but the violence and damage seen across the country is shocking many people.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T15:21+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
       "description": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
       "link": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
@@ -116,26 +188,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Australian MP critically injured after being hit by car in apparent attack",
-      "description": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T14:09+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Catalonia's former rebel president can return to Spain, court rules",
       "description": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017.",
       "link": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T14:06+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-      "description": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T13:44+00:00"
     },
     {
       "category": "World",
@@ -330,14 +386,6 @@
       "published": "2026-10-18T23:20+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-      "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
-      "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T21:00+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "Fears for protected bats if glamping pod plans are approved",
@@ -404,34 +452,10 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "Heating oil customers face tough winter",
-      "description": "The government plans to regulate heating oil prices after increases.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T06:07+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "description": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T05:04+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
       "title": "There's a crackdown on sports piracy - but is it already out of control?",
       "description": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
       "link": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-18T00:11+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "How day of protests unfolded as disorder breaks out across France",
-      "description": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
-      "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T21:33+00:00"
     },
     {
       "category": "Technology",
@@ -512,14 +536,6 @@
       "description": "The Australian government hopes to protect social media users from being served content they don't want to see.",
       "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T18:11+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
-      "description": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
-      "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T15:45+00:00"
     },
     {
       "category": "Technology",
@@ -640,14 +656,6 @@
       "description": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
       "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T14:25+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Actor Imran Khan ordered to leave India after participating in protest",
-      "description": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
-      "link": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T08:17+00:00"
     },
     {
       "category": "India",
@@ -792,14 +800,6 @@
       "description": "The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T23:31+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
-      "description": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
-      "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T23:10+00:00"
     }
   ],
   "feeds_with_errors": [
