@@ -1,21 +1,101 @@
 {
-  "updated_at": "2026-10-20T23:13:38+00:00",
+  "updated_at": "2026-10-21T04:58:12+00:00",
   "items": [
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Giant tunnel proposed to clean up Windermere's sewage problem",
+      "description": "The plan would eliminate sewage spills into Windermere, blamed for turning the water green.",
+      "link": "https://www.bbc.co.uk/news/articles/cr5yn4pky527o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T04:44+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "UK government expected to approve Jackdaw gas field",
+      "description": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
+      "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T04:41+00:00"
+    },
     {
       "category": "Technology",
       "source": "BBC News",
-      "title": "Elon Musk says Tesla-SpaceX merger being considered",
-      "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T23:11+00:00"
+      "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
+      "description": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
+      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T04:13+00:00"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
       "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
       "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T21:27+00:00"
+      "published": "2026-10-21T03:59+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+      "description": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate.",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T02:37+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "France is divided over who to blame for weekend riots and what to learn from them",
+      "description": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T01:22+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
+      "description": "A \"Super El Niño\" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T23:51+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+      "description": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.",
+      "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T23:41+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T23:24+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Is Donald Trump ready to do business with Myanmar?",
+      "description": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah.",
+      "link": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T23:21+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "The tech helping crack decades-old cold cases",
+      "description": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T23:13+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+      "description": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+      "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T22:22+00:00"
     },
     {
       "category": "World",
@@ -46,7 +126,7 @@
       "source": "BBC News",
       "title": "Tech Life",
       "description": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-20T19:45+00:00"
     },
     {
@@ -66,6 +146,14 @@
       "published": "2026-10-20T19:30+00:00"
     },
     {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
+      "description": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\".",
+      "link": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T19:08+00:00"
+    },
+    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Google resolves cloud outage affecting UK banks and websites",
@@ -74,28 +162,12 @@
       "published": "2026-10-20T18:03+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "UK government to make Jackdaw gas field announcement",
-      "description": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
-      "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T17:33+00:00"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
       "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
       "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-20T17:30+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-      "description": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T16:59+00:00"
     },
     {
       "category": "World",
@@ -168,14 +240,6 @@
       "description": "Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.",
       "link": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-20T12:29+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-      "description": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T12:08+00:00"
     },
     {
       "category": "Science",
@@ -298,7 +362,7 @@
       "published": "2026-10-20T05:15+00:00"
     },
     {
-      "category": "World",
+      "category": "Business",
       "source": "BBC News",
       "title": "How is the US economy really doing under President Trump?",
       "description": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
@@ -338,15 +402,7 @@
       "published": "2026-10-20T00:02+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
-      "description": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
-      "link": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T23:30+00:00"
-    },
-    {
-      "category": "World",
+      "category": "Science",
       "source": "BBC News",
       "title": "Five ways El Niño is affecting the weather around the world",
       "description": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
@@ -354,8 +410,8 @@
       "published": "2026-10-19T23:08+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
       "description": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
       "link": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
@@ -586,14 +642,6 @@
       "published": "2026-10-18T19:20+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Microsoft pulls out of UK's largest AI data centre",
-      "description": "Tech firm Nscale says it is still committed to building the site in Essex.",
-      "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T16:46+00:00"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
@@ -608,22 +656,6 @@
       "description": "One of the best-known meteor showers peaks this week and will remain active until 7 November.",
       "link": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-18T08:54+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
-      "description": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
-      "link": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T08:12+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "There's a crackdown on sports piracy - but is it already out of control?",
-      "description": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T00:11+00:00"
     },
     {
       "category": "Technology",
@@ -650,36 +682,12 @@
       "published": "2026-10-17T00:41+00:00"
     },
     {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-      "description": "The Australian government hopes to protect social media users from being served content they don't want to see.",
-      "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T18:11+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Russian man linked to deadly London hospitals hack arrested",
-      "description": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T15:31+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "US senators call for investigation into Ukraine's Starlink restrictions",
       "description": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
       "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T14:19+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Watch: Did Tesla really just unveil a flying car?",
-      "description": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
-      "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T12:32+00:00"
     },
     {
       "category": "India",
@@ -792,14 +800,6 @@
       "description": "Poundland says Martin Property Group from Londonderry is the management team's \"preferred partner\"",
       "link": "https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T15:44+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Boardroom feud tests trusted Indian business empire",
-      "description": "The dispute raises questions about the Indian conglomerate's governance, succession plans and future.",
-      "link": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T23:10+00:00"
     }
   ],
   "feeds_with_errors": [
