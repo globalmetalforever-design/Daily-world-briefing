@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-22T20:11:30+00:00",
+  "updated_at": "2026-10-22T23:26:41+00:00",
   "items": [
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Grid operator says lights will stay on this winter after concerns",
+      "description": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T23:04+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Heavy rain warning as Storm Austen sweeps across Scotland",
+      "description": "The Met Office has issued a yellow warning for rain across most of central and eastern Scotland on Friday.",
+      "link": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T21:59+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T21:42+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
+      "description": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.",
+      "link": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T21:21+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
+      "description": "As the council voted to banish the carriages, views in Central Park were divided over the 160-year-old tradition.",
+      "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T20:49+00:00"
+    },
     {
       "category": "Science",
       "source": "BBC News",
@@ -322,14 +362,6 @@
       "published": "2026-10-22T09:27+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "New York City reconsiders a classic attraction: are horse-drawn carriages abuse?",
-      "description": "As councillors prepare to banish the vehicles, views in Central Park are divided over the 160-year-old tradition.",
-      "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T09:06+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "UK working to identify exposure after global cyber-security warning",
@@ -416,14 +448,6 @@
       "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
       "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T04:02+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US embassy accuses Canada of election meddling ahead of midterms",
-      "description": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T03:05+00:00"
     },
     {
       "category": "World",
@@ -568,14 +592,6 @@
       "description": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
       "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T17:04+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "How Jackdaw ignites row over climate and costs",
-      "description": "The UK government approves production from Jackdaw amid intense debate about the project's environmental and economic impact.",
-      "link": "https://www.bbc.co.uk/news/videos/c65ynpx07djvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T16:51+00:00"
     },
     {
       "category": "Business",
@@ -784,22 +800,6 @@
       "description": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
       "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T23:18+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "BBC Inside Science",
-      "description": "How can we to compete against a natural force with the power of 25 atomic bombs?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct9789?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T20:00+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "'I'd spend $1,000 on a wedding present'",
-      "description": "New Yorkers share how much they spend on a wedding gift - and how they decide.",
-      "link": "https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T18:30+00:00"
     }
   ],
   "feeds_with_errors": [
