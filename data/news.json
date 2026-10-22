@@ -1,8 +1,72 @@
 {
-  "updated_at": "2026-10-21T23:26:14+00:00",
+  "updated_at": "2026-10-22T04:59:03+00:00",
   "items": [
     {
       "category": "Technology",
+      "source": "BBC News",
+      "title": "UK working to identify exposure after global cyber-security warning",
+      "description": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T04:38+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "No purchase, no seats: Starbucks China rolls out new policy",
+      "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T04:02+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T03:48+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US embassy accuses Canada of election meddling ahead of midterms",
+      "description": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T03:05+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+      "description": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T01:07+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "The real reasons US politicians are getting older",
+      "description": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
+      "link": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T23:52+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+      "description": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T23:27+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "The grads ditching the UK for a fresh start abroad",
+      "description": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+      "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T23:12+00:00"
+    },
+    {
+      "category": "World",
       "source": "BBC News",
       "title": "Trump's green card curbs test Indian tech workers' American dream",
       "description": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
@@ -16,6 +80,30 @@
       "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
       "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T23:04+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+      "description": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
+      "link": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T22:59+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+      "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T22:54+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
+      "description": "Both men have denied having any knowledge of Epstein's crimes and their attorney rejected the lawsuit as \"categorically false\".",
+      "link": "https://www.bbc.co.uk/news/articles/cqx287g8714lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T22:20+00:00"
     },
     {
       "category": "World",
@@ -61,7 +149,7 @@
       "category": "World",
       "source": "BBC News",
       "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
-      "description": "Early on Thursday morning local time, South Korea's oceans ministry said the shark had been successfully guided out of the canal.",
+      "description": "It is thought the shark may have been drawn to the canal by unusually warm water and plenty of fish.",
       "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T20:31+00:00"
     },
@@ -90,7 +178,7 @@
       "published": "2026-10-21T19:58+00:00"
     },
     {
-      "category": "Technology",
+      "category": "World",
       "source": "BBC News",
       "title": "Websites taken down worldwide as critical cyber-security update issued",
       "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
@@ -332,26 +420,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
-      "description": "Trump said he has plans to turn a 106-year-old public golf course in Washington DC into a tournament-capable golf course for pros, but local golfers are not happy.",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T03:45+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
       "description": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate.",
       "link": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T02:37+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
-      "description": "A \"Super El Niño\" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick.",
-      "link": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T23:51+00:00"
     },
     {
       "category": "Technology",
@@ -368,14 +440,6 @@
       "description": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
       "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-20T22:22+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Suspect arrested after historic town hall set alight - French media",
-      "description": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T21:05+00:00"
     },
     {
       "category": "Business",
@@ -418,14 +482,6 @@
       "published": "2026-10-20T19:30+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
-      "description": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\".",
-      "link": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T19:08+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Google resolves cloud outage affecting UK banks and websites",
@@ -464,14 +520,6 @@
       "description": "The bank says workers will be required to attend the office at least two days a week from February.",
       "link": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-20T14:50+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
-      "description": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T13:23+00:00"
     },
     {
       "category": "Technology",
@@ -562,30 +610,6 @@
       "published": "2026-10-20T05:27+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "How is the US economy really doing under President Trump?",
-      "description": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
-      "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T05:00+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
-      "description": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
-      "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T03:10+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Seventh day of violent clashes between Albanian protesters and police",
-      "description": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T02:45+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "Five ways El Niño is affecting the weather around the world",
@@ -620,21 +644,13 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-      "description": "The two top tennis pros married in 2021 and have one child together.",
-      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T21:02+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
       "description": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
       "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T20:00+00:00"
     },
     {
-      "category": "World",
+      "category": "Science",
       "source": "BBC News",
       "title": "Mission blasts off for Mars to grab a piece of its moon",
       "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
@@ -650,22 +666,6 @@
       "published": "2026-10-19T18:21+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Vinted blocks French looters listing stolen goods for sale",
-      "description": "The platform said since the weekend it had \"taken immediate action to identify and remove listings linked to looting\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T16:46+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Uber wins bid to throw out £200m black cab claims",
-      "description": "Claims that Uber misled TfL over its licence were thrown out because they were brought too late.",
-      "link": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T12:58+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "What are the new faces coming to UK bank notes?",
@@ -674,28 +674,12 @@
       "published": "2026-10-19T09:48+00:00"
     },
     {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Musk and Anthropic pledge public share giveaways",
-      "description": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T09:38+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
       "description": "Videos showed gunmen firing shots at Shroff's car while it was moving slowly past a crowd.",
       "link": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T07:35+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "At least 17 dead in crush at Hindu festival event in India",
-      "description": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
-      "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T19:19+00:00"
     },
     {
       "category": "India",
@@ -800,6 +784,22 @@
       "description": "The dispute raises questions about the Indian conglomerate's governance, succession plans and future.",
       "link": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T23:10+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Tech Now",
+      "description": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T01:00+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "Meet India's feisty Gen Z protester who is taking on Modi",
+      "description": "Neha Bora has emerged as one of the most recognisable faces from India's recent Gen Z-led protests.",
+      "link": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T07:19+00:00"
     }
   ],
   "feeds_with_errors": [
