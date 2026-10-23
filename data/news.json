@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-22T23:26:41+00:00",
+  "updated_at": "2026-10-23T05:00:08+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "description": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T01:38+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Amber warning in place as Storm Austen hits parts of UK",
+      "description": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday.",
+      "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T00:08+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
+      "description": "The attack on Shroff has revived memories of the 1990s, when gangsters wielded influence over the industry.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T23:55+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+      "description": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
+      "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T23:20+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T23:16+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+      "description": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
+      "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T23:16+00:00"
+    },
     {
       "category": "Science",
       "source": "BBC News",
@@ -8,6 +56,14 @@
       "description": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
       "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T23:04+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+      "description": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+      "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T22:27+00:00"
     },
     {
       "category": "Science",
@@ -46,7 +102,7 @@
       "source": "BBC News",
       "title": "BBC Inside Science",
       "description": "A Japanese spacecraft could become the first ever to bring Martian samples back to Earth.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T20:00+00:00"
     },
     {
@@ -104,14 +160,6 @@
       "description": "Jim O'Callaghan described the video as \"inappropriate and demeaning to grandparents\".",
       "link": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T17:18+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-      "description": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T17:14+00:00"
     },
     {
       "category": "World",
@@ -442,7 +490,7 @@
       "published": "2026-10-22T05:01+00:00"
     },
     {
-      "category": "World",
+      "category": "Business",
       "source": "BBC News",
       "title": "No order, no seat: Starbucks China rolls out new store policy",
       "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
@@ -474,8 +522,8 @@
       "published": "2026-10-21T23:12+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "Trump's green card curbs test Indian tech workers' American dream",
       "description": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
       "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
@@ -490,7 +538,7 @@
       "published": "2026-10-21T23:04+00:00"
     },
     {
-      "category": "World",
+      "category": "Business",
       "source": "BBC News",
       "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
       "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
@@ -506,7 +554,7 @@
       "published": "2026-10-21T22:02+00:00"
     },
     {
-      "category": "World",
+      "category": "Business",
       "source": "BBC News",
       "title": "Meta fined $25bn for 'lies' over user data privacy",
       "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
@@ -600,14 +648,6 @@
       "description": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
       "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T15:58+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Macron accuses foreign leaders of exploiting French riots",
-      "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T14:04+00:00"
     },
     {
       "category": "Science",
@@ -732,14 +772,6 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-      "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
-      "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T10:06+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
       "title": "What is the Budget and what could be in it?",
       "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
       "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
@@ -768,38 +800,6 @@
       "description": "Banknotes are getting a nature-themed makeover – and the Bank of England has revealed the four creatures that will feature on our money.",
       "link": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T09:48+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
-      "description": "Videos showed gunmen firing shots at Shroff's car while it was moving slowly past a crowd.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T07:35+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
-      "description": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
-      "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T00:41+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "India's 'cockroach' party founder detained ahead of protest",
-      "description": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T11:44+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Living with a stink? Technology might help",
-      "description": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
-      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T23:18+00:00"
     }
   ],
   "feeds_with_errors": [
