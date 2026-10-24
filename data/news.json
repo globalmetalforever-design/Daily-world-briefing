@@ -1,40 +1,160 @@
 {
-  "updated_at": "2026-10-24T04:45:10+00:00",
+  "updated_at": "2026-10-24T12:44:39+00:00",
   "items": [
     {
-      "category": "World",
+      "category": "Science",
       "source": "BBC News",
-      "title": "France prepares for day of protest a week after nationwide riots",
-      "description": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.",
-      "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T04:03+00:00"
+      "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
+      "description": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T12:42+00:00"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
-      "description": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T03:51+00:00"
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T12:12+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Rising demand from families needing Christmas help",
+      "description": "Charlotte Riley says more families are reaching out for help for a variety of reasons.",
+      "link": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T11:55+00:00"
     },
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
+      "title": "Storm Boelo to bring severe gales and heavy rain into Sunday",
       "description": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
       "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T02:25+00:00"
+      "published": "2026-10-24T11:48+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "description": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T11:23+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Wales plans to ban steel pylons as government launches consultation",
+      "description": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
+      "link": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T10:04+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Charity expects demand for Christmas present campaign",
+      "description": "The campaign, run by Little Stars, is running from today until 4 December.",
+      "link": "https://www.bbc.co.uk/news/articles/cj62yvqvxd4qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T09:53+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T09:46+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "description": "The children were subsequently rescued from the water, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T09:45+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+      "description": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
+      "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T09:44+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Weather warnings in place ahead of Storm Boelo",
+      "description": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T08:28+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+      "description": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T07:17+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Project to restore rare native trees with DNA testing",
+      "description": "Conservation groups say black poplars are endangered due to felling, land drainage and habitat loss.",
+      "link": "https://www.bbc.co.uk/news/articles/cw240ln41mq2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T06:17+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Historic swimming pond to be restored",
+      "description": "Specialists are looking at how to clear the Cornwall bath house pond and understand the tidal inlet.",
+      "link": "https://www.bbc.co.uk/news/articles/c5lyellrmlego?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T06:08+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "The people on standby when a storm strikes",
+      "description": "While most people are preparing to stay indoors as another storm approaches, others are getting ready to head straight into it.",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqwz79ylw4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T05:44+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
+      "description": "Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.",
+      "link": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T05:31+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "How Brazil's changing working class is reshaping the presidential race",
+      "description": "Calls for change present a challenge to President Lula in the second round of the election on Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T05:05+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "The rise of AI election ads in US midterms campaign",
+      "description": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.",
+      "link": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T05:03+00:00"
     },
     {
       "category": "World",
       "source": "BBC News",
       "title": "Australian MP's condition improves after alleged car attack",
-      "description": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+      "description": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
       "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-24T01:55+00:00"
     },
     {
-      "category": "Business",
+      "category": "World",
       "source": "BBC News",
       "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
       "description": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
@@ -50,14 +170,6 @@
       "published": "2026-10-24T00:09+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T00:05+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
@@ -68,10 +180,34 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+      "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
       "description": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
       "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T23:50+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+      "description": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
+      "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T23:11+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+      "description": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy.",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T23:09+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T23:08+00:00"
     },
     {
       "category": "India",
@@ -80,6 +216,22 @@
       "description": "Half a dozen elite British schools are chasing growth in India amid a boom in its wealthy population.",
       "link": "https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T23:02+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+      "description": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+      "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T22:47+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Who actually controls Ukraine's access to Starlink?",
+      "description": "President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it.",
+      "link": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T22:24+00:00"
     },
     {
       "category": "Science",
@@ -122,36 +274,12 @@
       "published": "2026-10-23T19:42+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Trains cancelled and roads warnings as Scotland prepares for Storm Boelo",
-      "description": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T19:31+00:00"
-    },
-    {
       "category": "World",
       "source": "BBC News",
-      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-      "description": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T19:30+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "description": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T18:52+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Wales plans to ban steel pylons as government launches consultation",
-      "description": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
-      "link": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T16:44+00:00"
+      "title": "Trump administration sues to block certification of upcoming Alaska election",
+      "description": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
+      "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T18:49+00:00"
     },
     {
       "category": "Science",
@@ -160,14 +288,6 @@
       "description": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday.",
       "link": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T16:13+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Watch: CCTV footage shows gunmen near church in Jordan",
-      "description": "Dozens of people had been inside the church for a funeral when the shooting began, local media report.",
-      "link": "https://www.bbc.co.uk/news/videos/c39wz712q0kzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T15:59+00:00"
     },
     {
       "category": "Business",
@@ -200,14 +320,6 @@
       "description": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
       "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T15:15+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Weather warnings in place ahead of Storm Boelo",
-      "description": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T14:37+00:00"
     },
     {
       "category": "Science",
@@ -276,14 +388,6 @@
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "Fund to help businesses switch to green vehicles",
-      "description": "Council leader Stephen Place says it will help businesses counter the rising cost of fuel.",
-      "link": "https://www.bbc.co.uk/news/articles/cr62ydqjvg9lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T10:15+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
       "title": "Storm Austen hits UK as yellow wind warnings in effect",
       "description": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday.",
       "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
@@ -298,8 +402,8 @@
       "published": "2026-10-23T09:23+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "Rubio turns to small Indian town as US faces high oil prices",
       "description": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year.",
       "link": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
@@ -346,30 +450,6 @@
       "published": "2026-10-23T05:45+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "'I live in the dark': How rising bills are shaping daily life",
-      "description": "Errol McGuiness says he has changed his daily routine to cope with higher household bills.",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0vxl21m3jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T05:35+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Could experts have a solution to toxic algae?",
-      "description": "Experts from the University of Bath are testing out a new invention at a lake in Wiltshire.",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8l640xl3do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T05:17+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "'Shock' of first England farmer hit by bird flu this season",
-      "description": "The first farmer in England hit by bird flu this season tells of the \"emotional roller coaster\" of losing 32,000 hens.",
-      "link": "https://www.bbc.co.uk/news/articles/crpdg235g76no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T05:10+00:00"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
@@ -378,8 +458,8 @@
       "published": "2026-10-23T05:05+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
       "description": "The attack on Shroff has revived memories of the 1990s, when gangsters wielded influence over the industry.",
       "link": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
@@ -392,14 +472,6 @@
       "description": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
       "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T23:20+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
-      "description": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
-      "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T23:16+00:00"
     },
     {
       "category": "Business",
@@ -728,78 +800,6 @@
       "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
       "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T19:45+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
-      "description": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
-      "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T00:41+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Living with a stink? Technology might help",
-      "description": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
-      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T23:18+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "BBC Inside Science",
-      "description": "How can we to compete against a natural force with the power of 25 atomic bombs?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct9789?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T20:00+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
-      "description": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
-      "link": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T23:32+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
-      "description": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
-      "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T23:01+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "World's oldest shipwreck found off coast of Turkey",
-      "description": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
-      "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T05:00+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "How long will humans be needed for translation?",
-      "description": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
-      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T23:05+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Tech Life",
-      "description": "The plan for an orbiting data centre involves linking satellites around Earth.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T19:45+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Boardroom feud tests trusted Indian business empire",
-      "description": "The dispute raises questions about the Indian conglomerate's governance, succession plans and future.",
-      "link": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T23:10+00:00"
     }
   ],
   "feeds_with_errors": [
