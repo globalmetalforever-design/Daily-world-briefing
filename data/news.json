@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T12:44:39+00:00",
+  "updated_at": "2026-10-24T18:49:56+00:00",
   "items": [
     {
       "category": "Science",
@@ -7,7 +7,63 @@
       "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
       "description": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
       "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T12:42+00:00"
+      "published": "2026-10-24T18:26+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Two rescued after Nairobi building collapse with five still missing",
+      "description": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
+      "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T17:25+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+      "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T17:21+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "description": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T17:11+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "description": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
+      "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T15:56+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "description": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T15:21+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "description": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T14:45+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Amber weather warning as Storm Boelo hits Scotland",
+      "description": "The Met Office has issued an amber warning for wind over Scotland from 21:00 until 21:00 on Sunday.",
+      "link": "https://www.bbc.co.uk/news/videos/cmqlnkq6p6y7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T14:40+00:00"
     },
     {
       "category": "World",
@@ -32,14 +88,6 @@
       "description": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
       "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-24T11:48+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "description": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T11:23+00:00"
     },
     {
       "category": "Science",
@@ -68,18 +116,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-      "description": "The children were subsequently rescued from the water, police say.",
-      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T09:45+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
-      "description": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
-      "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T09:44+00:00"
+      "title": "Three released without charge after fatal arson attack in Ireland",
+      "description": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
+      "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T09:38+00:00"
     },
     {
       "category": "Science",
@@ -181,7 +221,7 @@
       "category": "Business",
       "source": "BBC News",
       "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
-      "description": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
+      "description": "With storms hitting parts of the UK and the clocks going back, here are some practical ways to cope with falling temperatures.",
       "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T23:50+00:00"
     },
@@ -296,14 +336,6 @@
       "description": "The little-known investment Martin Lewis wants you to understand",
       "link": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T15:41+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "description": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T15:37+00:00"
     },
     {
       "category": "World",
@@ -434,7 +466,7 @@
       "published": "2026-10-23T08:04+00:00"
     },
     {
-      "category": "Science",
+      "category": "Business",
       "source": "BBC News",
       "title": "Lights will stay on this winter, grid operator says after concerns",
       "description": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
@@ -528,14 +560,6 @@
       "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
       "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T17:12+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Damaging hail pelts Phoenix in rare storm",
-      "description": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice.",
-      "link": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T15:11+00:00"
     },
     {
       "category": "Business",
@@ -776,30 +800,6 @@
       "description": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
       "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-20T23:13+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Tech Life",
-      "description": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T19:45+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
-      "description": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
-      "link": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T23:04+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Mission blasts off for Mars to grab a piece of its moon",
-      "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T19:45+00:00"
     }
   ],
   "feeds_with_errors": [
