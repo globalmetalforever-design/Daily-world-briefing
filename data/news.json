@@ -1,13 +1,37 @@
 {
-  "updated_at": "2026-10-23T23:12:37+00:00",
+  "updated_at": "2026-10-24T04:45:10+00:00",
   "items": [
     {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Britain's posh schools are heading to India for students and profits",
-      "description": "Half a dozen elite British schools are chasing growth in India amid a boom in its wealthy population.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T23:02+00:00"
+      "category": "World",
+      "source": "BBC News",
+      "title": "France prepares for day of protest a week after nationwide riots",
+      "description": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.",
+      "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T04:03+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+      "description": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T03:51+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
+      "description": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
+      "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T02:25+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Australian MP's condition improves after alleged car attack",
+      "description": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+      "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T01:55+00:00"
     },
     {
       "category": "Business",
@@ -15,7 +39,47 @@
       "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
       "description": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
       "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T22:54+00:00"
+      "published": "2026-10-24T00:36+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "How does the UK state pension compare with other countries?",
+      "description": "Do British pensioners have it better or worse than those in other countries?",
+      "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T00:09+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T00:05+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T00:05+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+      "description": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T23:50+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "Britain's posh schools are heading to India for students and profits",
+      "description": "Half a dozen elite British schools are chasing growth in India amid a boom in its wealthy population.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T23:02+00:00"
     },
     {
       "category": "Science",
@@ -53,7 +117,7 @@
       "category": "World",
       "source": "BBC News",
       "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-      "description": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+      "description": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
       "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T19:42+00:00"
     },
@@ -146,14 +210,6 @@
       "published": "2026-10-23T14:37+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "PSG v Lyon moved as Paris prepares for more protests",
-      "description": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T14:18+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "Why should I stockpile and what will I need?",
@@ -176,14 +232,6 @@
       "description": "October's full Moon, known as the Hunter's Moon, will rise on Sunday night. Will the weather be in your favour?",
       "link": "https://www.bbc.co.uk/weather/articles/cw4g19dll8jlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T12:24+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Denmark to ban mink farming in government U-turn",
-      "description": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
-      "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T12:17+00:00"
     },
     {
       "category": "Technology",
@@ -232,22 +280,6 @@
       "description": "Council leader Stephen Place says it will help businesses counter the rising cost of fuel.",
       "link": "https://www.bbc.co.uk/news/articles/cr62ydqjvg9lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T10:15+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
-      "description": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
-      "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T10:14+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
-      "description": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T10:14+00:00"
     },
     {
       "category": "Science",
@@ -498,14 +530,6 @@
       "published": "2026-10-22T10:08+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Woman 'scared to turn heating on' due to oil cost",
-      "description": "Roslynn Garner-Gatley uses a hot water bottle bed socks and earlier bedtimes to stay warm.",
-      "link": "https://www.bbc.co.uk/news/videos/cmd7qr0ezrq7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T09:55+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "UK working to identify exposure after global cyber-security warning",
@@ -520,14 +544,6 @@
       "description": "Scottish Green Mark Ruskell, the SNP’s Keith Brown and Scottish Labour’s Jenny Young weigh up the Jackdaw decision.",
       "link": "https://www.bbc.co.uk/news/videos/c39wzvxxjejxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T07:26+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Children in care to get £10 a week savings",
-      "description": "Eligible people in the care system will be able to access the savings once they turn 18.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg0klve484o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T06:57+00:00"
     },
     {
       "category": "Science",
@@ -674,20 +690,12 @@
       "published": "2026-10-21T10:16+00:00"
     },
     {
-      "category": "Technology",
+      "category": "Science",
       "source": "BBC News",
       "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
       "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
       "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T08:42+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "What is happening to UK prices?",
-      "description": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
-      "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T08:35+00:00"
     },
     {
       "category": "Business",
@@ -792,14 +800,6 @@
       "description": "The dispute raises questions about the Indian conglomerate's governance, succession plans and future.",
       "link": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T23:10+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Tech Now",
-      "description": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T01:00+00:00"
     }
   ],
   "feeds_with_errors": [
