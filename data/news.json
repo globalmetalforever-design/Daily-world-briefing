@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-10-25T19:06:13+00:00",
+  "updated_at": "2026-10-25T22:37:33+00:00",
   "items": [
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
+      "description": "An amber wind warning has now expired after severe weather sweeps across the UK.",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T22:24+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Deeply divided Israel braces for pivotal election",
+      "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T22:11+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T22:06+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Why Israel's election is one of the most important in its history",
+      "description": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "link": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T22:05+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
+      "description": "The severe weather brought strong winds and heavy rain to large parts of Scotland.",
+      "link": "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T21:11+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Man killed by falling tree as Storm Boelo batters Scotland",
+      "description": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland.",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T21:09+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Around 6000 still without power in NI and Republic after Storm Boelo",
+      "description": "Around 470 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure.",
+      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T20:15+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "The aftermath of Storm Boelo across Scotland",
+      "description": "Flooding, travel disruption and fallen trees - Storm Boelo has left it's mark across Scotland.",
+      "link": "https://www.bbc.co.uk/news/videos/cr3wvzl947q7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T19:31+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+      "description": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T19:14+00:00"
+    },
     {
       "category": "Science",
       "source": "BBC News",
@@ -20,22 +92,6 @@
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "Man killed by falling tree as Storm Boelo brings more severe weather to UK",
-      "description": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T17:56+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Man killed by falling tree as Storm Boelo batters Scotland",
-      "description": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland.",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T17:49+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
       "title": "When will the weather settle after Storm Boelo?",
       "description": "Gillian Smart has the weather forecast after the worst of Storm Boelo.",
       "link": "https://www.bbc.co.uk/news/videos/cmrlyeekzldpo?at_medium=RSS&at_campaign=rss",
@@ -44,26 +100,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Early reports suggest record high turnout in Serbia elections",
-      "description": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T16:05+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
       "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
       "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-25T15:32+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Flight disruption and thousands without electricity after Storm Boelo",
-      "description": "About 350 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure.",
-      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T15:14+00:00"
     },
     {
       "category": "World",
@@ -228,14 +268,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-      "description": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T03:20+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
       "description": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
       "link": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
@@ -336,14 +368,6 @@
       "description": "Charlotte Riley says more families are reaching out for help for a variety of reasons.",
       "link": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-24T11:55+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Storm Boelo to bring severe gales and heavy rain into Sunday",
-      "description": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
-      "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T11:48+00:00"
     },
     {
       "category": "Science",
@@ -504,14 +528,6 @@
       "description": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
       "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T11:48+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
-      "description": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
-      "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T11:30+00:00"
     },
     {
       "category": "India",
@@ -784,22 +800,6 @@
       "description": "The surprise came after a teacher's father met Peake while working on a cruise ship.",
       "link": "https://www.bbc.co.uk/news/articles/cmvg9vlgxkv8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T11:55+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
-      "description": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T10:20+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-      "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T08:42+00:00"
     }
   ],
   "feeds_with_errors": [
