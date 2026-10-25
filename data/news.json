@@ -1,21 +1,77 @@
 {
-  "updated_at": "2026-10-25T13:13:33+00:00",
+  "updated_at": "2026-10-25T19:06:13+00:00",
   "items": [
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "Flight disruption and thousands without electricity after Storm Boelo",
-      "description": "Flights have been cancelled in Belfast and Dublin, while thousands of homes have been left without power.",
-      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T13:00+00:00"
+      "title": "Travel disruption and power cuts after back-to-back storms",
+      "description": "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T18:50+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T18:29+00:00"
     },
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "Travel disruption and power cuts after back-to-back storms",
-      "description": "Hundreds of homes have been without power while there is disruption on roads, rail and ferry.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T12:57+00:00"
+      "title": "Man killed by falling tree as Storm Boelo brings more severe weather to UK",
+      "description": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T17:56+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Man killed by falling tree as Storm Boelo batters Scotland",
+      "description": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland.",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T17:49+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "When will the weather settle after Storm Boelo?",
+      "description": "Gillian Smart has the weather forecast after the worst of Storm Boelo.",
+      "link": "https://www.bbc.co.uk/news/videos/cmrlyeekzldpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T17:04+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Early reports suggest record high turnout in Serbia elections",
+      "description": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T16:05+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T15:32+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Flight disruption and thousands without electricity after Storm Boelo",
+      "description": "About 350 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure.",
+      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T15:14+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Gabon says access to social media restored after eight-month ban",
+      "description": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T14:39+00:00"
     },
     {
       "category": "Science",
@@ -26,28 +82,12 @@
       "published": "2026-10-25T12:18+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-      "description": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
-      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T11:54+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "'What was in the Clyde is basically now on the shore'",
       "description": "BBC Scotland reports from the scene at Cardross as Storm Boelo batters the country.",
       "link": "https://www.bbc.co.uk/news/videos/cmg47e2znpzpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-25T11:42+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Overnight winds reach 85mph as Scotland is hit by Storm Boelo",
-      "description": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T11:14+00:00"
     },
     {
       "category": "World",
@@ -268,14 +308,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Mum who died trying to save sons was hero, husband says",
-      "description": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T17:11+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
       "description": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
       "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
@@ -340,14 +372,6 @@
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "Weather warnings in place ahead of Storm Boelo",
-      "description": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T08:28+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
       "title": "Project to restore rare native trees with DNA testing",
       "description": "Conservation groups say black poplars are endangered due to felling, land drainage and habitat loss.",
       "link": "https://www.bbc.co.uk/news/articles/cw240ln41mq2o?at_medium=RSS&at_campaign=rss",
@@ -360,38 +384,6 @@
       "description": "Specialists are looking at how to clear the Cornwall bath house pond and understand the tidal inlet.",
       "link": "https://www.bbc.co.uk/news/articles/c5lyellrmlego?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-24T06:08+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "The people on standby when a storm strikes",
-      "description": "While most people are preparing to stay indoors as another storm approaches, others are getting ready to head straight into it.",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqwz79ylw4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T05:44+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
-      "description": "Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.",
-      "link": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T05:31+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "How Brazil's changing working class is reshaping the presidential race",
-      "description": "Calls for change present a challenge to President Lula in the second round of the election on Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T05:05+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "The rise of AI election ads in US midterms campaign",
-      "description": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.",
-      "link": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T05:03+00:00"
     },
     {
       "category": "World",
@@ -800,6 +792,14 @@
       "description": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
       "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T10:20+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+      "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T08:42+00:00"
     }
   ],
   "feeds_with_errors": [
