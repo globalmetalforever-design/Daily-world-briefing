@@ -1,13 +1,53 @@
 {
-  "updated_at": "2026-10-24T22:33:00+00:00",
+  "updated_at": "2026-10-25T04:52:19+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "description": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T04:16+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Budget to include £1bn for social and affordable housing",
+      "description": "The move will take funding for the 10-year programme to more than £40bn.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T02:57+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T23:15+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T23:02+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+      "description": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.",
+      "link": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T23:02+00:00"
+    },
     {
       "category": "Science",
       "source": "BBC News",
       "title": "Trains cancelled and road warnings as Storm Boelo sweeps into Scotland",
       "description": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
       "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T22:23+00:00"
+      "published": "2026-10-24T22:39+00:00"
     },
     {
       "category": "World",
@@ -20,16 +60,8 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-      "description": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T21:09+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
-      "description": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+      "description": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
       "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-24T19:37+00:00"
     },
@@ -48,14 +80,6 @@
       "description": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
       "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-24T17:25+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T17:21+00:00"
     },
     {
       "category": "World",
@@ -442,14 +466,6 @@
       "published": "2026-10-23T11:30+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Storm Austen hits UK as yellow wind warnings in effect",
-      "description": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday.",
-      "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T09:30+00:00"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
@@ -464,22 +480,6 @@
       "description": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year.",
       "link": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T08:39+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "BBC presenter battles strong winds as Storm Austen hits Newquay",
-      "description": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
-      "link": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T08:26+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "What is the Budget and what could be in it?",
-      "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T08:14+00:00"
     },
     {
       "category": "India",
@@ -542,7 +542,7 @@
       "source": "BBC News",
       "title": "BBC Inside Science",
       "description": "A Japanese spacecraft could become the first ever to bring Martian samples back to Earth.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T20:00+00:00"
     },
     {
@@ -650,14 +650,6 @@
       "published": "2026-10-22T07:26+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Is the UK set to green-light a huge untapped oil field?",
-      "description": "Scotland editor James Cook visits Rosebank - the UK's largest known untapped oilfield - in the North Atlantic.",
-      "link": "https://www.bbc.co.uk/news/videos/cxnv0emj06v1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T06:09+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Is an 'AI war' complicating your job search?",
@@ -754,20 +746,12 @@
       "published": "2026-10-21T17:06+00:00"
     },
     {
-      "category": "Technology",
+      "category": "Business",
       "source": "BBC News",
       "title": "Just Eat apologises for AI food mistakes after social media ridicule",
       "description": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
       "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T17:04+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-      "description": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
-      "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T15:58+00:00"
     },
     {
       "category": "Science",
@@ -800,6 +784,22 @@
       "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
       "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T08:42+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "The tech helping crack decades-old cold cases",
+      "description": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T23:13+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Tech Life",
+      "description": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T19:45+00:00"
     }
   ],
   "feeds_with_errors": [
