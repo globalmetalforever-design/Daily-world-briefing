@@ -1,13 +1,93 @@
 {
-  "updated_at": "2026-10-26T15:15:50+00:00",
+  "updated_at": "2026-10-26T21:03:53+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "description": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T21:02+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+      "description": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T19:57+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "description": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+      "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T19:27+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "'Maxxing' selected as Dictionary.com word of the year",
+      "description": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T19:16+00:00"
+    },
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "Part of Antarctica named after former BBC science correspondent",
-      "description": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T14:54+00:00"
+      "title": "Political battle intensifies within Labour over Rosebank oil field",
+      "description": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans.",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T18:09+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "'Safety first' as wedding guests stranded on island after Storm Boelo",
+      "description": "Wedding guests at an island in County Fermanagh were left stranded due to the storm.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9lykm93jmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T18:09+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
+      "description": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?",
+      "link": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T18:00+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
+      "description": "The Met Office has issued a fresh wind warning from 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T17:22+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "description": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T17:00+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
+      "description": "One resident, whose 75-year-old father was killed, described it as an ambush, saying they were surrounded.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T16:31+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Israel and the US are both going to the polls - the consequences will be global",
+      "description": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
+      "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T16:30+00:00"
     },
     {
       "category": "World",
@@ -15,7 +95,39 @@
       "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
       "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
       "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T14:41+00:00"
+      "published": "2026-10-26T16:27+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "description": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T15:46+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+      "description": "The incident happened on Saturday night, close to an American football stadium where a game had just been played.",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T15:45+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+      "description": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T15:37+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Part of Antarctica named after former BBC science correspondent",
+      "description": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T14:54+00:00"
     },
     {
       "category": "World",
@@ -48,30 +160,6 @@
       "description": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
       "link": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-26T14:13+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "description": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
-      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T13:54+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "description": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T13:18+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
-      "description": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds.",
-      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T12:00+00:00"
     },
     {
       "category": "World",
@@ -112,14 +200,6 @@
       "description": "The spill of 18 tonnes of plastic pellets happened in July but there is still a lot we do not know.",
       "link": "https://www.bbc.co.uk/news/articles/c34g1e81e9jeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-26T11:01+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "All you need to know about the Dakar 2026 Youth Olympics",
-      "description": "Senegal hosts Africa's first Olympic event as the Dakar 2026 Youth Games bring together 2,700 athletes from around the world.",
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/ck0546l2j4ppo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T10:49+00:00"
     },
     {
       "category": "Business",
@@ -242,8 +322,8 @@
       "published": "2026-10-26T02:16+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "India's cartoonists built an audience online - now their posts are being restricted",
       "description": "Indian cartoonists say online restrictions are making satire harder, but they aren't giving up.",
       "link": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss",
@@ -280,22 +360,6 @@
       "description": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
       "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-25T23:44+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-      "description": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T23:33+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Deeply divided Israel braces for pivotal election",
-      "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T22:11+00:00"
     },
     {
       "category": "World",
@@ -344,38 +408,6 @@
       "description": "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen.",
       "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-25T18:50+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "When will the weather settle after Storm Boelo?",
-      "description": "Gillian Smart has the weather forecast after the worst of Storm Boelo.",
-      "link": "https://www.bbc.co.uk/news/videos/cmrlyeekzldpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T17:04+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T15:32+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
-      "description": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T14:34+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Police using AI risks making discrimination worse, researchers warn",
-      "description": "AI tools learn from biased records and may deepen discrimination against minorities without oversight, researchers say.",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg4pl7pgvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T12:18+00:00"
     },
     {
       "category": "Business",
@@ -456,14 +488,6 @@
       "description": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
       "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-24T19:37+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-      "description": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
-      "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T15:56+00:00"
     },
     {
       "category": "Business",
@@ -714,14 +738,6 @@
       "published": "2026-10-22T08:23+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Jackdaw decision 'taken outwith Scotland about Scotland's energy'",
-      "description": "Scottish Green Mark Ruskell, the SNP’s Keith Brown and Scottish Labour’s Jenny Young weigh up the Jackdaw decision.",
-      "link": "https://www.bbc.co.uk/news/videos/c39wzvxxjejxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T07:26+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "No order, no seat: Starbucks China rolls out new store policy",
@@ -762,14 +778,6 @@
       "published": "2026-10-21T23:04+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Websites taken down worldwide as critical cyber-security update issued",
-      "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
-      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T19:54+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "Pupils who designed a badge sent to space meet NASA astronaut",
@@ -792,14 +800,6 @@
       "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
       "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T08:42+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "The tech helping crack decades-old cold cases",
-      "description": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
-      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T23:13+00:00"
     }
   ],
   "feeds_with_errors": [
