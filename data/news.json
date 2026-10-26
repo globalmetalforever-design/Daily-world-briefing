@@ -1,13 +1,77 @@
 {
-  "updated_at": "2026-10-25T22:37:33+00:00",
+  "updated_at": "2026-10-26T04:56:27+00:00",
   "items": [
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
+      "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
       "description": "An amber wind warning has now expired after severe weather sweeps across the UK.",
       "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T22:24+00:00"
+      "published": "2026-10-26T04:41+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T03:05+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "What is the Budget and what could be in it?",
+      "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T02:16+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "India's cartoonists built an audience online - now their posts are being restricted",
+      "description": "Indian cartoonists say online restrictions are making satire harder, but they aren't giving up.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T01:09+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T01:07+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "description": "The economic is positive now but come January things could become trickier for the Labour government",
+      "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T00:26+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "From agriculture to AI-griculture: How tech is changing farming",
+      "description": "From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology.",
+      "link": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T00:13+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Majority of homes in NI have power restored after Storm Boelo",
+      "description": "Northern Ireland Electricity Networks (NIE) said around 12,500 properties were without power at one stage.",
+      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T23:53+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "description": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T23:44+00:00"
     },
     {
       "category": "World",
@@ -16,14 +80,6 @@
       "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
       "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-25T22:11+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-      "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T22:06+00:00"
     },
     {
       "category": "World",
@@ -52,14 +108,6 @@
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "Around 6000 still without power in NI and Republic after Storm Boelo",
-      "description": "Around 470 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure.",
-      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T20:15+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
       "title": "The aftermath of Storm Boelo across Scotland",
       "description": "Flooding, travel disruption and fallen trees - Storm Boelo has left it's mark across Scotland.",
       "link": "https://www.bbc.co.uk/news/videos/cr3wvzl947q7o?at_medium=RSS&at_campaign=rss",
@@ -80,14 +128,6 @@
       "description": "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen.",
       "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-25T18:50+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T18:29+00:00"
     },
     {
       "category": "Science",
@@ -352,14 +392,6 @@
       "description": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
       "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-24T15:21+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Amber weather warning as Storm Boelo hits Scotland",
-      "description": "The Met Office has issued an amber warning for wind over Scotland from 21:00 until 21:00 on Sunday.",
-      "link": "https://www.bbc.co.uk/news/videos/cmqlnkq6p6y7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T14:40+00:00"
     },
     {
       "category": "Business",
@@ -650,14 +682,6 @@
       "published": "2026-10-22T14:08+00:00"
     },
     {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Indian among two killed in attack on Saudi airport, authorities say",
-      "description": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom.",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T13:46+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Tank barrel production returns to UK after 20 years",
@@ -756,21 +780,13 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-      "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T22:54+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
       "title": "Meta fined $25bn for 'lies' over user data privacy",
       "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
       "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T21:49+00:00"
     },
     {
-      "category": "Technology",
+      "category": "Business",
       "source": "BBC News",
       "title": "Websites taken down worldwide as critical cyber-security update issued",
       "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
@@ -784,22 +800,6 @@
       "description": "Frank Rubio is set to be in the crew for the Artemis III mission and previously spent a year in space.",
       "link": "https://www.bbc.co.uk/news/articles/cq78pzl85nglo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T19:39+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "A warning to anyone with credit card debt...",
-      "description": "Martin’s leading this week’s podcast with an urgent warning for anyone carrying credit card: now is the time to act.",
-      "link": "https://www.bbc.co.uk/news/videos/c620reny4e1no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T17:06+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Astronaut surprise video leaves pupils starstruck",
-      "description": "The surprise came after a teacher's father met Peake while working on a cruise ship.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg9vlgxkv8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T11:55+00:00"
     }
   ],
   "feeds_with_errors": [
