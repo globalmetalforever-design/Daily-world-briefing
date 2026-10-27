@@ -1,6 +1,102 @@
 {
-  "updated_at": "2026-10-26T21:03:53+00:00",
+  "updated_at": "2026-10-27T05:14:11+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Jay-Z to perform at Super Bowl half-time show",
+      "description": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T05:05+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Meghan to co-host Junior MasterChef Australia",
+      "description": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
+      "link": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T04:43+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Storm Boelo leaves thousands without power as Met Office issues new wind warning",
+      "description": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T04:13+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "description": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T02:40+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "description": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T02:01+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "description": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T01:57+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+      "description": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+      "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T01:48+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "description": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T00:31+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+      "description": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T00:01+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "India's largest share sale could end cheap mobile internet for millions",
+      "description": "Jio's IPO promises a windfall for investors, but could signal the end of cheap mobile data for millions.",
+      "link": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T00:00+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "New weather warnings as third storm set to hit Scotland",
+      "description": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend.",
+      "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T23:00+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "'Maxxing' selected as Dictionary.com word of the year",
+      "description": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T21:31+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -28,10 +124,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "'Maxxing' selected as Dictionary.com word of the year",
-      "description": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T19:16+00:00"
+      "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
+      "description": "The Pope underwent surgery in to remove a tumour on the lower part of his right lung and is gradually resuming his duties.",
+      "link": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T18:46+00:00"
     },
     {
       "category": "Science",
@@ -56,14 +152,6 @@
       "description": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?",
       "link": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-26T18:00+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
-      "description": "The Met Office has issued a fresh wind warning from 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
-      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T17:22+00:00"
     },
     {
       "category": "World",
@@ -122,7 +210,7 @@
       "published": "2026-10-26T15:37+00:00"
     },
     {
-      "category": "World",
+      "category": "Science",
       "source": "BBC News",
       "title": "Part of Antarctica named after former BBC science correspondent",
       "description": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
@@ -258,14 +346,6 @@
       "published": "2026-10-26T06:18+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-      "description": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
-      "link": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T06:16+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "The dump detectives on the trail of the fly-tippers",
@@ -280,14 +360,6 @@
       "description": "Three months on from a devastating wildfire, the RSPB says it will take 20 years to recover.",
       "link": "https://www.bbc.co.uk/news/articles/c3vgxk9w9rqjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-26T06:03+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T05:20+00:00"
     },
     {
       "category": "Science",
@@ -402,14 +474,6 @@
       "published": "2026-10-25T19:00+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Travel disruption and power cuts after back-to-back storms",
-      "description": "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T18:50+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Budget to include £1bn for social and affordable housing",
@@ -498,30 +562,6 @@
       "published": "2026-10-24T12:00+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Rising demand from families needing Christmas help",
-      "description": "Charlotte Riley says more families are reaching out for help for a variety of reasons.",
-      "link": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T11:55+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "description": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T00:36+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "How does the UK state pension compare with other countries?",
-      "description": "Do British pensioners have it better or worse than those in other countries?",
-      "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T00:09+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
@@ -554,14 +594,6 @@
       "published": "2026-10-23T15:41+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-      "description": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
-      "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T15:15+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "What is PHP and why did it spark a global cyber-security scramble?",
@@ -576,14 +608,6 @@
       "description": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
       "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T12:00+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
-      "description": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T11:48+00:00"
     },
     {
       "category": "India",
@@ -604,14 +628,6 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "Lights will stay on this winter, grid operator says after concerns",
-      "description": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T06:47+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
       "title": "Renting in London - 'I pay £2,000 for one bedroom'",
       "description": "We ask people in the capital how much they pay for their homes.",
       "link": "https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo?at_medium=RSS&at_campaign=rss",
@@ -624,22 +640,6 @@
       "description": "The attack on Shroff has revived memories of the 1990s, when gangsters wielded influence over the industry.",
       "link": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T23:55+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-      "description": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
-      "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T23:20+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
-      "description": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
-      "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T22:27+00:00"
     },
     {
       "category": "Science",
@@ -682,36 +682,12 @@
       "published": "2026-10-22T17:12+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "'I wasn't thinking straight' says five jobs civil servant",
-      "description": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T15:05+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-      "description": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T14:28+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "YouTuber arrested after popular Indian finance influencer's suicide",
       "description": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday.",
       "link": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T14:08+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Tank barrel production returns to UK after 20 years",
-      "description": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
-      "link": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T13:45+00:00"
     },
     {
       "category": "Technology",
@@ -728,30 +704,6 @@
       "description": "'500 new vulnerabilities' found in government, says AI minister",
       "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T10:08+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "UK working to identify exposure after global cyber-security warning",
-      "description": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T08:23+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "No order, no seat: Starbucks China rolls out new store policy",
-      "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T04:02+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
-      "description": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T23:27+00:00"
     },
     {
       "category": "Business",
@@ -800,6 +752,54 @@
       "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
       "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T08:42+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "The tech helping crack decades-old cold cases",
+      "description": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T23:13+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Tech Life",
+      "description": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T19:45+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
+      "description": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
+      "link": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T23:04+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Mission blasts off for Mars to grab a piece of its moon",
+      "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T19:45+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+      "description": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T00:41+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Living with a stink? Technology might help",
+      "description": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T23:18+00:00"
     }
   ],
   "feeds_with_errors": [
