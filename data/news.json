@@ -1,13 +1,157 @@
 {
-  "updated_at": "2026-10-28T15:10:58+00:00",
+  "updated_at": "2026-10-28T21:09:10+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+      "description": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
+      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T21:07+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Israel's election deadlock is a sign of the country's deep divisions",
+      "description": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
+      "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T20:53+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Restaurants sceptical over 'garlic and gherkins' plan",
+      "description": "Import tariffs on more than 100 items - including garlic, gherkins and plant-based milk - are being removed.",
+      "link": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T20:31+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T20:24+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "What we now know about the UK economy in four charts",
+      "description": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+      "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T20:08+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "What the Budget offers for under 25s - and what it leaves out",
+      "description": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+      "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T20:02+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+      "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T19:51+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+      "description": "The Russian President praised Musk and said they are in \"close\" contact.",
+      "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T19:15+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Healey tells departments to make 1% cuts to fund defence",
+      "description": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T19:01+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "How did Flávio Bolsonaro end up in Miami?",
+      "description": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
+      "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T18:51+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+      "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T18:45+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Three ways the Budget affects you",
+      "description": "The BBC's Esyllt Carr explains how the chancellor's spending plans impact young people.",
+      "link": "https://www.bbc.co.uk/news/videos/cjkgern1yw0lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T18:32+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "The Budget explained in less than one minute",
+      "description": "What the Budget means for you in under a minute",
+      "link": "https://www.bbc.co.uk/news/videos/crkg70lnlx9yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T18:17+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Tax thresholds remain unchanged - here's what it means for your pay",
+      "description": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
+      "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T18:12+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Will I get the £100 energy payment and when will I receive it?",
+      "description": "Here is what you need to know about the payment that millions will receive from January.",
+      "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T17:47+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
+      "description": "Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people.",
+      "link": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T17:34+00:00"
+    },
     {
       "category": "Business",
       "source": "BBC News",
       "title": "Budget 2026: Key points at a glance",
       "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
       "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T15:04+00:00"
+      "published": "2026-10-28T16:55+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch: At the scene of Spain's deadly train crash",
+      "description": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
+      "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T16:45+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Your pay, energy bills and savings: How the Budget affects you",
+      "description": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+      "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T16:43+00:00"
     },
     {
       "category": "World",
@@ -15,7 +159,7 @@
       "title": "What we know so far about deadly Spain train crash",
       "description": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
       "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T14:53+00:00"
+      "published": "2026-10-28T15:36+00:00"
     },
     {
       "category": "Business",
@@ -26,12 +170,12 @@
       "published": "2026-10-28T14:53+00:00"
     },
     {
-      "category": "Business",
+      "category": "World",
       "source": "BBC News",
-      "title": "Your pay, energy bills and savings: How the Budget affects you",
-      "description": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-      "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T14:50+00:00"
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "description": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T14:30+00:00"
     },
     {
       "category": "World",
@@ -60,42 +204,10 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "How will the tax cut on gherkins help restaurants?",
-      "description": "BBC Radio Manchester spoke to a burger restaurant amid the chancellor's budget announcements.",
-      "link": "https://www.bbc.co.uk/news/videos/c6y0e1812r1no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T12:28+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "More cats abandoned 'due to rising costs'",
-      "description": "A shelter says it has looked after 150 more cats and kittens this summer than last year.",
-      "link": "https://www.bbc.co.uk/news/videos/cked3en749pyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T12:21+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
-      "description": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T11:30+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
       "title": "You may get the right to find out what your colleagues earn - here's why",
       "description": "Employees should legally be able to find out what their co-workers are earning, the UK's equality watchdog says",
       "link": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T10:42+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
-      "description": "The two main blocs appear to have too few seats to form the next government without reliance on Arab parties.",
-      "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T10:35+00:00"
     },
     {
       "category": "World",
@@ -136,14 +248,6 @@
       "description": "Sir Jeremy Hunt spoke to BBC Breakfast about his hopes and qualms ahead of John Healey's autumn Budget.",
       "link": "https://www.bbc.co.uk/news/videos/c65ynlg4rxvqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T09:54+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "'Government to decide who to help and who picks up the tab'",
-      "description": "Helen Miller, director at the Institute for Fiscal Studies, speaks to the Today programme about challenges in the budget.",
-      "link": "https://www.bbc.co.uk/news/videos/cw1l39g2n8dyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T09:25+00:00"
     },
     {
       "category": "World",
@@ -368,14 +472,6 @@
       "description": "A Met Office weather warning is in place for Scotland and Northern Ireland for much of Tuesday.",
       "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T10:30+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "What does Israel's election mean for Gaza and the wider world?",
-      "description": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
-      "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T10:17+00:00"
     },
     {
       "category": "Technology",
@@ -626,14 +722,6 @@
       "published": "2026-10-22T14:08+00:00"
     },
     {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
-      "description": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
-      "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T10:17+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "The grads ditching the UK for a fresh start abroad",
@@ -656,14 +744,6 @@
       "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
       "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T23:04+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Pupils who designed a badge sent to space meet NASA astronaut",
-      "description": "Frank Rubio is set to be in the crew for the Artemis III mission and previously spent a year in space.",
-      "link": "https://www.bbc.co.uk/news/articles/cq78pzl85nglo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T19:39+00:00"
     },
     {
       "category": "Business",
@@ -720,86 +800,6 @@
       "description": "How can we to compete against a natural force with the power of 25 atomic bombs?",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct9789?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T20:00+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
-      "description": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
-      "link": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T23:32+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
-      "description": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
-      "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T23:01+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "World's oldest shipwreck found off coast of Turkey",
-      "description": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
-      "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T05:00+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "How long will humans be needed for translation?",
-      "description": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
-      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T23:05+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Tech Life",
-      "description": "The plan for an orbiting data centre involves linking satellites around Earth.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T19:45+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Boardroom feud tests trusted Indian business empire",
-      "description": "The dispute raises questions about the Indian conglomerate's governance, succession plans and future.",
-      "link": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T23:10+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Tech Now",
-      "description": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T01:00+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Meet India's feisty Gen Z protester who is taking on Modi",
-      "description": "Neha Bora has emerged as one of the most recognisable faces from India's recent Gen Z-led protests.",
-      "link": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T07:19+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Why are more roofs not made of solar tiles?",
-      "description": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
-      "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T23:09+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "BBC Inside Science",
-      "description": "What next for the world of maths after a major intrusion by AI?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T20:00+00:00"
     }
   ],
   "feeds_with_errors": [
