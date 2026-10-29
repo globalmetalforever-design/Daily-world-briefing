@@ -1,13 +1,101 @@
 {
-  "updated_at": "2026-10-28T21:09:10+00:00",
+  "updated_at": "2026-10-29T05:56:18+00:00",
   "items": [
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-      "description": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
+      "title": "What we know so far about deadly Spain train crash",
+      "description": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
+      "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T04:08+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+      "description": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
+      "link": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T03:16+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Details of thousands of US immigration agents leaked in major hack",
+      "description": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T01:30+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Microsoft profits soar days after announcing thousands of layoffs",
+      "description": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+      "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T01:27+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
       "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T21:07+00:00"
+      "published": "2026-10-29T01:14+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+      "description": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T00:00+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+      "description": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T00:00+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+      "description": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
+      "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T23:11+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "description": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+      "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T22:08+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T21:38+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "description": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T21:24+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+      "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T21:16+00:00"
     },
     {
       "category": "World",
@@ -16,6 +104,14 @@
       "description": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
       "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T20:53+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch: King dances in the streets of the Bahamas capital",
+      "description": "The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the \"great suffering of the past\".",
+      "link": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T20:44+00:00"
     },
     {
       "category": "Business",
@@ -152,14 +248,6 @@
       "description": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
       "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T16:43+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "What we know so far about deadly Spain train crash",
-      "description": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
-      "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T15:36+00:00"
     },
     {
       "category": "Business",
@@ -306,14 +394,6 @@
       "published": "2026-10-27T22:11+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
-      "description": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.",
-      "link": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T21:46+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "Weather warning lifted as third storm to hit Scotland eases off",
@@ -376,14 +456,6 @@
       "description": "About 40% of the plants and animals in protected sites across Northern Ireland fall short of meeting the standard for \"favourable condition\".",
       "link": "https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T17:51+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Watch: The Mbappé-Chairman Mao controversy explained",
-      "description": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
-      "link": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T17:11+00:00"
     },
     {
       "category": "Science",
@@ -578,22 +650,6 @@
       "published": "2026-10-26T11:01+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Healey to shield low-income pensioners from income tax in the Budget",
-      "description": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
-      "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T10:28+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
-      "description": "An amber wind warning has now expired after severe weather sweeps across the UK.",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T04:41+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "India's cartoonists built an audience online - now their posts are being restricted",
@@ -698,22 +754,6 @@
       "published": "2026-10-22T18:48+00:00"
     },
     {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T18:26+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Race to update services' computer systems after cyber-security flaw found",
-      "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
-      "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T17:12+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "YouTuber arrested after popular Indian finance influencer's suicide",
@@ -760,46 +800,6 @@
       "description": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-20T19:45+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
-      "description": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
-      "link": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T23:04+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Mission blasts off for Mars to grab a piece of its moon",
-      "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T19:45+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
-      "description": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
-      "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T00:41+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Living with a stink? Technology might help",
-      "description": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
-      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T23:18+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "BBC Inside Science",
-      "description": "How can we to compete against a natural force with the power of 25 atomic bombs?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct9789?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T20:00+00:00"
     }
   ],
   "feeds_with_errors": [
