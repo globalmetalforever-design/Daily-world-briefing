@@ -1,13 +1,69 @@
 {
-  "updated_at": "2026-10-29T15:16:46+00:00",
+  "updated_at": "2026-10-29T21:12:48+00:00",
   "items": [
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "BBC Inside Science",
+      "description": "Time is running out for one of the most ambitious environmental pledges in history.",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T21:00+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
       "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
       "description": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
       "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T15:15+00:00"
+      "published": "2026-10-29T20:15+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "description": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T20:05+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+      "description": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T19:11+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Firefighters celebrate rain during Indonesia wildfires",
+      "description": "A number of clips show firefighters celebrating in the rain.",
+      "link": "https://www.bbc.co.uk/news/videos/cm93zere04plo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T18:31+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "The South West reacts to Budget announcements",
+      "description": "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor.",
+      "link": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T18:07+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "US interest rates held steady and economy grows - what it means for you",
+      "description": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
+      "link": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T17:15+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Watch: Hundreds queue for city's new Lego store",
+      "description": "Fans queued for hours ahead of the opening of a new Lego Store in Norwich.",
+      "link": "https://www.bbc.co.uk/news/videos/cw1m4k1nx5r0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T17:10+00:00"
     },
     {
       "category": "World",
@@ -15,7 +71,31 @@
       "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
       "description": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
       "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T15:14+00:00"
+      "published": "2026-10-29T17:02+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Faisal Islam: This Budget was micro and that was deliberate",
+      "description": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
+      "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T15:48+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "description": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T15:47+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Bereaved families will not face tax bill over pension delays under new rules",
+      "description": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault.",
+      "link": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T15:18+00:00"
     },
     {
       "category": "Business",
@@ -28,34 +108,18 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "Doordash to buy Instacart in $17bn deal it says will expand customer options",
+      "title": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
       "description": "Instacart shoppers will be able to buy from 150,000 stores, compared to the 100,000 currently available on the platform, the firms said.",
       "link": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T15:05+00:00"
     },
     {
-      "category": "Business",
+      "category": "World",
       "source": "BBC News",
-      "title": "Poundland's future hangs in the balance as chain edges towards collapse",
-      "description": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T15:02+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Faisal Islam: The 10-year plan will have to fill the gaps from this 'micro Budget'",
-      "description": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
-      "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "description": "The defeated presidential candidate says he will lead the opposition from the US.",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T14:58+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "The South West reacts to Budget announcements",
-      "description": "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor.",
-      "link": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T14:52+00:00"
     },
     {
       "category": "World",
@@ -72,14 +136,6 @@
       "description": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
       "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T14:17+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "description": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T13:49+00:00"
     },
     {
       "category": "World",
@@ -188,8 +244,8 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-      "description": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+      "description": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
       "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T11:07+00:00"
     },
@@ -300,14 +356,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T01:14+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Europe's youth is on the march - but does anything actually unite them?",
       "description": "The last month has seen youth-driven demonstrations across Europe. What connects them?",
       "link": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o?at_medium=RSS&at_campaign=rss",
@@ -410,14 +458,6 @@
       "published": "2026-10-28T17:47+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
-      "description": "Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people.",
-      "link": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T17:34+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Budget 2026: Key points at a glance",
@@ -434,28 +474,12 @@
       "published": "2026-10-28T16:45+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Israel's election result is messy - here's why",
-      "description": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
-      "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T14:26+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Chancellor begins to deliver his first Budget",
       "description": "The chancellor begins his speech by calling it a Budget for the \"working people of Britain, for British businesses big and small.\"",
       "link": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T13:13+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "John Healey pays homage to predecessor Rachel Reeves",
-      "description": "The chancellor gave respects at the onset of his Autumn Budget speech.",
-      "link": "https://www.bbc.co.uk/news/videos/c95ynvr04vgdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T12:57+00:00"
     },
     {
       "category": "Science",
@@ -626,14 +650,6 @@
       "published": "2026-10-26T14:54+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Stunning photos capture October's Hunter's Moon around the world",
-      "description": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend.",
-      "link": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T11:27+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "India's cartoonists built an audience online - now their posts are being restricted",
@@ -784,22 +800,6 @@
       "description": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
       "link": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T23:04+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Mission blasts off for Mars to grab a piece of its moon",
-      "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T19:45+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
-      "description": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
-      "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T00:41+00:00"
     }
   ],
   "feeds_with_errors": [
