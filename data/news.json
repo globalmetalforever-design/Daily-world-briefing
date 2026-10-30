@@ -1,6 +1,134 @@
 {
-  "updated_at": "2026-10-30T15:05:43+00:00",
+  "updated_at": "2026-10-30T20:52:24+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T20:41+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T20:34+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T20:10+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "description": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T18:17+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "City of London chief tops UK Black Powerlist",
+      "description": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T18:00+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Binance's $6.3bn crypto hack biggest in history",
+      "description": "Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what is thought to be the biggest crypto hack on record.",
+      "link": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T17:41+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "description": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T17:25+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+      "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T17:07+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+      "description": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T17:00+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T16:26+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Yorkshire Water boss resigns after firm downgraded",
+      "description": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T16:04+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Attenborough-backed appeal secures £30m estate",
+      "description": "The purchase of the vast Rothbury Estate by wildlife groups is hailed as \"something very special\".",
+      "link": "https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T15:23+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+      "description": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
+      "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T15:17+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Fears for mature Scots Pines burned by huge Highland wildfire",
+      "description": "Experts say some older Scot pine damaged by fire could die removing an important source of seeds",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09pv4l3k0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T15:12+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "description": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T15:09+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Six dead after helicopter crashes in northern Indian state",
+      "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T15:06+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -10,44 +138,12 @@
       "published": "2026-10-30T15:03+00:00"
     },
     {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "US tech stocks see sharp falls over AI cost concerns",
-      "description": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T15:01+00:00"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
       "description": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
       "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T14:48+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-      "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T14:19+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Yorkshire Water boss resigns after firm downgraded",
-      "description": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T13:59+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "description": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T13:46+00:00"
     },
     {
       "category": "World",
@@ -64,14 +160,6 @@
       "description": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
       "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T12:27+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-      "description": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T12:25+00:00"
     },
     {
       "category": "World",
@@ -106,14 +194,6 @@
       "published": "2026-10-30T11:35+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
-      "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T11:23+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Streeting denies 'kicking can down the road' in defence spending row",
@@ -124,10 +204,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Helicopter carrying six people crashes in northern Indian state",
-      "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
-      "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T10:07+00:00"
+      "title": "What's at stake for Trump in the US midterms?",
+      "description": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
+      "link": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T10:19+00:00"
     },
     {
       "category": "Technology",
@@ -204,18 +284,18 @@
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "Attenborough-backed appeal secures £30m estate",
-      "description": "The purchase of the vast Rothbury Estate by wildlife groups is hailed as \"something very special\".",
-      "link": "https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T06:16+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
       "title": "Largest woodland bat survey a 'nice story of AI for good'",
       "description": "Some of Britain's rarest and most threatened bats have been recorded in the south-west of England.",
       "link": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T06:10+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "How Poundland grew from a market stall to a high street giant",
+      "description": "The retail giant - which started life at a Wolverhampton market - is now at threat of collapse.",
+      "link": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T06:08+00:00"
     },
     {
       "category": "World",
@@ -332,22 +412,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Watch: What leaked audio reveals about Spain train crash",
-      "description": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.",
-      "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T20:50+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "description": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T20:21+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
       "description": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
       "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
@@ -394,14 +458,6 @@
       "published": "2026-10-29T17:10+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-      "description": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T17:02+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Faisal Islam: This Budget was micro and that was deliberate",
@@ -442,22 +498,6 @@
       "published": "2026-10-29T14:58+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "description": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T14:17+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-      "description": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
-      "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T13:44+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Island Energy: No plans to remove gas standing charge",
@@ -466,28 +506,12 @@
       "published": "2026-10-29T13:39+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-      "description": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
-      "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T13:25+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
       "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
       "link": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T13:19+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "South West Water given lowest environmental rating",
-      "description": "The water firm is performing \"significantly below target\" for pollution, the Environment Agency says.",
-      "link": "https://www.bbc.co.uk/news/articles/c574p7r0xnvpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T12:56+00:00"
     },
     {
       "category": "Business",
@@ -624,14 +648,6 @@
       "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
       "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T18:45+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Three ways the Budget affects you",
-      "description": "The BBC's Esyllt Carr explains how the chancellor's spending plans impact young people.",
-      "link": "https://www.bbc.co.uk/news/videos/cjkgern1yw0lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T18:32+00:00"
     },
     {
       "category": "Science",
@@ -784,22 +800,6 @@
       "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
       "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-25T09:00+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
-      "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
-      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T07:15+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Britain's posh schools are heading to India for students and profits",
-      "description": "Half a dozen elite British schools are chasing growth in India amid a boom in its wealthy population.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T23:02+00:00"
     }
   ],
   "feeds_with_errors": [
