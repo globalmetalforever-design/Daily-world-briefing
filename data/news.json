@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-31T05:53:49+00:00",
+  "updated_at": "2026-10-31T14:35:06+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+      "description": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T13:45+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Bute House protested by environmental campaigners",
+      "description": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh.",
+      "link": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T13:41+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch: Blood donors get a Halloween fright in Thailand",
+      "description": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok.",
+      "link": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T12:50+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T12:21+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
+      "description": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
+      "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T09:16+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Rewilding project aims to restore peatland",
+      "description": "Cumbria Wildlife Trust starts work repairing damage to Skiddaw Forest's peatland.",
+      "link": "https://www.bbc.co.uk/news/articles/crq8nw0q7d5ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T06:58+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -20,7 +68,7 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "title": "The fight to save Canadian town threatened by Trump's tariffs",
       "description": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
       "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T02:39+00:00"
@@ -64,14 +112,6 @@
       "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
       "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T01:11+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T00:40+00:00"
     },
     {
       "category": "World",
@@ -184,14 +224,6 @@
       "description": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
       "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T17:00+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-      "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
-      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T16:26+00:00"
     },
     {
       "category": "Business",
@@ -330,28 +362,12 @@
       "published": "2026-10-30T07:45+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "'I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC",
-      "description": "Speaking exclusively to the BBC, Joanna Wietrzyk says her determination to win the Hyrox race in September had clouded her judgement.",
-      "link": "https://www.bbc.co.uk/news/videos/cwly4p6e9264o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T07:33+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Who should pay on the first date?",
       "description": "Yasmin Rufo asks New Yorkers who picks up the bill on a first date, and how much they usually spend.",
       "link": "https://www.bbc.co.uk/news/videos/cmpq0g3g2r8zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T06:32+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "What makes this golden eagle chick so important?",
-      "description": "The bird's arrival on a managed grouse moor in southern Scotland is seen as a key moment for the species.",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1jyj9dv7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T06:22+00:00"
     },
     {
       "category": "Science",
@@ -716,14 +732,6 @@
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "Scotland's recycling rates at five-year low. How is your area doing?",
-      "description": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year.",
-      "link": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T15:32+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
       "title": "Regular spaceplane flights planned in project",
       "description": "Spaceplanes could take off on regular flights from Cornwall following an agreement.",
       "link": "https://www.bbc.co.uk/news/articles/cmdxwzz7x4pno?at_medium=RSS&at_campaign=rss",
@@ -792,14 +800,6 @@
       "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
       "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-25T07:15+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Britain's posh schools are heading to India for students and profits",
-      "description": "Half a dozen elite British schools are chasing growth in India amid a boom in its wealthy population.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T23:02+00:00"
     }
   ],
   "feeds_with_errors": [
