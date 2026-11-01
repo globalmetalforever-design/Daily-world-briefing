@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-31T23:26:30+00:00",
+  "updated_at": "2026-11-01T06:19:04+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+      "description": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T06:03+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "description": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T01:59+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "description": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+      "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T01:37+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "description": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+      "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T00:55+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "description": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T00:12+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -116,14 +156,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
-      "description": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T04:32+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "The fight to save Canadian town threatened by Trump's tariffs",
       "description": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
       "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
@@ -168,14 +200,6 @@
       "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
       "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T01:11+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
-      "description": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
-      "link": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T00:16+00:00"
     },
     {
       "category": "Science",
@@ -226,7 +250,7 @@
       "published": "2026-10-30T20:41+00:00"
     },
     {
-      "category": "World",
+      "category": "Technology",
       "source": "BBC News",
       "title": "US tech stocks see sharp falls as AI spending nears $1tn",
       "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
@@ -248,14 +272,6 @@
       "description": "Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what is thought to be the biggest crypto hack on record.",
       "link": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T17:41+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-      "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T17:07+00:00"
     },
     {
       "category": "Business",
@@ -288,14 +304,6 @@
       "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
       "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T15:06+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "description": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
-      "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T14:48+00:00"
     },
     {
       "category": "Business",
@@ -688,14 +696,6 @@
       "description": "Artemis III will help test crucial systems needed for the planned Artemis IV Moon landing in 2028.",
       "link": "https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T10:33+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Apple to replace iPhone Duos affected by screen problem",
-      "description": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
-      "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T09:37+00:00"
     },
     {
       "category": "India",
