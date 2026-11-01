@@ -1,6 +1,102 @@
 {
-  "updated_at": "2026-11-01T06:19:04+00:00",
+  "updated_at": "2026-11-01T15:16:17+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T13:11+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Aquarium shark that helped 'dispel myths' dies",
+      "description": "Staff at Plymouth's aquarium pay tribute to a sand tiger shark believed to be almost 30 years old.",
+      "link": "https://www.bbc.co.uk/news/articles/c64g18lkz0kno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T12:13+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T11:57+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Spill from vandalised home oil tank kills 13 birds",
+      "description": "A number of birds are also injured after the spill from the oil tank earlier this week.",
+      "link": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T08:57+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Energy bills help 'doesn't go far enough'",
+      "description": "Families in the West Midlands say they are worried about paying winter energy bills.",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T07:15+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Rhino siblings celebrate first birthday with cake",
+      "description": "Markus and Mo weighed about 70kg (11st) at birth, and now weigh about 500kg (78st) each.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkypljk526o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T07:11+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Diwali hampers to bring hope to families in need",
+      "description": "The Diwali Basket Brigade volunteers want to help vulnerable households with rising food prices.",
+      "link": "https://www.bbc.co.uk/news/articles/cm20wyg8j121o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T07:11+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+      "description": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
+      "link": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T07:08+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "description": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T07:00+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Oil tank vandalism results in waterfowl park 'nightmare'",
+      "description": "The popular attraction in County Down has been forced to close while efforts continue to remove oil from the pond.",
+      "link": "https://www.bbc.co.uk/news/articles/c64g14ene2epo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T06:42+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "'Rok' solid recognition for Slovenian space scientist",
+      "description": "Two men from the Armagh Planetarium and Observatory have had asteroids named in their honour in recognition of their work.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T06:35+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Rare damselfly spotted by restored chalk river",
+      "description": "The Herts and Middlesex Trust says it is \"thrilled\" the new wetlands are helping species thrive.",
+      "link": "https://www.bbc.co.uk/news/articles/c617kvqjd81jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T06:19+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -12,10 +108,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Shops looted as German cost of living protests turn violent",
-      "description": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T01:59+00:00"
+      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+      "description": "The supermodel and TV host provided a gory new shock at her New York event.",
+      "link": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T05:26+00:00"
     },
     {
       "category": "World",
@@ -36,10 +132,34 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-      "description": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T00:12+00:00"
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "description": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T00:46+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "description": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T00:41+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "description": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
+      "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T00:27+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+      "description": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+      "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T00:17+00:00"
     },
     {
       "category": "World",
@@ -48,22 +168,6 @@
       "description": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
       "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T23:06+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T22:11+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
-      "description": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
-      "link": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T22:07+00:00"
     },
     {
       "category": "World",
@@ -124,26 +228,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Watch: Blood donors get a Halloween fright in Thailand",
-      "description": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok.",
-      "link": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T12:50+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
       "description": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
       "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T09:16+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Rewilding project aims to restore peatland",
-      "description": "Cumbria Wildlife Trust starts work repairing damage to Skiddaw Forest's peatland.",
-      "link": "https://www.bbc.co.uk/news/articles/crq8nw0q7d5ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T06:58+00:00"
     },
     {
       "category": "World",
@@ -162,7 +250,7 @@
       "published": "2026-10-31T02:39+00:00"
     },
     {
-      "category": "World",
+      "category": "Technology",
       "source": "BBC News",
       "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
       "description": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
@@ -170,20 +258,12 @@
       "published": "2026-10-31T02:12+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "The Indian chef who brought curry to America - then vanished",
       "description": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince.",
       "link": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T02:02+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
-      "description": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
-      "link": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T01:32+00:00"
     },
     {
       "category": "World",
@@ -234,20 +314,12 @@
       "published": "2026-10-30T21:34+00:00"
     },
     {
-      "category": "World",
+      "category": "Business",
       "source": "BBC News",
       "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
       "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
       "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T21:13+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T20:41+00:00"
     },
     {
       "category": "Technology",
@@ -280,22 +352,6 @@
       "description": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
       "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T16:04+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Attenborough-backed appeal secures £30m estate",
-      "description": "The purchase of the vast Rothbury Estate by wildlife groups is hailed as \"something very special\".",
-      "link": "https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T15:23+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Fears for mature Scots Pines burned by huge Highland wildfire",
-      "description": "Experts say some older Scot pine damaged by fire could die removing an important source of seeds",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09pv4l3k0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T15:12+00:00"
     },
     {
       "category": "India",
@@ -380,17 +436,9 @@
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "Hazardous driving conditions for Friday as fog warning issued by Met Office",
-      "description": "Foggy conditions likely to bring tricky conditions for the Friday morning commute as severe weather warning issued.",
+      "title": "Dry weather for most of the UK for next ten days",
+      "description": "High pressure is set to bring a long spell of dry weather to the UK doing little to alleviate drought conditions across most of England.",
       "link": "https://www.bbc.co.uk/weather/articles/c6ly075l742ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T06:18+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "P&R urged to speed up review of relocation grants",
-      "description": "Forward Guernsey believes the allowance is putting pressure on rental prices.",
-      "link": "https://www.bbc.co.uk/news/articles/cx7vpq34jy71o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T06:18+00:00"
     },
     {
@@ -448,14 +496,6 @@
       "description": "A number of clips show firefighters celebrating in the rain.",
       "link": "https://www.bbc.co.uk/news/videos/cm93zere04plo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T18:31+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "The South West reacts to Budget announcements",
-      "description": "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor.",
-      "link": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T18:07+00:00"
     },
     {
       "category": "Business",
@@ -658,28 +698,12 @@
       "published": "2026-10-28T00:01+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Weather warning lifted as third storm to hit Scotland eases off",
-      "description": "Energy provider SSEN says 2,000 properties in the north of Scotland are still without power after days of high winds and heavy rain.",
-      "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T21:20+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Tech Life",
       "description": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T20:30+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Will a new strategy help protect Northern Ireland's nature?",
-      "description": "About 40% of the plants and animals in protected sites across Northern Ireland fall short of meeting the standard for \"favourable condition\".",
-      "link": "https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T17:51+00:00"
     },
     {
       "category": "Science",
@@ -776,30 +800,6 @@
       "description": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday.",
       "link": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T14:08+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "The grads ditching the UK for a fresh start abroad",
-      "description": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
-      "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T23:12+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Trump's green card curbs test Indian tech workers' American dream",
-      "description": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T23:06+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-      "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T23:04+00:00"
     }
   ],
   "feeds_with_errors": [
