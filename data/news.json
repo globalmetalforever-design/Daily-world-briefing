@@ -1,6 +1,182 @@
 {
-  "updated_at": "2026-11-02T06:20:27+00:00",
+  "updated_at": "2026-11-02T18:29:49+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+      "description": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T18:28+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+      "description": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+      "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T18:25+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T17:38+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+      "description": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+      "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T17:34+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "description": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T17:33+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Dutch police offer record €2m reward in hunt for drug lord",
+      "description": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T17:29+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "'New kit' helps battle against bugs",
+      "description": "The chemical-free decoys are used while clearing riverside vegetation.",
+      "link": "https://www.bbc.co.uk/news/videos/cm369dep8jwno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T15:05+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+      "description": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T14:35+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
+      "description": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
+      "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T14:35+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "Shock and anger in India after eight-year-old beats six-year-old in classroom",
+      "description": "The girl, who was seriously injured, is out of danger, but remains traumatised by her assault, her family said.",
+      "link": "https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T14:27+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "What we know about the alert app hack in Ukraine and Russia",
+      "description": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
+      "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T14:24+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "A Paralympian vs a former TV news anchor - and other US Senate races to watch",
+      "description": "All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T13:49+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Poundland's former owner offers to invest as minister prepares to meet board",
+      "description": "Wolverhampton's Steve Smith said he wants to put some money back into the firm he started.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T13:40+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T12:22+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+      "description": "Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007.",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T12:05+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Five arrested after South African farmer shot and tortured",
+      "description": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
+      "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T10:48+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "What are Americans voting for in this election?",
+      "description": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
+      "link": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T09:22+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Popular Australian children's author jailed over child exploitation offences",
+      "description": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
+      "link": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T08:03+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "description": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T07:42+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Woman who flew with swans warns of lead danger",
+      "description": "Sacha Dench, known as the \"human swan\", welcomes new laws banning the sale of lead ammunition.",
+      "link": "https://www.bbc.co.uk/news/articles/cqly0r3kp1mlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T06:22+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Christmas donations gift demand up, charities say",
+      "description": "Charities collecting Christmas presents for struggling families say demand has gone up.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynrp0lg2yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T06:22+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Christmas shoebox appeal launches to help children",
+      "description": "A gift-filled shoebox campaign launched for children who would otherwise go without this Christmas.",
+      "link": "https://www.bbc.co.uk/news/articles/cv98zr5wxp21o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T06:21+00:00"
+    },
     {
       "category": "Science",
       "source": "BBC News",
@@ -10,33 +186,33 @@
       "published": "2026-11-02T06:16+00:00"
     },
     {
-      "category": "Technology",
+      "category": "World",
       "source": "BBC News",
-      "title": "Binance users withdraw $3.6bn after record crypto hack",
-      "description": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
-      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T03:32+00:00"
+      "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
+      "description": "BBC Panorama follows grieving Samira who - after the killing of Sevda - faces up to the Tehran regime.",
+      "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T06:05+00:00"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "description": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T01:45+00:00"
+      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+      "description": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T06:00+00:00"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "description": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T01:18+00:00"
+      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
+      "description": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
+      "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T03:58+00:00"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "title": "Democrats have high hopes for midterms - but are the polls right?",
       "description": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
       "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T00:25+00:00"
@@ -58,34 +234,26 @@
       "published": "2026-11-01T23:34+00:00"
     },
     {
-      "category": "Business",
+      "category": "World",
       "source": "BBC News",
-      "title": "'I've had people eating cat food': Rising cost of living top of mind for US voters",
-      "description": "The BBC's Clive Myrie travelled to North Caroline where voters voiced their frustrations ahead of midterm elections.",
-      "link": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss",
+      "title": "Antonelli - the boy 'born in a garage' who became world champion",
+      "description": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T22:25+00:00"
     },
     {
-      "category": "World",
+      "category": "Business",
       "source": "BBC News",
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-      "description": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T21:55+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Peaceful protests in Germany spiral into violence and looting",
-      "description": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
-      "link": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T18:51+00:00"
+      "title": "North Carolina voters weigh up Trump's track record on cost of living",
+      "description": "The BBC's Clive Myrie found voters in the state were asking themselves whether they were better off than two years ago.",
+      "link": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T22:25+00:00"
     },
     {
       "category": "Science",
       "source": "BBC News",
       "title": "'Fascinating' rare beetle found in Wales again after 60 years",
-      "description": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
+      "description": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys.",
       "link": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T18:04+00:00"
     },
@@ -96,14 +264,6 @@
       "description": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
       "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T17:56+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Lindsay Clancy is back in court - where will her case go next?",
-      "description": "The Massachusetts mother, accused of murdering her three children, is expected back in court as she awaits a decision on whether her case will be retried.",
-      "link": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T17:29+00:00"
     },
     {
       "category": "World",
@@ -124,8 +284,8 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "Thousands of jobs at Virgin Media O2 to be cut",
-      "description": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
+      "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
+      "description": "The broadband firm has not finalised numbers but it is likely be a sizeable chunk of staff, the BBC understands.",
       "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T16:57+00:00"
     },
@@ -162,30 +322,6 @@
       "published": "2026-11-01T08:57+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Energy bills help 'doesn't go far enough'",
-      "description": "Families in the West Midlands say they are worried about paying winter energy bills.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T07:15+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Rhino siblings celebrate first birthday with cake",
-      "description": "Markus and Mo weighed about 70kg (11st) at birth, and now weigh about 500kg (78st) each.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkypljk526o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T07:11+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Diwali hampers to bring hope to families in need",
-      "description": "The Diwali Basket Brigade volunteers want to help vulnerable households with rising food prices.",
-      "link": "https://www.bbc.co.uk/news/articles/cm20wyg8j121o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T07:11+00:00"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "India's opposition holds mega rally seeking election chief's resignation",
@@ -210,31 +346,7 @@
       "published": "2026-11-01T06:35+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Rare damselfly spotted by restored chalk river",
-      "description": "The Herts and Middlesex Trust says it is \"thrilled\" the new wetlands are helping species thrive.",
-      "link": "https://www.bbc.co.uk/news/articles/c617kvqjd81jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T06:19+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
-      "description": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T06:03+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
-      "description": "The supermodel and TV host provided a gory new shock at her New York event.",
-      "link": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T05:26+00:00"
-    },
-    {
-      "category": "World",
+      "category": "Technology",
       "source": "BBC News",
       "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
       "description": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
@@ -284,58 +396,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
-      "description": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T23:06+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T21:29+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "description": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T19:22+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T17:53+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Emotional reunions with loved ones for Oleshky evacuees",
-      "description": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
-      "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T16:55+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
       "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
       "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T15:16+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Ethiopian PM puts ministers through military training",
-      "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T14:28+00:00"
     },
     {
       "category": "Science",
@@ -344,22 +408,6 @@
       "description": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh.",
       "link": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T13:41+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
-      "description": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
-      "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T09:16+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Spain train disaster clouds Sánchez chances of re-election",
-      "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-      "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T05:44+00:00"
     },
     {
       "category": "Technology",
@@ -378,7 +426,7 @@
       "published": "2026-10-31T02:02+00:00"
     },
     {
-      "category": "World",
+      "category": "Science",
       "source": "BBC News",
       "title": "Global nature talks reach deal but money remains an issue",
       "description": "Countries have been trying to get a global agreement to halt nature decline back on track.",
@@ -586,14 +634,6 @@
       "published": "2026-10-29T15:48+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "The Bottom Line",
-      "description": "How easy is it to build a business after serving time in jail?",
-      "link": "https://www.bbc.co.uk/sounds/play/m0033g29?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T12:30+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "Serious pollution by water industry remains high despite £5bn investment",
@@ -658,7 +698,7 @@
       "published": "2026-10-28T23:11+00:00"
     },
     {
-      "category": "Technology",
+      "category": "Science",
       "source": "BBC News",
       "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
       "description": "The Russian President praised Musk and said they are in \"close\" contact.",
@@ -714,14 +754,6 @@
       "published": "2026-10-27T10:33+00:00"
     },
     {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "India's largest share sale could end cheap mobile internet for millions",
-      "description": "Jio's IPO promises a windfall for investors, but could signal the end of cheap mobile data for millions.",
-      "link": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T00:00+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "Political battle intensifies within Labour over Rosebank oil field",
@@ -768,38 +800,6 @@
       "description": "Half a dozen elite British schools are chasing growth in India amid a boom in its wealthy population.",
       "link": "https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T23:02+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "The Indian workers filming their work to train AI",
-      "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T08:04+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "BBC Inside Science",
-      "description": "A Japanese spacecraft could become the first ever to bring Martian samples back to Earth.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T20:00+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
-      "description": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T14:08+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "The grads ditching the UK for a fresh start abroad",
-      "description": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
-      "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T23:12+00:00"
     }
   ],
   "feeds_with_errors": [
