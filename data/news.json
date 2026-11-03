@@ -1,16 +1,144 @@
 {
-  "updated_at": "2026-11-02T18:29:49+00:00",
+  "updated_at": "2026-11-03T02:24:24+00:00",
   "items": [
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "description": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T02:11+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
-      "description": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
+      "description": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+      "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T01:57+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
       "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T18:28+00:00"
+      "published": "2026-11-03T01:56+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T01:23+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+      "description": "The men and women who rummage through commercial bins to take clothes and other items.",
+      "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T00:41+00:00"
     },
     {
       "category": "Technology",
+      "source": "BBC News",
+      "title": "Apple unsure when more foldable iPhones will be available after selling out",
+      "description": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T00:29+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Indian film star Ranbir Kapoor on AI, movies and fatherhood",
+      "description": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
+      "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T00:09+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+      "description": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
+      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T00:08+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "description": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T00:07+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "description": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T23:37+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Indonesia's toxic haze is giving its neighbours a political headache",
+      "description": "Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour.",
+      "link": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T23:02+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Do the Shetland Isles need Cold War-style military protection?",
+      "description": "Calls are being made for the defence of the Shetland Isles to be strengthened after increased sightings of Russian trawlers off the coast of Scotland.",
+      "link": "https://www.bbc.co.uk/news/articles/cjg47dq6q775o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T22:45+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+      "description": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T20:54+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Man guilty of stealing cash from farm owned by South African president",
+      "description": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T20:08+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "What Florida jet audio and flight data tells us about its final moments",
+      "description": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
+      "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T19:49+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "description": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T19:33+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "description": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
+      "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T18:34+00:00"
+    },
+    {
+      "category": "World",
       "source": "BBC News",
       "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
       "description": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
@@ -60,14 +188,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-      "description": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T14:35+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
       "description": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
       "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
@@ -88,14 +208,6 @@
       "description": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
       "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T14:24+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "A Paralympian vs a former TV news anchor - and other US Senate races to watch",
-      "description": "All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T13:49+00:00"
     },
     {
       "category": "Business",
@@ -132,21 +244,13 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "What are Americans voting for in this election?",
-      "description": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
-      "link": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T09:22+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Popular Australian children's author jailed over child exploitation offences",
       "description": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
       "link": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T08:03+00:00"
     },
     {
-      "category": "World",
+      "category": "Technology",
       "source": "BBC News",
       "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
       "description": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
@@ -232,14 +336,6 @@
       "description": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
       "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T23:34+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Antonelli - the boy 'born in a garage' who became world champion",
-      "description": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T22:25+00:00"
     },
     {
       "category": "Business",
@@ -354,52 +450,12 @@
       "published": "2026-11-01T01:37+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "description": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-      "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T00:55+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "description": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T00:46+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "description": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T00:41+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "description": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-      "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T00:27+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
       "description": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
       "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T00:17+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T15:16+00:00"
     },
     {
       "category": "Science",
@@ -634,14 +690,6 @@
       "published": "2026-10-29T15:48+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Serious pollution by water industry remains high despite £5bn investment",
-      "description": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
-      "link": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T12:08+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
@@ -672,22 +720,6 @@
       "description": "Chancellor John Healey says any cuts to welfare will be done \"in a Labour way\".",
       "link": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T06:56+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Details of thousands of US immigration agents leaked in major hack",
-      "description": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T01:30+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Microsoft profits soar days after announcing thousands of layoffs",
-      "description": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
-      "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T01:27+00:00"
     },
     {
       "category": "India",
@@ -768,38 +800,6 @@
       "description": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
       "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-26T14:54+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "India's cartoonists built an audience online - now their posts are being restricted",
-      "description": "Indian cartoonists say online restrictions are making satire harder, but they aren't giving up.",
-      "link": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T01:09+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T09:00+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
-      "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
-      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T07:15+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Britain's posh schools are heading to India for students and profits",
-      "description": "Half a dozen elite British schools are chasing growth in India amid a boom in its wealthy population.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T23:02+00:00"
     }
   ],
   "feeds_with_errors": [
