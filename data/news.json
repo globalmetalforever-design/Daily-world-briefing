@@ -1,13 +1,93 @@
 {
-  "updated_at": "2026-11-03T19:34:03+00:00",
+  "updated_at": "2026-11-04T00:39:12+00:00",
   "items": [
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Canva announces major job cuts after 'our hardest year yet'",
+      "description": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
+      "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T00:09+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "description": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T00:04+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "ANC under pressure to reverse South Africa decline",
+      "description": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T00:03+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Poundland supplier 'will lose millions' if retailer collapses",
+      "description": "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under.",
+      "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T00:03+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+      "description": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
+      "link": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T23:58+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
+      "description": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
+      "link": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T23:00+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "description": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T22:45+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+      "description": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T21:53+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "description": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T20:53+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
       "title": "Seven flights across Europe targeted by suspected bomb threats",
       "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
       "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T17:56+00:00"
+      "published": "2026-11-03T20:42+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Tech Life",
+      "description": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T20:30+00:00"
     },
     {
       "category": "Science",
@@ -152,14 +232,6 @@
       "description": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
       "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T12:09+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "description": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T12:07+00:00"
     },
     {
       "category": "Business",
@@ -340,7 +412,7 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
+      "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
       "description": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
       "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T00:09+00:00"
@@ -368,22 +440,6 @@
       "description": "We trace the gold supply chain from a mine to a Delhi jeweller",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8grr?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T21:30+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Musk pumps $446m into US midterms, as campaign spending set to 'shatter' records",
-      "description": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T20:54+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Man guilty of stealing cash from farm owned by South African president",
-      "description": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T20:08+00:00"
     },
     {
       "category": "World",
@@ -464,14 +520,6 @@
       "description": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
       "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T07:42+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
-      "description": "BBC Panorama follows grieving Samira who - after the killing of Sevda - faces up to the Tehran regime.",
-      "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T06:05+00:00"
     },
     {
       "category": "World",
@@ -586,14 +634,6 @@
       "published": "2026-10-31T01:27+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "UK could see 10 days without rain after 'wettest week in two years'",
-      "description": "With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast.",
-      "link": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T00:06+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "US tech stocks see sharp falls as AI spending nears $1tn",
@@ -648,14 +688,6 @@
       "description": "The Binance hack has thrust cryptocurrencies back into headlines - but what are they and how do they work?",
       "link": "https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T11:35+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-      "description": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T09:33+00:00"
     },
     {
       "category": "Business",
@@ -748,14 +780,6 @@
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "Regular spaceplane flights planned in project",
-      "description": "Spaceplanes could take off on regular flights from Cornwall following an agreement.",
-      "link": "https://www.bbc.co.uk/news/articles/cmdxwzz7x4pno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T13:11+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
       "title": "Part of Antarctica named after former BBC science correspondent",
       "description": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
       "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
@@ -776,30 +800,6 @@
       "description": "Half a dozen elite British schools are chasing growth in India amid a boom in its wealthy population.",
       "link": "https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T23:02+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "The Indian workers filming their work to train AI",
-      "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T08:04+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "BBC Inside Science",
-      "description": "A Japanese spacecraft could become the first ever to bring Martian samples back to Earth.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T20:00+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
-      "description": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T14:08+00:00"
     }
   ],
   "feeds_with_errors": [
