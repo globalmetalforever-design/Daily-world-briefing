@@ -1,13 +1,125 @@
 {
-  "updated_at": "2026-11-04T12:15:17+00:00",
+  "updated_at": "2026-11-04T19:53:54+00:00",
   "items": [
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Poundland owner in crunch talks as retailer's collapse looms",
+      "description": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+      "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T19:44+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+      "description": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T19:38+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "description": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T18:01+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "description": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T17:45+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "description": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T16:59+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "'Most difficult days of my life' for keeper Owono",
+      "description": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T16:40+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "The young politicians with African roots making history in the US midterms",
+      "description": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
+      "link": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T16:34+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "description": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T16:26+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Israel's president begins consultations with parties after election deadlock",
+      "description": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+      "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T16:18+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+      "description": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T15:51+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Secret police files released in Hungary, 37 years after fall of communism",
+      "description": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
+      "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T15:28+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
       "title": "Everything you need to know from the US midterm elections",
       "description": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
       "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T12:01+00:00"
+      "published": "2026-11-04T14:05+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "description": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T13:33+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Nadal set to join Real Madrid board of directors",
+      "description": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
+      "link": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T13:21+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Sharp objects found in Halloween sweets in three European nations",
+      "description": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
+      "link": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T12:34+00:00"
     },
     {
       "category": "World",
@@ -24,14 +136,6 @@
       "description": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
       "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T11:46+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Uproar over missing 'pop' as Rice Krispies changes its recipe",
-      "description": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T11:36+00:00"
     },
     {
       "category": "Science",
@@ -52,34 +156,18 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
-      "description": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials.",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T10:35+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "description": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T10:11+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "How America voted in maps and charts",
       "description": "See the maps and charts that show how America voted in the US midterm elections.",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T09:53+00:00"
     },
     {
-      "category": "Business",
+      "category": "World",
       "source": "BBC News",
-      "title": "Poundland supplier 'will lose millions' if retailer collapses",
-      "description": "Highcrest Retail Brands says it will lose millions if Poundland collapses, while other suppliers have said they would go under.",
-      "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T09:28+00:00"
+      "title": "Tears, celebrations and selfies: US midterms in pictures",
+      "description": "Democrats cheered as they picked up victories in Republican states. Tears were shed as Republican losses mounted.",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pexm44elo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T08:05+00:00"
     },
     {
       "category": "World",
@@ -88,22 +176,6 @@
       "description": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
       "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T07:39+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "South Carolina elects Democratic senator for first time in almost three decades",
-      "description": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T07:32+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Florida Republicans fend off Democrats as state elects first black governor",
-      "description": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
-      "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T07:12+00:00"
     },
     {
       "category": "World",
@@ -146,38 +218,6 @@
       "published": "2026-11-04T05:57+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-      "description": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T05:39+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
-      "description": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T03:46+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
-      "description": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T02:11+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Why Kim Kardashian came back to 'the worst TV drama ever'",
-      "description": "The media personality and businesswoman says she's worked on her acting for series two of All's Fair.",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgd4drmevro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T00:52+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Canva announces major job cuts after 'our hardest year yet'",
@@ -202,14 +242,6 @@
       "published": "2026-11-03T23:58+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "description": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T22:45+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
@@ -218,28 +250,12 @@
       "published": "2026-11-03T20:53+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
-      "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T20:42+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Tech Life",
       "description": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T20:30+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "The transplanted Scot doing famous father proud in New Zealand",
-      "description": "Clark Laidlaw, head coach at Super Rugby champions Hurricanes, has made a huge impact in New Zealand and would \"welcome a conversation\" about taking on the top job in Scotland.",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6ewerp0w5lvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T17:50+00:00"
     },
     {
       "category": "Science",
@@ -258,20 +274,12 @@
       "published": "2026-11-03T16:44+00:00"
     },
     {
-      "category": "World",
+      "category": "Technology",
       "source": "BBC News",
       "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
       "description": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
       "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T16:19+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "How sporting events are being affected by Middle East conflict",
-      "description": "BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area.",
-      "link": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T16:01+00:00"
     },
     {
       "category": "Business",
@@ -376,14 +384,6 @@
       "description": "The men and women who rummage through commercial bins to take clothes and other items.",
       "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T07:50+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Why a US-Russia showdown left Morocco celebrating",
-      "description": "An impasse between the US and Russia at the UN means its peacekeeping mission in Western Sahara has ended after 35 years.",
-      "link": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T07:29+00:00"
     },
     {
       "category": "Science",
@@ -618,22 +618,6 @@
       "published": "2026-10-30T12:04+00:00"
     },
     {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Who could be behind the Binance hack and what we know so far",
-      "description": "Binance has been hit by be the biggest crypto hack ever - here's what we know so far.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T11:57+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "From Bitcoin to Binance: Crypto terms and what they mean",
-      "description": "The Binance hack has thrust cryptocurrencies back into headlines - but what are they and how do they work?",
-      "link": "https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T11:35+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "How video game remakes tap the power of nostalgia",
@@ -800,6 +784,22 @@
       "description": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-20T19:45+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Mission blasts off for Mars to grab a piece of its moon",
+      "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T19:45+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Living with a stink? Technology might help",
+      "description": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T23:18+00:00"
     }
   ],
   "feeds_with_errors": [
