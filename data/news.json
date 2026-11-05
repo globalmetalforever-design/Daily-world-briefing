@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-04T19:53:54+00:00",
+  "updated_at": "2026-11-05T00:55:35+00:00",
   "items": [
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Australia's oldest department store David Jones collapses after 188 years",
+      "description": "The brand's 38 physical stores and online sites will continue to operate while receivers review its operations.",
+      "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T00:09+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Interest rates expected to rise for first time in over three years",
+      "description": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T00:00+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Pound rises to its highest level since the Brexit referendum",
+      "description": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+      "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T23:30+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+      "description": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T23:12+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "description": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T22:48+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "description": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T21:41+00:00"
+    },
     {
       "category": "Business",
       "source": "BBC News",
@@ -24,14 +72,6 @@
       "description": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
       "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T18:01+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "description": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T17:45+00:00"
     },
     {
       "category": "World",
@@ -72,14 +112,6 @@
       "description": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
       "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T16:18+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
-      "description": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T15:51+00:00"
     },
     {
       "category": "World",
@@ -418,14 +450,6 @@
       "published": "2026-11-03T06:01+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Christmas 2026 stamps unveiled by Royal Mail",
-      "description": "The annual Christmas collection of five stamps feature scenes from the Nativity.",
-      "link": "https://www.bbc.co.uk/news/articles/cw62yeq7958ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T02:27+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "'We grew up around this historic Delhi mosque - now we have been forced out'",
@@ -466,14 +490,6 @@
       "published": "2026-11-02T18:25+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T17:38+00:00"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
@@ -496,14 +512,6 @@
       "description": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
       "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T14:24+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Ryanair says it may freeze workers' pay and raise airfares",
-      "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T12:22+00:00"
     },
     {
       "category": "Technology",
@@ -560,14 +568,6 @@
       "description": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
       "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T01:37+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Bute House protested by environmental campaigners",
-      "description": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh.",
-      "link": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T13:41+00:00"
     },
     {
       "category": "Technology",
