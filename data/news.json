@@ -1,32 +1,176 @@
 {
-  "updated_at": "2026-11-05T00:55:35+00:00",
+  "updated_at": "2026-11-05T12:28:36+00:00",
   "items": [
     {
-      "category": "Business",
+      "category": "World",
       "source": "BBC News",
-      "title": "Australia's oldest department store David Jones collapses after 188 years",
-      "description": "The brand's 38 physical stores and online sites will continue to operate while receivers review its operations.",
-      "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T00:09+00:00"
+      "title": "Ronaldo retires from Portugal duty",
+      "description": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T12:28+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Investigation into 'major fish kill' after pollution incident",
+      "description": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T12:26+00:00"
     },
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "Interest rates expected to rise for first time in over three years",
-      "description": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+      "title": "Interest rates hiked to 4% in first increase in over three years",
+      "description": "Most analysts expected the increase from 3.75% to 4%.",
       "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T00:00+00:00"
+      "published": "2026-11-05T12:17+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Three ways the interest rate rise could affect you",
+      "description": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
+      "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T12:11+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Why do veterinary fees and sausage rolls vary in price across London?",
+      "description": "Location is not just the only factor on why prices differ across London, as Anna O'Neill finds out.",
+      "link": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T12:01+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Google refused 54K-name petition, say campaigners",
+      "description": "Campaigners oppose the development of a large data centre on a wildlife site at Thurrock.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ev3wm3ng42o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T11:30+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Welsh aviation firm AerFin bought in £475m deal",
+      "description": "The company, which was majority owned by a private equity firm, said it was beginning a \"new chapter\".",
+      "link": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T11:01+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+      "description": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
+      "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T10:33+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "France gears up for strikes and protests as unions promise national mobilisation",
+      "description": "Five of France's unions have joined a wave of strikes and protests in a national day of action.",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T10:26+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+      "description": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
+      "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T10:04+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
+      "description": "A little-known investment group has made a bid to buy the business.",
+      "link": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T09:46+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
+      "description": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
+      "link": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T09:04+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "description": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T08:07+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Poundland owner in crunch talks as retailer's collapse looms",
+      "description": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+      "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T06:58+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Food, fuel and taxes – can the Democrats do anything to ease cost of living pressures?",
+      "description": "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T06:01+00:00"
     },
     {
       "category": "Business",
       "source": "BBC News",
       "title": "Pound rises to its highest level since the Brexit referendum",
-      "description": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+      "description": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago.",
       "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T23:30+00:00"
+      "published": "2026-11-05T04:21+00:00"
     },
     {
-      "category": "Science",
+      "category": "World",
+      "source": "BBC News",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "description": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T03:47+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "description": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T02:09+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Australia's oldest department store David Jones folds after 188 years",
+      "description": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
+      "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T00:59+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
+      "description": "The trial was condemned as \"unethical\" and \"neocolonial\" because half of the babies would not be given the vaccine.",
+      "link": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T00:30+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+      "description": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T23:50+00:00"
+    },
+    {
+      "category": "World",
       "source": "BBC News",
       "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
       "description": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
@@ -52,14 +196,6 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "Poundland owner in crunch talks as retailer's collapse looms",
-      "description": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
-      "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T19:44+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
       "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
       "description": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
       "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
@@ -68,58 +204,18 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "description": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+      "title": "What Democrats can and can't do with their new power after taking Congress",
+      "description": "Democrats can vote legislation through. But Trump still has veto power.",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T18:01+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "description": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T16:59+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "'Most difficult days of my life' for keeper Owono",
-      "description": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T16:40+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "The young politicians with African roots making history in the US midterms",
-      "description": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
-      "link": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T16:34+00:00"
-    },
-    {
-      "category": "World",
+      "category": "Technology",
       "source": "BBC News",
       "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
       "description": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
       "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T16:26+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Israel's president begins consultations with parties after election deadlock",
-      "description": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-      "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T16:18+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Secret police files released in Hungary, 37 years after fall of communism",
-      "description": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
-      "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T15:28+00:00"
     },
     {
       "category": "World",
@@ -132,42 +228,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "description": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T13:33+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Nadal set to join Real Madrid board of directors",
-      "description": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
-      "link": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T13:21+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Sharp objects found in Halloween sweets in three European nations",
-      "description": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
-      "link": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T12:34+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "ANC under pressure to reverse South Africa decline",
       "description": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
       "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T11:47+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-      "description": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
-      "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T11:46+00:00"
     },
     {
       "category": "Science",
@@ -194,16 +258,8 @@
       "published": "2026-11-04T09:53+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Tears, celebrations and selfies: US midterms in pictures",
-      "description": "Democrats cheered as they picked up victories in Republican states. Tears were shed as Republican losses mounted.",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pexm44elo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T08:05+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
       "description": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
       "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
@@ -290,22 +346,6 @@
       "published": "2026-11-03T20:30+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Action needed to tackle 'biodiversity crisis'",
-      "description": "The issue is part of wider concerns the government is not focused enough on the environment.",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy94ewzw03o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T17:25+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Keeping mortgage interest relief approved",
-      "description": "Homeowners can get tax relief of £3,500 on the money spent on the interstate of a mortgage.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgj0ljx01jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T16:44+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
@@ -330,14 +370,6 @@
       "published": "2026-11-03T15:05+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Charity warns about damage of over-foraging fungi",
-      "description": "It says over-foraging, particularly in protected areas, damages habitats and wildlife.",
-      "link": "https://www.bbc.co.uk/news/videos/cmp3gr673zz9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T14:36+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "What in the World",
@@ -352,14 +384,6 @@
       "description": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
       "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T13:07+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Car finance compensation payments explained",
-      "description": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
-      "link": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T12:30+00:00"
     },
     {
       "category": "Business",
@@ -474,14 +498,6 @@
       "published": "2026-11-02T21:30+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "What Florida jet audio and flight data tells us about its final moments",
-      "description": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
-      "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T19:49+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
@@ -544,14 +560,6 @@
       "description": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
       "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T07:00+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Oil tank vandalism results in waterfowl park 'nightmare'",
-      "description": "The popular attraction in County Down has been forced to close while efforts continue to remove oil from the pond.",
-      "link": "https://www.bbc.co.uk/news/articles/c64g14ene2epo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T06:42+00:00"
     },
     {
       "category": "Science",
@@ -624,14 +632,6 @@
       "description": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
       "link": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T07:45+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Who should pay on the first date?",
-      "description": "Yasmin Rufo asks New Yorkers who picks up the bill on a first date, and how much they usually spend.",
-      "link": "https://www.bbc.co.uk/news/videos/cmpq0g3g2r8zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T06:32+00:00"
     },
     {
       "category": "India",
