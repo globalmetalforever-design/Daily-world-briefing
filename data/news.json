@@ -1,21 +1,85 @@
 {
-  "updated_at": "2026-11-05T12:28:36+00:00",
+  "updated_at": "2026-11-05T22:04:38+00:00",
   "items": [
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Ronaldo retires from Portugal duty",
-      "description": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T12:28+00:00"
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "description": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T21:56+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "description": "California has historically had the largest population of people on death row in the US.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T21:25+00:00"
     },
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "Investigation into 'major fish kill' after pollution incident",
-      "description": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
-      "link": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T12:26+00:00"
+      "title": "BBC Inside Science",
+      "description": "A glimpse into the world of the incredibly tiny",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct978k?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T21:00+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Over 1,000 tonnes of sewage seen at landfill site",
+      "description": "The Environment Agency says it has issued the operator with a series of actions after an inspection.",
+      "link": "https://www.bbc.co.uk/news/articles/cmp8ggn9gpjjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T20:01+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Who could be behind hoax bomb threats to European air travel?",
+      "description": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T19:58+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Eight killed in series of shootings in western Turkey",
+      "description": "Victims are found in several locations in three separate vehicles, according to local reports.",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T19:32+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "description": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T19:08+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "French protests see numbers surge as unions join strikes over high cost of living",
+      "description": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T17:59+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "description": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+      "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T17:40+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "description": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T17:39+00:00"
     },
     {
       "category": "Business",
@@ -23,15 +87,23 @@
       "title": "Interest rates hiked to 4% in first increase in over three years",
       "description": "Most analysts expected the increase from 3.75% to 4%.",
       "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T12:17+00:00"
+      "published": "2026-11-05T17:09+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Russell Brand is being investigated over two new rape complaints, police say",
+      "description": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T15:44+00:00"
     },
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "Three ways the interest rate rise could affect you",
-      "description": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
-      "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T12:11+00:00"
+      "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+      "description": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
+      "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T15:27+00:00"
     },
     {
       "category": "Business",
@@ -39,7 +111,55 @@
       "title": "Why do veterinary fees and sausage rolls vary in price across London?",
       "description": "Location is not just the only factor on why prices differ across London, as Anna O'Neill finds out.",
       "link": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T12:01+00:00"
+      "published": "2026-11-05T15:19+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Investigation into 'major fish kill' after pollution incident",
+      "description": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T14:51+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+      "description": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T14:29+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch: How rapist Brand was never far from controversy",
+      "description": "BBC correspondent Sima Kotecha explains how the trial unfolded.",
+      "link": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T14:28+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "What does the raise in interest rates mean?",
+      "description": "The BBC's cost of living correspondent Kevin Peachey explains what the change could mean for those saving for a holiday or to buying a house.",
+      "link": "https://www.bbc.co.uk/news/videos/c9kgjvmn4vlno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T14:02+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Faisal Islam: How high will interest rates go?",
+      "description": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T13:17+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Three ways the interest rate rise could affect you",
+      "description": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
+      "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T13:08+00:00"
     },
     {
       "category": "Science",
@@ -48,6 +168,14 @@
       "description": "Campaigners oppose the development of a large data centre on a wildlife site at Thurrock.",
       "link": "https://www.bbc.co.uk/news/articles/c5ev3wm3ng42o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T11:30+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+      "description": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T11:21+00:00"
     },
     {
       "category": "Business",
@@ -66,22 +194,6 @@
       "published": "2026-11-05T10:33+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "France gears up for strikes and protests as unions promise national mobilisation",
-      "description": "Five of France's unions have joined a wave of strikes and protests in a national day of action.",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T10:26+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-      "description": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
-      "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T10:04+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
@@ -90,20 +202,12 @@
       "published": "2026-11-05T09:46+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
       "description": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
       "link": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T09:04+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "description": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T08:07+00:00"
     },
     {
       "category": "Business",
@@ -116,8 +220,8 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "Food, fuel and taxes – can the Democrats do anything to ease cost of living pressures?",
-      "description": "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
+      "title": "Food, fuel and taxes – can the Democrats actually make life cheaper?",
+      "description": "Their message on cost of living resonated with voters. Now they must show they can deliver.",
       "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T06:01+00:00"
     },
@@ -156,34 +260,26 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Would you take a test to see if your life will be cut short? I did - and it changed me",
+      "description": "Laura Sides faced a dilemma of whether to find out if she would inherit her father's condition.",
+      "link": "https://www.bbc.co.uk/news/articles/cw62yq9vp7yyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T00:32+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
       "description": "The trial was condemned as \"unethical\" and \"neocolonial\" because half of the babies would not be given the vaccine.",
       "link": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T00:30+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
-      "description": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T23:50+00:00"
-    },
-    {
-      "category": "World",
+      "category": "Science",
       "source": "BBC News",
       "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
       "description": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
       "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T23:12+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "description": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T22:48+00:00"
     },
     {
       "category": "Technology",
@@ -202,28 +298,12 @@
       "published": "2026-11-04T19:38+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "What Democrats can and can't do with their new power after taking Congress",
-      "description": "Democrats can vote legislation through. But Trump still has veto power.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T18:01+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
       "description": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
       "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T16:26+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Everything you need to know from the US midterm elections",
-      "description": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
-      "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T14:05+00:00"
     },
     {
       "category": "World",
@@ -250,28 +330,12 @@
       "published": "2026-11-04T10:47+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "How America voted in maps and charts",
-      "description": "See the maps and charts that show how America voted in the US midterm elections.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T09:53+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
       "description": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
       "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T07:39+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
-      "description": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T06:53+00:00"
     },
     {
       "category": "Science",
@@ -296,14 +360,6 @@
       "description": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
       "link": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T06:11+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Trust vows to 'maintain spirit' of nature reserve",
-      "description": "Flatford Wildlife Garden is bought by the National Trust after being run by the RSPB for 15 years.",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wv0ywnvl7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T05:57+00:00"
     },
     {
       "category": "Business",
@@ -522,14 +578,6 @@
       "published": "2026-11-02T14:27+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "What we know about the alert app hack in Ukraine and Russia",
-      "description": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
-      "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T14:24+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
@@ -602,28 +650,12 @@
       "published": "2026-10-30T20:34+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Binance's $6.3bn crypto hack biggest in history",
-      "description": "Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what is thought to be the biggest crypto hack on record.",
-      "link": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T17:41+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "Six dead after helicopter crashes in northern Indian state",
       "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
       "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T15:06+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-      "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T12:04+00:00"
     },
     {
       "category": "Business",
@@ -768,38 +800,6 @@
       "description": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
       "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T23:06+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "The tech helping crack decades-old cold cases",
-      "description": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
-      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T23:13+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Tech Life",
-      "description": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T19:45+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Mission blasts off for Mars to grab a piece of its moon",
-      "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T19:45+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Living with a stink? Technology might help",
-      "description": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
-      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T23:18+00:00"
     }
   ],
   "feeds_with_errors": [
