@@ -1,6 +1,70 @@
 {
-  "updated_at": "2026-11-07T14:55:56+00:00",
+  "updated_at": "2026-11-07T20:16:47+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+      "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T20:08+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Paraguay's former president charged after bank collapse",
+      "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T19:17+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "description": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T18:14+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Gaza wedding festival sees 250 couples married at the same time",
+      "description": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+      "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T17:58+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T17:09+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "description": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T16:50+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "No clear winner after tight New Zealand general election",
+      "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T15:56+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T15:19+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -20,10 +84,18 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
-      "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-07T07:20+00:00"
+      "title": "Texas mayor instructs police to limit co-operation with ICE",
+      "description": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
+      "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T08:15+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+      "description": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T07:27+00:00"
     },
     {
       "category": "Science",
@@ -52,7 +124,7 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+      "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
       "description": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
       "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-07T01:41+00:00"
@@ -76,14 +148,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-      "description": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
-      "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T23:46+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "With Stephen Miller pick, Trump readies for a battle",
       "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
       "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
@@ -98,7 +162,7 @@
       "published": "2026-11-06T22:59+00:00"
     },
     {
-      "category": "World",
+      "category": "Technology",
       "source": "BBC News",
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
       "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
@@ -136,14 +200,6 @@
       "description": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-06T17:19+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-      "description": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T16:51+00:00"
     },
     {
       "category": "Science",
@@ -202,22 +258,6 @@
       "published": "2026-11-06T16:18+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Two dead after bus crashes in France, officials say",
-      "description": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T15:33+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "description": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
-      "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T15:30+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "Wales scraps controversial Uganda tree-planting scheme",
@@ -250,14 +290,6 @@
       "published": "2026-11-06T15:02+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "description": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-      "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T14:57+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Workers' rights 'second place' to economic growth",
@@ -288,14 +320,6 @@
       "description": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
       "link": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-06T13:23+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "description": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T12:51+00:00"
     },
     {
       "category": "Science",
@@ -448,14 +472,6 @@
       "description": "The company, which was majority owned by a private equity firm, said it was beginning a \"new chapter\".",
       "link": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T11:01+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
-      "description": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
-      "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T10:33+00:00"
     },
     {
       "category": "Business",
@@ -784,22 +800,6 @@
       "description": "India-China ties were on a cautious recovery path until a border official’s remarks raised fresh doubts about ground realities.",
       "link": "https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T00:06+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "'An annoying buzz': The search for stealthier drones",
-      "description": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T00:01+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Tech Life",
-      "description": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T20:30+00:00"
     }
   ],
   "feeds_with_errors": [
