@@ -1,13 +1,37 @@
 {
-  "updated_at": "2026-11-07T20:16:47+00:00",
+  "updated_at": "2026-11-07T23:42:26+00:00",
   "items": [
     {
       "category": "World",
       "source": "BBC News",
-      "title": "What we know so far after Polish gunman opens fire in Krakow main square",
-      "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+      "title": "What we know so far after Krakow gun attack",
+      "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-07T20:08+00:00"
+      "published": "2026-11-07T22:58+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T22:19+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Ipswich Town's new club shop 'here to stay'",
+      "description": "Fans and players are delighted at the new \"activation space\" in the town centre.",
+      "link": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T21:40+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Can New Zealand's new government win over disillusioned voters?",
+      "description": "The mood is low, and Kiwi's faith in politics even lower - with voters deserting the main parties at the polls.",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T21:36+00:00"
     },
     {
       "category": "World",
@@ -634,14 +658,6 @@
       "published": "2026-11-03T15:05+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "What in the World",
-      "description": "Some employers create job ads with no intent to hire",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct990m?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T14:30+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
@@ -784,22 +800,6 @@
       "description": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
       "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T23:11+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
-      "description": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy",
-      "link": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T01:01+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "India and China were easing tensions - then a border official spoke out",
-      "description": "India-China ties were on a cautious recovery path until a border official’s remarks raised fresh doubts about ground realities.",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T00:06+00:00"
     }
   ],
   "feeds_with_errors": [
