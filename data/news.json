@@ -1,9 +1,41 @@
 {
-  "updated_at": "2026-11-08T15:19:53+00:00",
+  "updated_at": "2026-11-08T20:33:00+00:00",
   "items": [
     {
-      "category": "India",
-      "source": "BBC News: India",
+      "category": "World",
+      "source": "BBC News",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T19:58+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T18:22+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "description": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
+      "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T16:05+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "description": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T15:37+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Homes and temples glow across India to mark Diwali",
       "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
       "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
@@ -12,10 +44,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "What we know so far after Krakow gun attack",
-      "description": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T14:32+00:00"
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T13:37+00:00"
     },
     {
       "category": "Science",
@@ -24,14 +56,6 @@
       "description": "Killerton National Trust has 100 nest boxes across its estate in Devon.",
       "link": "https://www.bbc.co.uk/news/articles/c50meerl8xp1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-08T12:22+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "description": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T11:25+00:00"
     },
     {
       "category": "World",
@@ -104,14 +128,6 @@
       "description": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
       "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-07T23:02+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-07T22:19+00:00"
     },
     {
       "category": "Business",
@@ -458,14 +474,6 @@
       "published": "2026-11-05T21:00+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
-      "description": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
-      "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T18:22+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Interest rates hiked to 4% in first increase in over three years",
@@ -792,14 +800,6 @@
       "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
       "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T08:04+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "BBC Inside Science",
-      "description": "A Japanese spacecraft could become the first ever to bring Martian samples back to Earth.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T20:00+00:00"
     }
   ],
   "feeds_with_errors": [
