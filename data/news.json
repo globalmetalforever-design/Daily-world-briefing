@@ -1,6 +1,70 @@
 {
-  "updated_at": "2026-11-08T06:14:36+00:00",
+  "updated_at": "2026-11-08T15:19:53+00:00",
   "items": [
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "Homes and temples glow across India to mark Diwali",
+      "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T14:42+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "What we know so far after Krakow gun attack",
+      "description": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T14:32+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Dormice 'thrive' at National Trust site",
+      "description": "Killerton National Trust has 100 nest boxes across its estate in Devon.",
+      "link": "https://www.bbc.co.uk/news/articles/c50meerl8xp1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T12:22+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "description": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T11:25+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "How the deadly shooting in Krakow unfolded",
+      "description": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
+      "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T09:29+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Countryside managers prepare for climate change",
+      "description": "North Pennines National Landscape's plan includes restoring peatland and wildfire preparedness.",
+      "link": "https://www.bbc.co.uk/news/articles/c3ewe99dzdlpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T07:16+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Traders 'priced out' of £12,000 Christmas market pitches",
+      "description": "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over.",
+      "link": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T07:11+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Hundreds of seagrass shoots found in estuary",
+      "description": "There were fears a restoration trial may not succeed when only six seedlings had emerged in April.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvx3r9rgeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T07:06+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -12,10 +76,18 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "What we know so far after Krakow gun attack",
-      "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T01:47+00:00"
+      "title": "The Trump coalition is shattered - what will Republicans do now?",
+      "description": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T00:52+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+      "description": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
+      "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T00:48+00:00"
     },
     {
       "category": "Technology",
@@ -28,7 +100,7 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+      "title": "He spent $50,000 on Labubus but now the craze is dying",
       "description": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
       "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-07T23:02+00:00"
@@ -50,7 +122,7 @@
       "published": "2026-11-07T21:40+00:00"
     },
     {
-      "category": "Business",
+      "category": "World",
       "source": "BBC News",
       "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
       "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
@@ -92,14 +164,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "No clear winner after tight New Zealand general election",
-      "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-07T15:56+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
       "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
       "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
@@ -112,14 +176,6 @@
       "description": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-07T12:49+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Four things we learned this week about 2028 White House race",
-      "description": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
-      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-07T12:23+00:00"
     },
     {
       "category": "World",
@@ -290,14 +346,6 @@
       "published": "2026-11-06T16:22+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Spate of bomb threats poses serious challenge to airline industry",
-      "description": "After a week of disruption, airlines are facing both safety and financial concerns.",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T16:18+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "Wales scraps controversial Uganda tree-planting scheme",
@@ -354,14 +402,6 @@
       "published": "2026-11-06T13:25+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US midterm results spark fears in Israel over future of two countries' ties",
-      "description": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
-      "link": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T13:23+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "US rockets firm eyes up mothballed Highland spaceport",
@@ -372,42 +412,10 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "'I've taken an extra job to pay for heating oil'",
-      "description": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
-      "link": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T11:40+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Homes and temples glow across India as Diwali celebrations begin",
-      "description": "Millions of Indians will mark the festival of lights with glowing lamps, fireworks and traditional sweets",
-      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T10:21+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Could you live on a remote island as a job?",
-      "description": "The new manager will start each workday surrounded by nature at the island wildlife reserve.",
-      "link": "https://www.bbc.co.uk/news/videos/c6kg77jqpwk2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T10:14+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
       "title": "How does it affect me if share prices fall?",
       "description": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
       "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-06T09:21+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "'Extra special' tamarin twins born at zoo",
-      "description": "Shaldon Wildlife Trust says it is one of two European zoos to breed the species in 2026.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx23zzlezp8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T06:15+00:00"
     },
     {
       "category": "Science",
@@ -624,14 +632,6 @@
       "description": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
       "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T11:10+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T08:33+00:00"
     },
     {
       "category": "Science",
