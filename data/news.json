@@ -1,6 +1,142 @@
 {
-  "updated_at": "2026-11-12T16:51:47+00:00",
+  "updated_at": "2026-11-13T01:10:14+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "description": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T00:20+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T00:13+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T23:34+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T22:51+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
+      "description": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T22:49+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "How many sewage spills have happened in your part of Scotland?",
+      "description": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found.",
+      "link": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T22:48+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
+      "description": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T21:27+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+      "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T21:00+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "BBC Inside Science",
+      "description": "A weekly programme looking at the science that's changing our world.",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct978l?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T21:00+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "description": "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\".",
+      "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T20:25+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Jensen Huang has resigned, what's next for Nvidia?",
+      "description": "Jensen Huang has resigned from Nvidia as chief financial officer Colette Kress replaces him as an interim boss.",
+      "link": "https://www.bbc.co.uk/news/videos/c6wy9l859r94o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T20:21+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T20:09+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Jensen Huang has resigned, what's next for Nvidia?",
+      "description": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
+      "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T19:33+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T19:23+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "description": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T18:47+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "description": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T17:11+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T16:54+00:00"
+    },
     {
       "category": "Technology",
       "source": "BBC News",
@@ -8,22 +144,6 @@
       "description": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
       "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T16:43+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "description": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T16:31+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-      "description": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T16:02+00:00"
     },
     {
       "category": "Technology",
@@ -42,7 +162,7 @@
       "published": "2026-11-12T15:18+00:00"
     },
     {
-      "category": "World",
+      "category": "Technology",
       "source": "BBC News",
       "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
       "description": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
@@ -68,18 +188,18 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T14:27+00:00"
+      "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+      "description": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T14:12+00:00"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Before Scott Colom, these two men were the last black US senators in Mississippi",
-      "description": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T14:12+00:00"
+      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+      "description": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
+      "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T13:58+00:00"
     },
     {
       "category": "Business",
@@ -88,14 +208,6 @@
       "description": "The UK is seeing impressive growth, but will it last?",
       "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T13:27+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Some under-25s should get fewer benefits, Milburn review to say",
-      "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-      "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T13:16+00:00"
     },
     {
       "category": "World",
@@ -114,14 +226,6 @@
       "published": "2026-11-12T12:56+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T12:39+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "Nurdle impact to be researched for a year",
@@ -138,8 +242,8 @@
       "published": "2026-11-12T11:20+00:00"
     },
     {
-      "category": "India",
-      "source": "BBC News: India",
+      "category": "World",
+      "source": "BBC News",
       "title": "Five new miniature frog species found in eastern Himalayas",
       "description": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
       "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
@@ -152,14 +256,6 @@
       "description": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
       "link": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T11:03+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "British woman missing from cruise ship in Atlantic",
-      "description": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T10:13+00:00"
     },
     {
       "category": "India",
@@ -284,14 +380,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "African writing award probe finds 'no evidence' winning story was AI generated",
-      "description": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
-      "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T20:00+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
       "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
       "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
@@ -364,14 +452,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-      "description": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
-      "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T13:25+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
       "description": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
       "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
@@ -394,20 +474,12 @@
       "published": "2026-11-11T12:49+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
       "description": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
       "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T11:33+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "The Global Story",
-      "description": "Tracking down the men who have made serious money from internet porn.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8mlr?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T10:00+00:00"
     },
     {
       "category": "World",
@@ -424,14 +496,6 @@
       "description": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
       "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T07:52+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Bid to restore rare Atlantic rainforest secures £6m lottery grant",
-      "description": "Hubs offering training in conservation work are to be set up in Torridon, Morvern and mid-Argyll.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn8w8n5ynq2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T06:37+00:00"
     },
     {
       "category": "Science",
@@ -554,7 +618,7 @@
       "published": "2026-11-10T06:23+00:00"
     },
     {
-      "category": "Technology",
+      "category": "Business",
       "source": "BBC News",
       "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
       "description": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
@@ -594,7 +658,7 @@
       "published": "2026-11-10T00:08+00:00"
     },
     {
-      "category": "Technology",
+      "category": "Business",
       "source": "BBC News",
       "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
       "description": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
@@ -650,36 +714,12 @@
       "published": "2026-11-09T06:18+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "A glimmer of good news for Britain's sleepy dormouse",
-      "description": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival.",
-      "link": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T00:56+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Doing these things now will help you save money at Christmas",
-      "description": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
-      "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T00:09+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "Homes and temples glow across India to mark Diwali",
       "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
       "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-08T14:42+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "One of the year's most prolific meteor showers visible in the night sky throughout November",
-      "description": "The Leonid meteor shower, known for its bright and fast meteors continues through November.",
-      "link": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-07T02:03+00:00"
     },
     {
       "category": "India",
@@ -760,46 +800,6 @@
       "description": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
       "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T00:09+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "The Indian chef who brought curry to America - then vanished",
-      "description": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince.",
-      "link": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T02:02+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "How video game remakes tap the power of nostalgia",
-      "description": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T07:45+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Indians turn to start-ups to care for ageing parents as young become more mobile",
-      "description": "Changing family structures in India are driving demand for start-ups offering services for eldercare.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T00:02+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "BBC Inside Science",
-      "description": "Time is running out for one of the most ambitious environmental pledges in history.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T21:00+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-      "description": "Properties where someone has died in tragic circumstances can have big reductions in price.",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T09:30+00:00"
     }
   ],
   "feeds_with_errors": [
