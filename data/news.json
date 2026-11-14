@@ -1,6 +1,118 @@
 {
-  "updated_at": "2026-11-13T22:00:11+00:00",
+  "updated_at": "2026-11-14T06:38:31+00:00",
   "items": [
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Food bank sees donations drop by 10% each year",
+      "description": "Staff fear the government stockpiling advice will have an impact on donations as Christmas looms.",
+      "link": "https://www.bbc.co.uk/news/articles/c6702j7e48eno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T06:33+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T05:52+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "What we know about the longest ground stop since 9/11",
+      "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T03:45+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "description": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
+      "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T01:47+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Tech Now",
+      "description": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+      "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T01:00+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+      "description": "The next title in the series is expected to be the biggest video game release ever.",
+      "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T00:37+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Bluetongue virus confirmed on County Down farm",
+      "description": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T00:17+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "description": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T00:03+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "description": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T00:03+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "description": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T00:01+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T23:40+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+      "description": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+      "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T23:11+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "description": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T23:00+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+      "description": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
+      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T21:15+00:00"
+    },
     {
       "category": "Technology",
       "source": "BBC News",
@@ -12,18 +124,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
       "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
       "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T21:14+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "SpaceX to attempt double catch of huge Starship rocket",
-      "description": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T20:12+00:00"
     },
     {
       "category": "World",
@@ -50,7 +154,7 @@
       "published": "2026-11-13T18:50+00:00"
     },
     {
-      "category": "World",
+      "category": "Technology",
       "source": "BBC News",
       "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
       "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
@@ -170,9 +274,9 @@
       "published": "2026-11-13T12:03+00:00"
     },
     {
-      "category": "World",
+      "category": "Technology",
       "source": "BBC News",
-      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "title": "What we know so far about the Microsoft outage",
       "description": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
       "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T11:43+00:00"
@@ -186,28 +290,12 @@
       "published": "2026-11-13T11:38+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Nigerian university in mourning after four students die at post-exam party",
-      "description": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T11:37+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Heat pumps: How much heat does your home really need?",
       "description": "Knowing how much heat your home loses is important before installing a new heating system.",
       "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T09:29+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
-      "description": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
-      "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T08:20+00:00"
     },
     {
       "category": "Technology",
@@ -258,14 +346,6 @@
       "published": "2026-11-13T06:21+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
-      "description": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T06:12+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "Flood victim, 95, lived in Wetherspoons until she died after her home was destroyed",
@@ -280,22 +360,6 @@
       "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
       "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T03:57+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-      "description": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
-      "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T02:48+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Global Microsoft outage affecting tens of thousands of users",
-      "description": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
-      "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T02:38+00:00"
     },
     {
       "category": "World",
@@ -322,23 +386,7 @@
       "published": "2026-11-13T01:17+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Why midterm vote-counting is taking so long in America's largest state",
-      "description": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
-      "link": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T00:35+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "description": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-      "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T00:20+00:00"
-    },
-    {
-      "category": "Technology",
+      "category": "Business",
       "source": "BBC News",
       "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
       "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
@@ -402,14 +450,6 @@
       "published": "2026-11-12T14:29+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
-      "description": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T14:12+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
@@ -466,14 +506,6 @@
       "published": "2026-11-12T09:01+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Campaigners want more land protected from housing",
-      "description": "After parkland was safeguarded from development, residents want the council to change a housing plan.",
-      "link": "https://www.bbc.co.uk/news/articles/cmpw48zwnevlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T06:24+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Gas bills to rise as Middle East turmoil persists",
@@ -498,22 +530,6 @@
       "published": "2026-11-12T00:12+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "description": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T22:07+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-      "description": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
-      "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T21:43+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "Toby Jones stars in film about UK Mars mission",
@@ -536,14 +552,6 @@
       "description": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
       "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T11:33+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-      "description": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
-      "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T09:28+00:00"
     },
     {
       "category": "Business",
@@ -656,14 +664,6 @@
       "description": "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change.",
       "link": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T06:30+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Oxford museum returns ancestral Naga skulls to India",
-      "description": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T06:23+00:00"
     },
     {
       "category": "Business",
