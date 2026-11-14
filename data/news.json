@@ -1,6 +1,102 @@
 {
-  "updated_at": "2026-11-14T06:38:31+00:00",
+  "updated_at": "2026-11-14T15:10:05+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T14:20+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Second catch attempt for SpaceX Starship rocket",
+      "description": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T14:18+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "description": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T11:41+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "description": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T11:30+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "How to spot November's planetary parade in the pre-dawn sky",
+      "description": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
+      "link": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T11:07+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "description": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+      "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T10:42+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Football kit giveaway aims to boost participation",
+      "description": "Millie Bright helps hand out free kit to young girls to help them keep playing in spite of costs.",
+      "link": "https://www.bbc.co.uk/news/articles/ck20v651473qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T08:13+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "The rise of 'housefishing' by estate agents",
+      "description": "The rise of 'housefishing' by estate agents.",
+      "link": "https://www.bbc.co.uk/news/videos/cmx295lz17wzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T07:45+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Extreme weather leaves gardeners hedging their bets",
+      "description": "Gardeners across Sussex are changing their planting strategies after this year's unprecedented heat.",
+      "link": "https://www.bbc.co.uk/news/articles/c6qj5r2qzqpwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T07:12+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "What do Christmas market traders say about rising prices?",
+      "description": "From £8 bratwursts to £11 Yorkshire pudding wraps, why is the cost of the markets rising year on year?",
+      "link": "https://www.bbc.co.uk/news/articles/c95y152k8erpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T07:11+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Bluetongue virus confirmed on County Down farm",
+      "description": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T06:56+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T06:42+00:00"
+    },
     {
       "category": "Business",
       "source": "BBC News",
@@ -20,14 +116,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "What we know about the longest ground stop since 9/11",
-      "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T03:45+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
       "description": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
       "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
@@ -38,7 +126,7 @@
       "source": "BBC News",
       "title": "Tech Now",
       "description": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
-      "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-14T01:00+00:00"
     },
     {
@@ -48,14 +136,6 @@
       "description": "The next title in the series is expected to be the biggest video game release ever.",
       "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-14T00:37+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Bluetongue virus confirmed on County Down farm",
-      "description": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
-      "link": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T00:17+00:00"
     },
     {
       "category": "World",
@@ -72,14 +152,6 @@
       "description": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
       "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-14T00:03+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Setback for SpaceX Starship rocket's double-catch test",
-      "description": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T00:01+00:00"
     },
     {
       "category": "World",
@@ -106,28 +178,12 @@
       "published": "2026-11-13T23:00+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
-      "description": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
-      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T21:15+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
       "description": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
       "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T21:15+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-      "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T21:14+00:00"
     },
     {
       "category": "World",
@@ -144,6 +200,14 @@
       "description": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
       "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T19:03+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+      "description": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T19:01+00:00"
     },
     {
       "category": "Science",
@@ -178,6 +242,14 @@
       "published": "2026-11-13T18:00+00:00"
     },
     {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Estonia bans Russian athletes as backlash intensifies",
+      "description": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
+      "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T17:54+00:00"
+    },
+    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
@@ -210,8 +282,8 @@
       "published": "2026-11-13T15:42+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "At least 24 killed after bus collides with truck in north-east India",
       "description": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
       "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
@@ -258,7 +330,7 @@
       "published": "2026-11-13T13:11+00:00"
     },
     {
-      "category": "World",
+      "category": "Technology",
       "source": "BBC News",
       "title": "How a sex scandal at Nvidia is putting pressure on the White House",
       "description": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
@@ -420,14 +492,6 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "Jensen Huang has resigned, what's next for Nvidia?",
-      "description": "Jensen Huang has resigned from Nvidia as chief financial officer Colette Kress replaces him as an interim boss.",
-      "link": "https://www.bbc.co.uk/news/videos/c6wy9l859r94o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T20:21+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
       "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
       "description": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
       "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
@@ -466,14 +530,6 @@
       "published": "2026-11-12T13:02+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Nurdle impact to be researched for a year",
-      "description": "Research will be carried out on sea-birds and marine life following a microplastic spillage in July.",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4y23zldyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T11:38+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "UK economy grows at fastest rate for more than two years",
@@ -504,14 +560,6 @@
       "description": "BBC Verify analysis indicates missing data led official Diwali pollution figures to be lower than they should be.",
       "link": "https://www.bbc.co.uk/news/articles/c30rkwpxdx50o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T09:01+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Gas bills to rise as Middle East turmoil persists",
-      "description": "Gas bills will increase by about 5% from 1 December, Island Energy announces.",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdvr2y3go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T06:15+00:00"
     },
     {
       "category": "Science",
@@ -626,7 +674,7 @@
       "published": "2026-11-10T17:04+00:00"
     },
     {
-      "category": "Science",
+      "category": "Business",
       "source": "BBC News",
       "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
       "description": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
@@ -752,54 +800,6 @@
       "description": "A glimpse into the world of the incredibly tiny",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct978k?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T21:00+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
-      "description": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
-      "link": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T09:04+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Graduates are managing AI - but are they learning much else?",
-      "description": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
-      "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T00:04+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Tech Life",
-      "description": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T20:30+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "'We grew up around this historic Delhi mosque - now we have been forced out'",
-      "description": "Authorities have razed hundreds of houses in a neighbourhood in central Delhi, saying they were built on government land.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T00:20+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
-      "description": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
-      "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T00:09+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "The Indian chef who brought curry to America - then vanished",
-      "description": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince.",
-      "link": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T02:02+00:00"
     }
   ],
   "feeds_with_errors": [
