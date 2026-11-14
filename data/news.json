@@ -1,13 +1,85 @@
 {
-  "updated_at": "2026-11-14T15:10:05+00:00",
+  "updated_at": "2026-11-14T20:46:35+00:00",
   "items": [
     {
       "category": "World",
       "source": "BBC News",
-      "title": "What we know about the ground stop and what to do if you're affected",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "description": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T20:41+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T20:23+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "How telecoms upgrade work sparked US flight chaos",
       "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
       "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T14:20+00:00"
+      "published": "2026-11-14T20:03+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "description": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T19:14+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T19:12+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T18:28+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "description": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T18:17+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "description": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T18:00+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T15:53+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "description": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+      "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T15:42+00:00"
     },
     {
       "category": "World",
@@ -16,22 +88,6 @@
       "description": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
       "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-14T14:18+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "description": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T11:41+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-      "description": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
-      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T11:30+00:00"
     },
     {
       "category": "Science",
@@ -48,6 +104,14 @@
       "description": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
       "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-14T10:42+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "Sooryavanshi becomes youngest captain in men's T20s",
+      "description": "Teenage India sensation Vaibhav Sooryavanshi breaks the record held by Croatia's Zach Vukusic as the youngest captain in top-level men's Twenty20 cricket.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T09:53+00:00"
     },
     {
       "category": "Business",
@@ -108,14 +172,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T05:52+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
       "description": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
       "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
@@ -140,14 +196,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-      "description": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T00:03+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
       "description": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
       "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
@@ -156,10 +204,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T23:40+00:00"
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "description": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T00:03+00:00"
     },
     {
       "category": "World",
@@ -186,28 +234,12 @@
       "published": "2026-11-13T21:15+00:00"
     },
     {
-      "category": "World",
+      "category": "Technology",
       "source": "BBC News",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "description": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+      "description": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
       "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T19:53+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "description": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T19:03+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
-      "description": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T19:01+00:00"
     },
     {
       "category": "Science",
@@ -226,28 +258,12 @@
       "published": "2026-11-13T18:36+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "description": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T18:34+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "Are board games making a comeback this Christmas?",
       "description": "Are board games making a comeback this Christmas?",
       "link": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T18:00+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Estonia bans Russian athletes as backlash intensifies",
-      "description": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
-      "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T17:54+00:00"
     },
     {
       "category": "Technology",
@@ -272,14 +288,6 @@
       "description": "From cider to candy canes: What people are emergency stockpiling",
       "link": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T16:31+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-      "description": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T15:42+00:00"
     },
     {
       "category": "India",
@@ -322,14 +330,6 @@
       "published": "2026-11-13T13:41+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-      "description": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
-      "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T13:11+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "How a sex scandal at Nvidia is putting pressure on the White House",
@@ -354,14 +354,6 @@
       "published": "2026-11-13T11:43+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Rosalía scoops historic third best album award at Latin Grammys",
-      "description": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
-      "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T11:38+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Heat pumps: How much heat does your home really need?",
@@ -384,14 +376,6 @@
       "description": "The trust hopes to restore the site, create new wildlife habitats and improve access to green space.",
       "link": "https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T07:04+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-      "description": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
-      "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T07:01+00:00"
     },
     {
       "category": "Science",
@@ -426,7 +410,7 @@
       "published": "2026-11-13T06:05+00:00"
     },
     {
-      "category": "Technology",
+      "category": "Business",
       "source": "BBC News",
       "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
       "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
@@ -800,6 +784,22 @@
       "description": "A glimpse into the world of the incredibly tiny",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct978k?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T21:00+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
+      "description": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
+      "link": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T09:04+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "description": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T00:04+00:00"
     }
   ],
   "feeds_with_errors": [
