@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-11-15T15:41:57+00:00",
+  "updated_at": "2026-11-15T21:05:03+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Czechs rally against plan to switch funding of public media",
+      "description": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+      "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T21:03+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "description": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T19:32+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Ronaldinho makes comeback in Ravenna win",
+      "description": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T19:31+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "description": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+      "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T19:20+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "description": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+      "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T18:38+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "description": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+      "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T16:15+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+      "description": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T15:57+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -16,14 +72,6 @@
       "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
       "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-15T14:56+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "description": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T14:33+00:00"
     },
     {
       "category": "World",
@@ -68,42 +116,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "description": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
-      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T09:57+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-      "description": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-      "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T09:26+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
       "description": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
       "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-15T08:17+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T07:10+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Trump barred from closing 'Trash Island' golf course on Sunday",
-      "description": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T03:21+00:00"
     },
     {
       "category": "World",
@@ -138,14 +154,6 @@
       "published": "2026-11-14T23:15+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T22:37+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "SpaceX successfully catches top of huge Starship rocket for first time",
@@ -170,52 +178,12 @@
       "published": "2026-11-14T19:14+00:00"
     },
     {
-      "category": "World",
+      "category": "Technology",
       "source": "BBC News",
       "title": "Italy fines Meta €805m over accessing users' photos",
       "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
       "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-14T18:28+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Philippines wins first Eurovision Song Contest Asia",
-      "description": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T18:17+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-      "description": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T18:00+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T15:53+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-      "description": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-      "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T15:42+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "description": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
-      "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T10:42+00:00"
     },
     {
       "category": "India",
@@ -800,6 +768,38 @@
       "description": "A glimpse into the world of the incredibly tiny",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct978k?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T21:00+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
+      "description": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
+      "link": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T09:04+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "description": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T00:04+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "Tech Life",
+      "description": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T20:30+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "'We grew up around this historic Delhi mosque - now we have been forced out'",
+      "description": "Authorities have razed hundreds of houses in a neighbourhood in central Delhi, saying they were built on government land.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T00:20+00:00"
     }
   ],
   "feeds_with_errors": [
