@@ -1,6 +1,86 @@
 {
-  "updated_at": "2026-11-21T01:34:59+00:00",
+  "updated_at": "2026-11-21T12:45:37+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T12:20+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "How red squirrels made island their home",
+      "description": "Conservationists say that, with red squirrels dwindling in the UK, Jersey is an \"important refuge\".",
+      "link": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T12:18+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Sessions offer advice on rising energy costs",
+      "description": "A council is urging people to seek support with rising energy costs on heating this winter.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T12:09+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T10:26+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T09:52+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T09:40+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T09:34+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trafalgar Square Christmas tree felled in Norway",
+      "description": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T08:10+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "description": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T08:10+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "description": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T04:34+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -44,7 +124,7 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+      "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
       "description": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
       "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T23:28+00:00"
@@ -52,7 +132,7 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+      "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
       "description": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
       "link": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T23:20+00:00"
@@ -68,7 +148,7 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
       "description": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
       "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T23:08+00:00"
@@ -116,14 +196,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T21:57+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "What the new UK-EU deal could mean for future post-Brexit relations",
       "description": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
       "link": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
@@ -136,14 +208,6 @@
       "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
       "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T20:54+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "description": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-      "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T19:45+00:00"
     },
     {
       "category": "World",
@@ -164,18 +228,18 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+      "description": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
+      "link": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T18:48+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
       "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
       "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
       "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T17:49+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T16:54+00:00"
     },
     {
       "category": "World",
@@ -192,22 +256,6 @@
       "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
       "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T16:41+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "description": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-      "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T15:55+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-      "description": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
-      "link": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T15:55+00:00"
     },
     {
       "category": "Business",
@@ -250,36 +298,12 @@
       "published": "2026-11-20T14:43+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "description": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T13:01+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Texas death-row inmate screams as execution takes more than one hour",
-      "description": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
-      "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T12:42+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "What are heat pumps and how much do they cost?",
       "description": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
       "link": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T10:24+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "South Korea catches 111 students with new measures against exam cheating",
-      "description": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
-      "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T10:16+00:00"
     },
     {
       "category": "Business",
@@ -312,14 +336,6 @@
       "description": "A poker league in Fenland sees a 35% rise in players since 2022.",
       "link": "https://www.bbc.co.uk/news/articles/cm8947dy3kg9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T06:19+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Survey reveals 'major increase' in cost of living",
-      "description": "More than two thirds of respondents reported noticing rises in the cost of living.",
-      "link": "https://www.bbc.co.uk/news/articles/cq772r7kk315o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T06:12+00:00"
     },
     {
       "category": "Business",
@@ -392,14 +408,6 @@
       "description": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
       "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T23:04+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "From premature baby to social media star - Famed hippo Fiona dies",
-      "description": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
-      "link": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T22:54+00:00"
     },
     {
       "category": "Science",
@@ -488,14 +496,6 @@
       "description": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market.",
       "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T06:15+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Developer accused of 'environmental vandalism'",
-      "description": "Bellway says the work has been done with an ecologist on site and in compliance with planning consent.",
-      "link": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T06:09+00:00"
     },
     {
       "category": "Technology",
@@ -666,14 +666,6 @@
       "published": "2026-11-18T00:00+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
-      "description": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T23:34+00:00"
-    },
-    {
       "category": "India",
       "source": "BBC News: India",
       "title": "William and Kate on Earthshot Prize green carpet in Mumbai",
@@ -800,6 +792,14 @@
       "description": "BBC Verify analysis indicates missing data led official Diwali pollution figures to be lower than they should be.",
       "link": "https://www.bbc.co.uk/news/articles/c30rkwpxdx50o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T09:01+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "New mega library rocked by scandal over 'AI-generated books'",
+      "description": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
+      "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T11:33+00:00"
     }
   ],
   "feeds_with_errors": [
