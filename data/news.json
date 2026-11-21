@@ -1,13 +1,53 @@
 {
-  "updated_at": "2026-11-21T12:45:37+00:00",
+  "updated_at": "2026-11-21T21:41:33+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T21:05+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T19:33+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "description": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T19:20+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T16:35+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Hormuz swim highlights environmental cost of war",
+      "description": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.",
+      "link": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T16:12+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
       "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
       "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T12:20+00:00"
+      "published": "2026-11-21T13:17+00:00"
     },
     {
       "category": "Science",
@@ -36,26 +76,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T09:52+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
       "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
       "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-21T09:40+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T09:34+00:00"
     },
     {
       "category": "World",
@@ -434,14 +458,6 @@
       "published": "2026-11-19T16:33+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Rare rhino's first steps captured on video at zoo",
-      "description": "Zookeepers say the rhino's birth is a \"special moment\" for the under-threat one horned species.",
-      "link": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T16:28+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Anthropic raises $81bn in record-breaking stock market debut",
@@ -784,22 +800,6 @@
       "description": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
       "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T17:11+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Was Delhi pollution data during Diwali misleading?",
-      "description": "BBC Verify analysis indicates missing data led official Diwali pollution figures to be lower than they should be.",
-      "link": "https://www.bbc.co.uk/news/articles/c30rkwpxdx50o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T09:01+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "New mega library rocked by scandal over 'AI-generated books'",
-      "description": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
-      "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T11:33+00:00"
     }
   ],
   "feeds_with_errors": [
