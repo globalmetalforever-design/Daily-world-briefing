@@ -1,21 +1,85 @@
 {
-  "updated_at": "2026-11-21T21:41:33+00:00",
+  "updated_at": "2026-11-22T07:01:31+00:00",
   "items": [
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "New draft deal aims to avert collapse of talks at climate summit",
+      "description": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+      "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T06:54+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Record-breaking sightings of rare moth in Essex",
+      "description": "There is now a self-sustaining population of the moth at a nature reserve in Essex, a charity says.",
+      "link": "https://www.bbc.co.uk/news/articles/c6jrey28gvqxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T06:38+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Dozens missing after fire at Indonesian factory",
+      "description": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T06:05+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
       "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
       "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
       "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T21:05+00:00"
+      "published": "2026-11-22T01:25+00:00"
     },
     {
       "category": "World",
       "source": "BBC News",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T00:10+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "description": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+      "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T00:10+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "How a teen gamer and his mother helped rescue a missing girl",
+      "description": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T00:09+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Will COP31 end with a new global climate deal?",
+      "description": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
+      "link": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T22:44+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T19:33+00:00"
+      "published": "2026-11-21T22:19+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "description": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T22:01+00:00"
     },
     {
       "category": "World",
@@ -24,14 +88,6 @@
       "description": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
       "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-21T19:20+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T16:35+00:00"
     },
     {
       "category": "Science",
@@ -146,8 +202,8 @@
       "published": "2026-11-21T00:01+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
       "description": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
       "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
@@ -212,14 +268,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "description": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
-      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T22:14+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "What the new UK-EU deal could mean for future post-Brexit relations",
       "description": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
       "link": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
@@ -234,8 +282,8 @@
       "published": "2026-11-20T20:54+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
       "description": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
       "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
@@ -442,14 +490,6 @@
       "published": "2026-11-19T21:00+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Oil firm fined for breaking environmental rules hundreds of times",
-      "description": "Ten charges involved oil, cyanide and other pollutants entering local waterways.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T19:58+00:00"
-    },
-    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Dutch watchdog tells people not to buy AI smart glasses",
@@ -634,14 +674,6 @@
       "published": "2026-11-18T10:48+00:00"
     },
     {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "What's gone wrong at Britain's worst bathing site?",
-      "description": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
-      "link": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T06:12+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "How important are Nvidia and Jensen Huang to the US economy?",
@@ -664,14 +696,6 @@
       "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
       "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T01:18+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
-      "description": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
-      "link": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T00:44+00:00"
     },
     {
       "category": "Business",
@@ -776,30 +800,6 @@
       "description": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
       "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T23:11+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-      "description": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-      "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T12:22+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "BBC Inside Science",
-      "description": "China: climate saviour or global villain?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct978l?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T21:00+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-      "description": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T17:11+00:00"
     }
   ],
   "feeds_with_errors": [
