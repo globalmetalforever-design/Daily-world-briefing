@@ -1,13 +1,421 @@
 {
-  "updated_at": "2026-11-23T00:56:11+00:00",
+  "updated_at": "2026-11-23T14:50:51+00:00",
   "items": [
+    {
+      "category": "Business",
+      "source": "The Indian Express",
+      "title": "Indian markets fall 1.8% on profit booking, but experts remain optimistic",
+      "description": "Sensex_d289e7",
+      "link": "https://indianexpress.com/article/business/sensex-nifty-fall-profit-booking-fno-expiry-india-markets-10975373/",
+      "published": "2026-11-23T14:43+00:00"
+    },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+      "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
+      "description": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+      "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T14:26+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "BBC News",
+      "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+      "description": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+      "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T14:08+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "India-Nepal rail link will boost cultural ties, say passengers on inaugural journey",
+      "description": "saryu kamala express",
+      "link": "https://indianexpress.com/article/india/india-nepal-rail-link-will-boost-cultural-ties-say-passengers-on-inaugural-journey-10973442/",
+      "published": "2026-11-23T13:56+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Welfare cuts: What's been happening with Pip and universal credit?",
+      "description": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.",
+      "link": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T13:52+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "IAS officer Shikhar Agrawal, at centre of Rajasthan corruption row, moves Supreme Court for relief",
+      "description": "ias-agarwal_20261102173323_20261118203006.jpg",
+      "link": "https://indianexpress.com/article/india/ias-shikhar-agrawal-moves-supreme-court-stay-rajasthan-acb-corruption-probe-10975279/",
+      "published": "2026-11-23T13:40+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "The Indian Express",
+      "title": "RBI moots trusted-person checks, instant debit freeze to curb banking fraud",
+      "description": "RBI",
+      "link": "https://indianexpress.com/article/business/rbi-trusted-person-stop-switch-digital-banking-fraud-rules-10975272/",
+      "published": "2026-11-23T13:40+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "India pledges $1.6bn to Nepal in reset of ties",
+      "description": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.",
+      "link": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T13:39+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Flights and train services cancelled in Belgium due to strike",
+      "description": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+      "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T13:34+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "The Indian Express",
+      "title": "Tata Steel to buy 26.6% stake in APL Apollo promoters for Rs 15,510 crore",
+      "description": "tata steel file photo",
+      "link": "https://indianexpress.com/article/business/tata-steel-to-buy-26-6-stake-in-apl-apollo-promoters-for-rs-15510-crore-10975241/",
+      "published": "2026-11-23T13:29+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+      "description": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
+      "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T13:26+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Pip assessments need 'fundamental overhaul', report to say",
+      "description": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+      "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T13:20+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "Streetlights taken away after BJP candidate’s loss in Rajasthan panchayat polls",
+      "description": "MLA Rajasthan",
+      "link": "https://indianexpress.com/article/india/rajasthan-tonk-50-street-lights-removed-bjp-candidate-loses-piplu-panchayat-samiti-election-ram-sahay-verma-10975213/",
+      "published": "2026-11-23T13:18+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "description": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T13:02+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "Avoid WhatsApp Web for government, sensitive work: Centre’s ‘hijack’ warning",
+      "description": "whatsapp web (1)",
+      "link": "https://indianexpress.com/article/india/whatsapp-web-log-in-public-computer-account-hijack-warning-i4c-centre-10975127/",
+      "published": "2026-11-23T12:50+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "The Indian Express",
+      "title": "Tata Sons board meet postponed to November 30 amid Noel Tata’s objections",
+      "description": "Noel Tata",
+      "link": "https://indianexpress.com/article/business/tata-sons-board-meeting-postponed-noel-tata-10975180/",
+      "published": "2026-11-23T12:42+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Next data accessed in cyber breach",
+      "description": "The fashion retailer says there is no evidence customers' personal data was compromised.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T12:34+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "description": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T11:57+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "Police investigate fairness cream's alleged link to Indian teen's kidney ailment",
+      "description": "Doctors who treated the 17-year-old girl say that the cream allegedly contained toxic levels of mercury.",
+      "link": "https://www.bbc.co.uk/news/articles/cq4gn7zp1n33o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T11:44+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "description": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T11:40+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Ukraine shares video of strikes on Russian ships off Libya",
+      "description": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
+      "link": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T11:34+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
+      "description": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
+      "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T11:24+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "The Indian Express",
+      "title": "What is Google’s ‘Mirror Dimension’, the fake internet built to train its AI agents?",
+      "description": "Google Gemini",
+      "link": "https://indianexpress.com/article/technology/artificial-intelligence/google-mirror-dimension-explained-fake-internet-ai-agents-10975011/",
+      "published": "2026-11-23T10:36+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "South East Water reports loss after supply issues",
+      "description": "South East Water records a pre-tax loss of £22.9m in the six months to 30 September.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T10:19+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Poundland is facing collapse - what's gone wrong?",
+      "description": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T10:09+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "‘I have to answer to people’: Karnataka Congress MLA resigns over elephant relocation",
+      "description": "Nayana Motamma",
+      "link": "https://indianexpress.com/article/india/karnataka-congress-mla-nayana-motamma-resigns-elephant-row-bhadra-tiger-reserve-10974975/",
+      "published": "2026-11-23T10:08+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "‘Absolutely the correct thing’: Shashi Tharoor backs Rahul Gandhi’s Palestine remark",
+      "description": "shashi tharoom rahul gandhi express photo",
+      "link": "https://indianexpress.com/article/india/shashi-tharoor-backs-rahul-gandhi-israel-palestine-stand-10974960/",
+      "published": "2026-11-23T09:58+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Catering giant to switch main share listing to US in further blow to UK",
+      "description": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T09:54+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Who is taking part in France's recent street protests?",
+      "description": "President Macron has blamed the unrest on the radical left, but who are the protesters and what are they fighting for?",
+      "link": "https://www.bbc.co.uk/news/videos/cw5y188vzxn8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T09:25+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "‘Ties built on trust’: India announces Rs 15,000 crore package for Nepal",
+      "description": "Nepal PM Balendra Shah with Prime Minister Narendra Modi",
+      "link": "https://indianexpress.com/article/india/rs-15000-crore-package-train-to-nepal-pm-modi-announces-as-he-hosts-balen-shah-10974858/",
+      "published": "2026-11-23T09:09+00:00"
+    },
+    {
+      "category": "India",
+      "source": "BBC News: India",
+      "title": "Saliva should be used to shine ball again - Gill",
+      "description": "The India captain calls for the ban on using saliva to shine the ball to be reversed after drawing the first Test against New Zealand in Wellington.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y80neve594o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T08:55+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+      "description": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T08:53+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "The Indian Express",
+      "title": "Gold Rate Today, 23 November 2026: Gold prices spike to Rs 1,24,677 per 10 grams after hitting 14-month low",
+      "description": "gold-rate-3_20261123081840.png",
+      "link": "https://indianexpress.com/article/business/market/gold-rate-today-23-november-2026-gold-prices-spike-to-rs-124677-per-10-grams-after-hitting-14-month-low-10974713/",
+      "published": "2026-11-23T08:50+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "The Indian Express",
+      "title": "Meta’s Alexandr Wang says human control over superintelligent AI is ‘hard to imagine’",
+      "description": "Alexandr Wang",
+      "link": "https://indianexpress.com/article/technology/artificial-intelligence/meta-alexandr-wang-human-control-superintelligent-ai-difficult-10974815/",
+      "published": "2026-11-23T08:35+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "India-Nepal train service: PM Modi, Balendra Shah flag off Ayodhya-Janakpur Saryu Kamala Express",
+      "description": "nepal train (1)",
+      "link": "https://indianexpress.com/article/india/india-nepal-train-service-pm-modi-balendra-shah-flag-off-ayodhya-janakpur-saryu-kamala-express-10972887/",
+      "published": "2026-11-23T08:07+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "Naveen Patnaik breaks silence over foreign trip probe: ‘Allegations false; appropriate reply will be given’",
+      "description": "Naveen Patnaik",
+      "link": "https://indianexpress.com/article/india/naveen-patnaik-refutes-allegations-foreign-trips-probe-vk-pandian-odisha-10974755/",
+      "published": "2026-11-23T07:57+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "Shashi Tharoor tries hand at GTA VI, calls demonetisation ‘Grand Theft without Auto’",
+      "description": "game",
+      "link": "https://indianexpress.com/article/india/grand-theft-without-auto-shashi-tharoor-plays-gta-vi-takes-dig-at-narendra-modi-govt-10974575/",
+      "published": "2026-11-23T07:45+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "Video of excavator at Sheshnag lake sparks concern; crime against Hinduism, says PDP leader",
+      "description": "Excavator at Sheshnag lake",
+      "link": "https://indianexpress.com/article/india/excavator-video-shehnag-lake-hinduism-pdp-leader-10974654/",
+      "published": "2026-11-23T07:06+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Witness History",
+      "description": "In 1994, the agreement that created the World Trade Organization was signed in Morrocco",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8r4b?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T07:00+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Five takeaways from the failed climate talks COP31",
+      "description": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+      "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T06:33+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "Bisleri water unsafe? What the company just said about FSSAI concerns",
+      "description": "Bisleri FSSAI",
+      "link": "https://indianexpress.com/article/india/bisleri-says-water-safe-for-drinking-amid-fssai-concerns-says-no-notice-received-10974595/",
+      "published": "2026-11-23T06:16+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "The Indian Express",
+      "title": "OpenAI’s chief scientist has a new way to track AI progress: What is perplexity?",
+      "description": "Jakub Pachocki",
+      "link": "https://indianexpress.com/article/technology/artificial-intelligence/openai-chief-scientist-new-metric-ai-progress-10974577/",
+      "published": "2026-11-23T06:09+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Househunter swaps Australia for Wales's most affordable town - where locals are struggling to buy",
+      "description": "The area has attracted investors and even a buyer from Australia, but locals struggle to afford homes.",
+      "link": "https://www.bbc.co.uk/news/articles/cjkgkdppk1nwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T06:03+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T05:34+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "description": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T05:33+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
       "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T00:50+00:00"
+      "published": "2026-11-23T05:15+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "The Indian Express",
+      "title": "Apple Mac Mini M6 review: The always-on hub for my AI agents",
+      "description": "Apple Mac Mini M6 review",
+      "link": "https://indianexpress.com/article/technology/tech-reviews/mac-mini-m6-review-always-on-hub-ai-agents-10974432/",
+      "published": "2026-11-23T04:30+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "The Indian Express",
+      "title": "Nirmala Sitharaman writes: The decade India turned the tide on poverty",
+      "description": "nirmala sitharaman",
+      "link": "https://indianexpress.com/article/business/poverty-india-world-bank-nirmala-sitharaman-10974412/",
+      "published": "2026-11-23T04:15+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "India News Highlights, 23 November 2026: Air India, Air India Express suspend Saudi flights till November 30",
+      "description": "Airport",
+      "link": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-23-november-2026-delhi-mumbai-weather-kochi-telangana-supreme-court-bengal-sir-modi-balendra-shah-ayodhya-janakpur-train-10974387/",
+      "published": "2026-11-23T04:10+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "The Indian Express",
+      "title": "US intelligence chief predicts more tech outages as systems undergo upgrades",
+      "description": "Global IT outages at Newark International Airport",
+      "link": "https://indianexpress.com/article/technology/tech-news-technology/us-intelligence-chief-predicts-more-tech-outages-as-systems-undergo-upgrades-10974414/",
+      "published": "2026-11-23T04:04+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "The Indian Express",
+      "title": "Looking for the formula to stop an AI apocalypse",
+      "description": "AI alignment research",
+      "link": "https://indianexpress.com/article/technology/artificial-intelligence/looking-for-the-formula-to-stop-an-ai-apocalypse-10974400/",
+      "published": "2026-11-23T03:58+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "description": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T01:05+00:00"
     },
     {
       "category": "World",
@@ -18,15 +426,7 @@
       "published": "2026-11-23T00:33+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "What is going on with Poundland?",
-      "description": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T00:22+00:00"
-    },
-    {
-      "category": "Technology",
+      "category": "World",
       "source": "BBC News",
       "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
       "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
@@ -34,12 +434,92 @@
       "published": "2026-11-23T00:08+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Energy bills will soar - here's how you can ease the pain",
-      "description": "Household energy bills are about to soar but there are ways to keep a lid on your expenditure.",
-      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T00:05+00:00"
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "Bihar police found Rs 30 lakh in cash at block pramukh’s house. His income: Rs 10,000",
+      "description": "Bihar block pramukh raid",
+      "link": "https://indianexpress.com/article/india/bihar-block-pramukh-afjal-alam-disproportionate-assets-economic-offences-unit-raid-10974155/",
+      "published": "2026-11-22T23:50+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "50 crore out of poverty, yet some don’t want to talk about that: PM Narendra Modi",
+      "description": "PM Modi's message",
+      "link": "https://indianexpress.com/article/india/narendra-modi-world-bank-poverty-report-sneh-milan-programme-10974209/",
+      "published": "2026-11-22T23:50+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "He wouldn’t leave his home of 45 years. A Mumbai Metro line had to wait",
+      "description": "Ben Muthanna at his new home in Mumbai. Sabah Virani",
+      "link": "https://indianexpress.com/article/india/one-man-185-m-metro-link-after-years-of-holdout-mumbai-resident-vacates-home-10974186/",
+      "published": "2026-11-22T23:50+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "Nine of Maharashtra family returning from Khatu Shyamji temple die in road collision",
+      "description": "Accident on the Kota-Udaipur highway",
+      "link": "https://indianexpress.com/article/india/kota-rajasthan-accident-nine-family-members-killed-10974200/",
+      "published": "2026-11-22T23:50+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "In death, a soldier lives on: Kidneys, liver transplanted into 3 people after marathon efforts",
+      "description": "Kidneys, liver transplanted northern command",
+      "link": "https://indianexpress.com/article/india/udhampur-army-hospital-first-multi-organ-retrieval-10974161/",
+      "published": "2026-11-22T23:50+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "Tamil Nadu seeks stay on Supreme Court order in deepathoon row, says it would ‘alter position irreversibly’",
+      "description": "Deepathoon-AI-enhance_20261119232839_20261122223704.jpg",
+      "link": "https://indianexpress.com/article/india/tamil-nadu-seeks-stay-supreme-court-deepathoon-order-10974183/",
+      "published": "2026-11-22T23:50+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "COP31 concludes without agreement as countries differ on fossil fuel phase-out",
+      "description": "Turkey hosts COP31 UN Climate Change Conference in Antalya",
+      "link": "https://indianexpress.com/article/india/cop31-antaralya-summit-fails-fossil-fuel-deal-10974180/",
+      "published": "2026-11-22T23:50+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "PM Modi, Balendra Shah meet today: Focus on economic and energy ties",
+      "description": "EAM S. Jaishankar Calls On Nepal PM Balendra Shah",
+      "link": "https://indianexpress.com/article/india/balendra-shah-narendra-modi-india-nepal-talks-10974169/",
+      "published": "2026-11-22T23:50+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "Cars and government jobs, yet free rations: What Centre’s study reveals",
+      "description": "PMGKAY findings",
+      "link": "https://indianexpress.com/article/india/pm-garib-kalyan-scheme-free-ration-scheme-inclusion-error-study-10974173/",
+      "published": "2026-11-22T23:50+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "SCO forum seeks ‘equal voice’ for all with ‘Indraprastha Communique’",
+      "description": "Delegates attend the SCO Civilisation Dialogue Forum, which concluded at Purana Qila in New Delhi, Sunday",
+      "link": "https://indianexpress.com/article/india/sco-civilisational-dialogue-forum-indraprastha-communique-10974199/",
+      "published": "2026-11-22T23:30+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "SCO forum: In statement, Culture Ministry highlights Pakistan minister Musadik Malik’s speech",
+      "description": "Pak Minister in Delhi",
+      "link": "https://indianexpress.com/article/india/sco-forum-in-statement-culture-ministry-highlights-pakistan-minister-musadik-maliks-speech-10974204/",
+      "published": "2026-11-22T23:28+00:00"
     },
     {
       "category": "World",
@@ -60,30 +540,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T20:28+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "description": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T20:26+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "What's next after no deal at COP31 climate talks?",
-      "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T18:57+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
       "description": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
       "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
@@ -98,12 +554,60 @@
       "published": "2026-11-22T18:28+00:00"
     },
     {
+      "category": "Business",
+      "source": "The Indian Express",
+      "title": "APL Apollo Tubes to acquire two Tata Steel businesses for Rs 28,000 crore",
+      "description": "steel_20261122174216.jpg",
+      "link": "https://indianexpress.com/article/business/companies/apl-apollo-two-tata-steel-businesses-acquisition-10974047/",
+      "published": "2026-11-22T17:57+00:00"
+    },
+    {
       "category": "World",
       "source": "BBC News",
       "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
       "description": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
       "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-22T17:18+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "In Goa, CJP’s Dipke slams CM: ‘You are the one selling state to friends from outside’",
+      "description": "Dipke (1)",
+      "link": "https://indianexpress.com/article/india/cockroach-janta-party-abhijeet-dipke-targets-pramod-sawant-goa-section-39a-townships-10974045/",
+      "published": "2026-11-22T16:48+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "People of Ladakh have spoken… elected candidates could be included in talks: Chief Secretary",
+      "description": "Climate-activist-Sonam-Wangchuk-addresses-a-press-conference-at-Ladakh-Bhawan-in-New-Delhi-on-Thursday.-ANI_20261111183552_20261122155631.jpg",
+      "link": "https://indianexpress.com/article/india/ladakh-chief-secretary-ashish-kundra-mha-talks-resume-after-december-15-panchayat-election-turnout-sonam-wangchuk-10974030/",
+      "published": "2026-11-22T15:59+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "Bisleri water fails safety test, FSSAI sanctions prosecution",
+      "description": "Bisleri",
+      "link": "https://indianexpress.com/article/india/bisleri-water-unsafe-fssai-prosecution-packaged-sample-10974022/",
+      "published": "2026-11-22T15:41+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "The Indian Express",
+      "title": "EPFO 3.0 likely in February; set for tech revamp, plans PF net for gig workers",
+      "description": "EPFO-new_20261119004757.png",
+      "link": "https://indianexpress.com/article/business/epfo-3-0-february-tech-revamp-plans-pf-net-gig-workers-10974019/",
+      "published": "2026-11-22T15:34+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "High drama at Bengaluru airport as Sharmila arrives to visit ‘family bungalow’, police stop her",
+      "description": "Y S Sharmila",
+      "link": "https://indianexpress.com/article/india/ys-sharmila-denied-permission-yelahanka-palace-bengaluru-10973982/",
+      "published": "2026-11-22T14:42+00:00"
     },
     {
       "category": "World",
@@ -114,12 +618,36 @@
       "published": "2026-11-22T14:05+00:00"
     },
     {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "Why basmati farmers have reasons to be happy despite drought across much of India",
+      "description": "Farmer",
+      "link": "https://indianexpress.com/article/india/el-nino-dry-weather-blessing-basmati-rice-farmers-punjab-haryana-higher-yields-prices-2026-10973939/",
+      "published": "2026-11-22T14:00+00:00"
+    },
+    {
       "category": "Business",
       "source": "BBC News",
       "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
       "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
       "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-22T13:50+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "Manipur sets up probe in Chandel hooch tragedy as toll rises to 17",
+      "description": "manipur hooch",
+      "link": "https://indianexpress.com/article/india/manipur-hooch-tragedy-death-toll-inquiry-committee-imphal-10973928/",
+      "published": "2026-11-22T13:40+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "‘Cream from Pakistan’: Kerala begins crackdown after fairness product lands teen in hospital",
+      "description": "Kerala (1)",
+      "link": "https://indianexpress.com/article/india/keralam-orders-probe-fairness-cream-regulation-malappuram-teen-membranous-nephropathy-mercury-poisoning-10973865/",
+      "published": "2026-11-22T12:20+00:00"
     },
     {
       "category": "Science",
@@ -136,6 +664,46 @@
       "description": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
       "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-22T09:20+00:00"
+    },
+    {
+      "category": "Technology",
+      "source": "The Indian Express",
+      "title": "Signal blocks in-app screenshots, calls AI agents ‘existential threat’ to privacy mission",
+      "description": "signal",
+      "link": "https://indianexpress.com/article/technology/tech-news-technology/signal-blocks-screenshots-ai-agents-privacy-threat-10973703/",
+      "published": "2026-11-22T09:18+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "How India gave prominence to Pakistan minister at SCO and accepted his remarks",
+      "description": "SCO Pakistan minister",
+      "link": "https://indianexpress.com/article/india/dialogue-essential-pakistan-minister-musadik-malik-sco-forum-delhi-10973656/",
+      "published": "2026-11-22T08:08+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "The Indian Express",
+      "title": "India should build Asian chip alliance with Japan, South Korea, Singapore: Ajai Chowdhry",
+      "description": "Ajai Chowdhry",
+      "link": "https://indianexpress.com/article/business/ajai-chowdhry-interview-india-china-quantum-safe-network-ai-data-centres-semicon-10973632/",
+      "published": "2026-11-22T07:56+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "India has significant potential to harness seawater desalination: Israeli water attaché",
+      "description": "Israeli water attache",
+      "link": "https://indianexpress.com/article/india/india-seawater-desalination-israel-water-cooperation-water-attache-noa-amsalem-10973628/",
+      "published": "2026-11-22T07:31+00:00"
+    },
+    {
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "BJP MP Ramrao Sakharam Wadkute dies of cardiac arrest, PM offers condolences",
+      "description": "Photo - 2026-11-22T125507.726",
+      "link": "https://indianexpress.com/article/india/bjp-rajya-sabha-mp-ramrao-sakharam-wadkute-dies-cardiac-arrest-aiims-delhi-10973600/",
+      "published": "2026-11-22T07:27+00:00"
     },
     {
       "category": "Business",
@@ -162,650 +730,77 @@
       "published": "2026-11-22T06:38+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T01:25+00:00"
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "Strained ties, visits and a meet in August: How Nepal came around, planned Balen Shah visit",
+      "description": "Foreign-Secretary-Vikram-Misri-with-Nepal-Prime-Minister-Balendra-Shah-in-Kathmandu-on-Thursday.-ANI_20261122063521.jpg",
+      "link": "https://indianexpress.com/article/india/nepal-pm-balen-shah-india-visit-diplomatic-reset-quiet-diplomacy-10973532/",
+      "published": "2026-11-22T06:37+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T00:10+00:00"
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "118 children fall ill after eating chowmein at Madhya Pradesh village fair, 45 admitted to hospital",
+      "description": "mp chowmein ill",
+      "link": "https://indianexpress.com/article/india/over-100-children-12-adults-hospitalised-suspected-food-poisoning-chowmein-balaghat-fair-10973499/",
+      "published": "2026-11-22T06:26+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
-      "description": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
-      "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T00:10+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "How a teen gamer and his mother helped rescue a missing girl",
-      "description": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T00:09+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Employers are being asked to give interview feedback - here's what applicants want",
-      "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T00:04+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Will COP31 end with a new global climate deal?",
-      "description": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
-      "link": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T22:44+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T22:19+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Lock of former US President George Washington's hair sells for $4,000",
-      "description": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
-      "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T22:01+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Hormuz swim highlights environmental cost of war",
-      "description": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.",
-      "link": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T16:12+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T13:17+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "How red squirrels made island their home",
-      "description": "Conservationists say that, with red squirrels dwindling in the UK, Jersey is an \"important refuge\".",
-      "link": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T12:18+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Sessions offer advice on rising energy costs",
-      "description": "A council is urging people to seek support with rising energy costs on heating this winter.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T12:09+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T10:26+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T09:40+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Trafalgar Square Christmas tree felled in Norway",
-      "description": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T08:10+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "description": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T08:10+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "description": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T04:34+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-      "description": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T01:02+00:00"
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "GST officer throws Rs 1.5 lakh ‘bribe’ into drain on seeing ACB team",
+      "description": "bribe",
+      "link": "https://indianexpress.com/article/india/chhattisgarh-gst-officer-throw-rs-1-5-lakh-bribe-into-drain-acb-trap-kanker-10973509/",
+      "published": "2026-11-22T06:17+00:00"
     },
     {
       "category": "Technology",
-      "source": "BBC News",
-      "title": "Tech Now",
-      "description": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T01:00+00:00"
+      "source": "The Indian Express",
+      "title": "Why is Apple’s NameDrop feature at centre of Rs 1500-crore lawsuit in India?",
+      "description": "Apple NameDrop lawsuit",
+      "link": "https://indianexpress.com/article/technology/tech-news-technology/apple-namedrop-feature-lawsuit-india-10973502/",
+      "published": "2026-11-22T06:04+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "ANC fights to keep control of South Africa's key cities after election setback",
-      "description": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
-      "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T00:34+00:00"
+      "category": "India",
+      "source": "The Indian Express",
+      "title": "Last local terrorist killed in Kashmir. Why security forces aren’t celebrating",
+      "description": "lateef (2)",
+      "link": "https://indianexpress.com/article/india/kashmirs-last-local-terrorist-what-lateef-bhats-killing-means-for-security-forces-in-the-valley-10973429/",
+      "published": "2026-11-22T04:52+00:00"
     },
     {
       "category": "Technology",
-      "source": "BBC News",
-      "title": "Can AI really help spot Black Friday deals? We put it to the test",
-      "description": "We put four AI models to the test to see if they could save us money on a new TV.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T00:06+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-      "description": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
-      "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T00:01+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
-      "description": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T23:28+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
-      "description": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T23:20+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US declassifies more UFO footage filmed in the Middle East",
-      "description": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
-      "link": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T23:15+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-      "description": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-      "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T23:08+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
-      "description": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
-      "link": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T22:57+00:00"
+      "source": "The Indian Express",
+      "title": "GTA VI shatters records with $3.8 billion in first-day sales",
+      "description": "GTA-6-20231205",
+      "link": "https://indianexpress.com/article/technology/gaming/gta-vi-shatters-records-with-3-8-billion-in-first-day-sales-10973397/",
+      "published": "2026-11-22T04:07+00:00"
     },
     {
       "category": "Technology",
-      "source": "BBC News",
-      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-      "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T22:53+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T22:42+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T22:37+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "What the new UK-EU deal could mean for future post-Brexit relations",
-      "description": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
-      "link": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T21:43+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T20:54+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-      "description": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-      "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T19:27+00:00"
+      "source": "The Indian Express",
+      "title": "YouTube nears $3 billion settlement with US school districts over addiction claims: Report",
+      "description": "YouTube logo",
+      "link": "https://indianexpress.com/article/technology/tech-news-technology/youtube-nears-3-billion-settlement-with-us-school-districts-over-addiction-claims-report-10973389/",
+      "published": "2026-11-22T04:02+00:00"
     },
     {
       "category": "Technology",
-      "source": "BBC News",
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "description": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T19:03+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-      "description": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
-      "link": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T18:48+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T17:49+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-      "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
-      "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T16:41+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Could you spot a fake banknote?",
-      "description": "A landlord says he took £100 in fake banknotes during his pub's opening weekend.",
-      "link": "https://www.bbc.co.uk/news/videos/c6808y974d13o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T15:40+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "The secret cyber scramble to protect UK fridge freezers",
-      "description": "A behind the scenes cyber-security operation has taken place to secure tens of thousands of refrigeration units from hackers, the BBC has learned.",
-      "link": "https://www.bbc.co.uk/news/videos/cqpv94x1zj89o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T15:08+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Thousands join cost of living protests across Europe",
-      "description": "Student-led protests have swept across Europe in response to the rising cost of living, housing shortages and underfunded education.",
-      "link": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T14:43+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "What are heat pumps and how much do they cost?",
-      "description": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
-      "link": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T10:24+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-      "description": "People stocking up on long-life food drove retail sales higher October, according to official data.",
-      "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T09:44+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Should AI be judging our credit worthiness?",
-      "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-      "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T07:32+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Wildlife conservation cash targets ex-colliery sites",
-      "description": "The project aims to create and restore habitats for amphibians and lizards at sites in Yorkshire.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T06:21+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "More climate money for Africa? Europe says use what's already pledged",
-      "description": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
-      "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T05:03+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-      "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T00:02+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "How did Anthropic's stock market debut unfold?",
-      "description": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
-      "link": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T23:52+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T23:33+00:00"
+      "source": "The Indian Express",
+      "title": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise",
+      "description": "Oracle",
+      "link": "https://indianexpress.com/article/technology/tech-news-technology/oracle-says-openai-infrastructure-deal-is-fully-funded-after-final-capital-raise-10973381/",
+      "published": "2026-11-22T03:58+00:00"
     },
     {
       "category": "India",
-      "source": "BBC News: India",
-      "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
-      "description": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
-      "link": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T23:29+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "BBC Inside Science",
-      "description": "SpaceX is on the verge of making space affordable.",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T21:00+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Dutch watchdog tells people not to buy AI smart glasses",
-      "description": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
-      "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T16:33+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
-      "description": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T15:58+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Wading bird called Phil tracked in epic migration to Siberia and back",
-      "description": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back.",
-      "link": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T13:35+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
-      "description": "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.",
-      "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T12:26+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Indian driver wins $1.3m in life-changing lottery prize",
-      "description": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
-      "link": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T11:38+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-      "description": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
-      "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T09:21+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-      "description": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T02:59+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Who are the investors ready to jump on Anthropic?",
-      "description": "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday.",
-      "link": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T01:22+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
-      "description": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
-      "link": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T00:38+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "description": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T23:42+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
-      "description": "The Prince and Princess of Wales ended their three-day trip to India on Wednesday, the couple's first international tour since 2022.",
-      "link": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T22:32+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Torrential rain causes widespread flooding in South Florida",
-      "description": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports.",
-      "link": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T20:29+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "William and Kate meet PM Modi as they wrap up India tour",
-      "description": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
-      "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T20:07+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Europe plans to catch the next computer chip wave",
-      "description": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
-      "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T00:00+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "William and Kate on Earthshot Prize green carpet in Mumbai",
-      "description": "The pair arrived at the ceremony where five £1m prizes were awarded to projects aimed at solving climate challenges.",
-      "link": "https://www.bbc.co.uk/news/videos/c6x2ev29v87no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T21:15+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Tech Life",
-      "description": "Video gaming is huge - it's more lucrative than the movies and music combined.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T20:30+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Giant lunar sculpture has visitors over the moon",
-      "description": "People can see the 6m-wide sculpture in St Helier until 29 November.",
-      "link": "https://www.bbc.co.uk/news/articles/cm79213ngx45o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T12:04+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Gujarat riots gang-rape survivor 'heartbroken' after bail for two convicts",
-      "description": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
-      "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T09:27+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "The AI start-ups fixing India's broken roads and messy land records",
-      "description": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
-      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T23:25+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Prince and Princess of Wales play street cricket in Mumbai",
-      "description": "William and Catherine met locals on their visit to India, ahead of a meeting with Indian Prime Minister Narendra Modi later in the week.",
-      "link": "https://www.bbc.co.uk/news/videos/cmvg2nl8v22do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T08:13+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Pupils fascinated by space get astronomy lesson",
-      "description": "Pupils at First Tower School get a visit from a University of Cambridge astronomer.",
-      "link": "https://www.bbc.co.uk/news/articles/c67428w9vvkqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T06:11+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Is India rethinking its short-term military recruitment scheme?",
-      "description": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T00:41+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "SpaceX catches part of its Starship rocket on return to Earth",
-      "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-      "link": "https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T23:15+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-      "description": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\".",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T22:15+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Tech Now",
-      "description": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T01:00+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-      "description": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
-      "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T23:11+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-      "description": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-      "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T12:22+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "BBC Inside Science",
-      "description": "China: climate saviour or global villain?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct978l?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T21:00+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-      "description": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T17:11+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Was Delhi pollution data during Diwali misleading?",
-      "description": "BBC Verify analysis indicates missing data led official Diwali pollution figures to be lower than they should be.",
-      "link": "https://www.bbc.co.uk/news/articles/c30rkwpxdx50o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T09:01+00:00"
+      "source": "The Indian Express",
+      "title": "India News Live Updates, 22 November 2026: Government using religious divisions to divert attention from livelihood issues: CJP’s Dipke",
+      "description": "dipke_20261009120802_20261017111816.jpg",
+      "link": "https://indianexpress.com/article/india/india-breaking-news-today-live-updates-22-november-2026-delhi-mumbai-weather-pollution-gujarat-rajasthan-accident-10973332/",
+      "published": "2026-11-22T03:36+00:00"
     }
   ],
-  "feeds_with_errors": [
-    "The Indian Express (India): HTTP Error 403: Forbidden",
-    "The Indian Express (Technology): HTTP Error 403: Forbidden",
-    "The Indian Express (Science): HTTP Error 403: Forbidden",
-    "The Indian Express (Business): HTTP Error 403: Forbidden"
-  ]
+  "feeds_with_errors": []
 }
