@@ -1,13 +1,237 @@
 {
-  "updated_at": "2026-11-25T14:32:10+00:00",
+  "updated_at": "2026-11-26T00:29:22+00:00",
   "items": [
     {
-      "category": "India",
-      "source": "BBC News: India",
+      "category": "World",
+      "source": "BBC News",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "description": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T00:23+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "What UK season changes mean for you",
+      "description": "Frosts will become less common and hot summer days more frequent in the UK, the Met Office says.",
+      "link": "https://www.bbc.co.uk/weather/videos/c804wd3wwqpyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T00:14+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
+      "description": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
+      "link": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T00:08+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "description": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T00:07+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+      "description": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
+      "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T00:01+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Images from Earth's asteroid defence test reveal new crater",
+      "description": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says.",
+      "link": "https://www.bbc.co.uk/news/videos/cmjwjnxp2jgno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T23:20+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "description": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T22:18+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "description": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T21:51+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US stocks fall further as fears over AI intensify",
+      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T21:43+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "description": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T21:31+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+      "description": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says.",
+      "link": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T20:11+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "description": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+      "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T19:47+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "What we know about Trump's Thanksgiving tariffs",
+      "description": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+      "link": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T19:38+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Two children among six dead after plane crash off Mississippi coast",
+      "description": "Divers found the bodies of three adult, one teenager aged 16, and two boys, aged 12 and 10, in the wreckage.",
+      "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T19:26+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+      "description": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong.",
+      "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T18:41+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Martin Lewis' tips on staying warm this winter",
+      "description": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+      "link": "https://www.bbc.co.uk/news/videos/cjr4gw12k2lwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T17:59+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "description": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T17:30+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Energy price increase 'could put me in hospital'",
+      "description": "People on Teesside share their views on the news energy bills are expected to increase by 26%.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1g42x2wzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T17:26+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "What's gone wrong at Poundland?",
+      "description": "Poundland has collapse into administration. Why?",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T17:00+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Scots react to news of rising energy prices",
+      "description": "Scots describe how an increase in energy bills will affect them.",
+      "link": "https://www.bbc.co.uk/news/videos/cmqlq07d71yko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T16:56+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "description": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+      "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T16:42+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Why has Poundland collapsed and what happens next?",
+      "description": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
+      "link": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T16:24+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "US announces new tariffs on host of countries including China",
-      "description": "The new levies would hit many of America's trading partners, including India.",
+      "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
       "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T13:49+00:00"
+      "published": "2026-11-25T16:21+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+      "description": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+      "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T15:42+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Canadian astronaut welcomes baby girl from space station",
+      "description": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
+      "link": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T15:41+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "description": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T14:46+00:00"
+    },
+    {
+      "category": "Science",
+      "source": "BBC News",
+      "title": "New York's annual Thanksgiving Parade threatened by approaching storm",
+      "description": "Strong winds and heavy rain are expected to impact celebrations across the USA, with the risk that the famous Macy's Thanksgiving Day parade could be impacted.",
+      "link": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T14:41+00:00"
+    },
+    {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Fuel price hike will make life 'almost impossible'",
+      "description": "The Fuel Bank Foundation says many homes are already cutting back and struggling with bills.",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrgqknw0jlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T14:37+00:00"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+      "description": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T14:06+00:00"
     },
     {
       "category": "Business",
@@ -16,38 +240,6 @@
       "description": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
       "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T13:42+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Why are bills going up?",
-      "description": "BBC correspondent Colletta Smith explains the January increase.",
-      "link": "https://www.bbc.co.uk/news/videos/cm3wg47gnjnno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T13:24+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "My husband lives off sandwiches due to energy costs",
-      "description": "A woman already in energy debt says anxiety is \"through the roof\" over further increases.",
-      "link": "https://www.bbc.co.uk/news/videos/c539gz4nmjm9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T13:14+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Salon owner's chore woes prompt idea for new app",
-      "description": "A salon owner sets up a skill-swapping app after she and clients were \"moaning\" about chores and admin.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jren0308xzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T13:04+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
-      "description": "His deportation to and return from El Salvador became a flashpoint in the debate the US president's immigration agenda.",
-      "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T12:42+00:00"
     },
     {
       "category": "World",
@@ -66,28 +258,12 @@
       "published": "2026-11-25T12:21+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-      "description": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-      "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T12:20+00:00"
-    },
-    {
       "category": "Business",
       "source": "BBC News",
       "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
       "description": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
       "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T12:12+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-      "description": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
-      "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T11:45+00:00"
     },
     {
       "category": "World",
@@ -122,6 +298,14 @@
       "published": "2026-11-25T10:11+00:00"
     },
     {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Protesters call on Israel to free Palestinian student held without charge",
+      "description": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
+      "link": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T10:03+00:00"
+    },
+    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
@@ -148,42 +332,10 @@
     {
       "category": "Science",
       "source": "BBC News",
-      "title": "Why China has sent Pakistan's first astronaut into space",
-      "description": "China launched its Shenzhou-24 space mission on Wednesday carrying three astronauts to its Tiangong space station, including Pakistan's Muhammad Zeeshan Ali, the first foreigner to join a Chinese crewed space mission.",
-      "link": "https://www.bbc.co.uk/news/videos/c3702x9ejk5ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T09:37+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
-      "description": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T07:26+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Two children among six dead after plane crash off Mississippi coast",
-      "description": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
-      "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T07:08+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
       "title": "Huge fly-tip grew undetected over several months",
       "description": "The council says the 20-tonne pile of rubbish was dumped over garden fences.",
       "link": "https://www.bbc.co.uk/news/articles/cqzjr4m9ljzxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T06:14+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
-      "description": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T06:00+00:00"
     },
     {
       "category": "Science",
@@ -194,7 +346,7 @@
       "published": "2026-11-25T04:46+00:00"
     },
     {
-      "category": "World",
+      "category": "Technology",
       "source": "BBC News",
       "title": "US attorney general dodges questions about Nvidia investigation",
       "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
@@ -208,14 +360,6 @@
       "description": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
       "link": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T03:28+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
-      "description": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T03:15+00:00"
     },
     {
       "category": "World",
@@ -314,20 +458,20 @@
       "published": "2026-11-24T22:07+00:00"
     },
     {
+      "category": "Business",
+      "source": "BBC News",
+      "title": "Business Daily",
+      "description": "Grant LaFontaine explains how selling Pokémon cards inspired a billion-dollar business",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct98sy?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T21:30+00:00"
+    },
+    {
       "category": "Technology",
       "source": "BBC News",
       "title": "Tech Life",
       "description": "Experts from around the world plot the progress of AI development every five years.",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T21:00+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Will I get the £100 energy payment and when will I receive it?",
-      "description": "Here is what you need to know about the payment that millions will receive from January.",
-      "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T20:16+00:00"
     },
     {
       "category": "Technology",
@@ -338,8 +482,8 @@
       "published": "2026-11-24T18:21+00:00"
     },
     {
-      "category": "World",
-      "source": "BBC News",
+      "category": "India",
+      "source": "BBC News: India",
       "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
       "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
       "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
@@ -354,36 +498,12 @@
       "published": "2026-11-24T16:47+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Four generations of a family working in one factory",
-      "description": "Four generations of the Avis family have now worked at Sweetnam & Bradley in Malmesbury.",
-      "link": "https://www.bbc.co.uk/news/videos/ck7v2r6j1yl3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T16:42+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "Record 5,200 heat-linked deaths estimated in England this year",
       "description": "The UK Health Security Agency says this year's number of deaths is twice that of the previous record year.",
       "link": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T16:22+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "description": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T15:35+00:00"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "description": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T15:17+00:00"
     },
     {
       "category": "India",
@@ -394,36 +514,12 @@
       "published": "2026-11-24T14:52+00:00"
     },
     {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "World Cup drove profits surge, says Marston's",
-      "description": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
-      "link": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T13:03+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
-      "description": "Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends.",
-      "link": "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T11:40+00:00"
-    },
-    {
       "category": "Science",
       "source": "BBC News",
       "title": "Delia Smith joins opponents of £1.2bn data centre",
       "description": "The TV cook and author is worried about the environmental impact of the proposed Keswick facility.",
       "link": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T11:04+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "description": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T10:53+00:00"
     },
     {
       "category": "Technology",
@@ -476,22 +572,6 @@
     {
       "category": "Business",
       "source": "BBC News",
-      "title": "The shake-up facing renters as a new kind of landlord emerges",
-      "description": "Companies building flats that they then rent out could usher in big changes for renters.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T00:28+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
-      "description": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
-      "link": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T00:11+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
       "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
       "description": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
       "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
@@ -504,14 +584,6 @@
       "description": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
       "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23T23:16+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
-      "description": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
-      "link": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T21:40+00:00"
     },
     {
       "category": "Technology",
@@ -528,14 +600,6 @@
       "description": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
       "link": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23T18:49+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
-      "description": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
-      "link": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T18:43+00:00"
     },
     {
       "category": "Science",
@@ -560,14 +624,6 @@
       "description": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
       "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23T15:49+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "Nvidia reinstates CEO after affair with alleged spy",
-      "description": "Senior US government officials backed Nvidia's decision to reinstate Jensen Huang, the company says in a statement.",
-      "link": "https://www.bbc.co.uk/news/videos/cqze7lwdglngo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T14:51+00:00"
     },
     {
       "category": "Technology",
@@ -744,62 +800,6 @@
       "description": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
       "link": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16T00:41+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-      "description": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\".",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T22:15+00:00"
-    },
-    {
-      "category": "Technology",
-      "source": "BBC News",
-      "title": "Tech Now",
-      "description": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T01:00+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-      "description": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
-      "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T23:11+00:00"
-    },
-    {
-      "category": "Business",
-      "source": "BBC News",
-      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-      "description": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-      "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T12:22+00:00"
-    },
-    {
-      "category": "Science",
-      "source": "BBC News",
-      "title": "BBC Inside Science",
-      "description": "China: climate saviour or global villain?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct978l?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T21:00+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "Was Delhi pollution data during Diwali misleading?",
-      "description": "BBC Verify analysis indicates missing data led official Diwali pollution figures to be lower than they should be.",
-      "link": "https://www.bbc.co.uk/news/articles/c30rkwpxdx50o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T09:01+00:00"
-    },
-    {
-      "category": "India",
-      "source": "BBC News: India",
-      "title": "New mega library rocked by scandal over 'AI-generated books'",
-      "description": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
-      "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T11:33+00:00"
     }
   ],
   "feeds_with_errors": [
